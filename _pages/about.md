@@ -94,8 +94,10 @@ My research areas include:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CMRxRecon2024-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *2024.10* [[MICCAI 2024 CMRxRecon Challenge]](https://cmrxrecon.github.io/2024/Home.html) We are `Top 6` in Task 1: Multi-contrast CMR reconstruction.
-We are `Top 5` in Task 2: Random sampling CMR reconstruction. [[Certification]](https://www.synapse.org/Synapse:syn54951257/wiki/629859) 
+- *2024.10* [[MICCAI 2024 CMRxRecon Challenge]](https://cmrxrecon.github.io/2024/Home.html)
+  We are `Top 6` in Task 1: Multi-contrast CMR reconstruction.
+  We are `Top 5` in Task 2: Random sampling CMR reconstruction.
+  [[Certification]](https://www.synapse.org/Synapse:syn54951257/wiki/629859) 
 
 </div>
 </div>
