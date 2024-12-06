@@ -17,8 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+I am a PhD student at Istanbul Technical University, Computer Engineering, where I have studied since 2021. My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is Ilkay Oksuz.
+From 2018 to 2020, I was an exchange student at the Lab of Interactive Media Computing at Fudan University. During this time, my research interests centered on object detection and semantic segmentation, working under the guidance of Professor Cheng Jin.
+In 2020, I received my Master's degree in Engineering Computer Software and Theory. I pursued my Master's studies at the SICT(Shanghai Institute of Computing Technology) from 2017 to 2020, with a research direction in computer vision. My professor is Xinli Min.
+During my Master's studies, I also interned at Shanghai Shen Teng Technology Co., Ltd. from 2017 to 2020. My work there involved contributing to smart city-related projects.
+I earned my Bachelor's degree in Computer Science and Technology in 2016.。包括合著，我已经发表 20+ 篇学术论文
+ <a href='https://scholar.google.com/citations?user=JM_78WgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
 - 仪器仪表
