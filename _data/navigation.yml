@@ -1,19 +1,19 @@
 # main links links
 main:
-  - title: "简介"
-    url: "/zh-cn/#about-me"
+  - title: "Introduction"
+    url: "/ruru-xu/#about-me"
 
-  - title: "学历"
-    url: "/zh-cn/#-xl"
+  - title: "Education"
+    url: "/ruru-xu/#-xl"
 
-  - title: "论文专利"
-    url: "/zh-cn/#-lwzl"
+  - title: "Publications"
+    url: "/ruru-xu/#-lwzl"
 
-  - title: "荣誉奖项"
-    url: "/zh-cn/#-ryjx"
+  - title: "Certification"
+    url: "/ruru-xu/#-ryjx"
 
-  - title: "学术会议"
-    url: "/zh-cn/#-xshy"
+  - title: "Academic Conference"
+    url: "/ruru-xu/#-xshy"
 
-  - title: "工作实习"
-    url: "/zh-cn/#-gzsx"
+  - title: "Work Experience"
+    url: "/ruru-xu/#-gzsx"
