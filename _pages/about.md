@@ -62,7 +62,7 @@ My research areas include:
 <div class='paper-box-text' markdown="1">
 
 -	`Xu, Ruru`, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024)
-[[Online]](https://arxiv.org/abs/2410.03624) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR)
+  [[Online]](https://arxiv.org/abs/2410.03624) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR)
 
 </div>
 </div>
@@ -72,7 +72,7 @@ My research areas include:
 <div class='paper-box-text' markdown="1">
 
 -	`Xu, Ruru`, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022)
-[[Online]](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31) [[Video]](https://www.youtube.com/watch?v=f32xa3Vds3o) | Citations: 2
+  [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31) [[Video]](https://www.youtube.com/watch?v=f32xa3Vds3o) | Citations: 2
 
 </div>
 </div>
@@ -82,7 +82,7 @@ My research areas include:
 <div class='paper-box-text' markdown="1">
 
 -	`Xu, Ruru`, Jungang An, Liandeng Su, and Xinli Min. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019.
-[[Online]](https://ieeexplore.ieee.org/abstract/document/9006506) | Citations: 2
+  [[Online]](https://ieeexplore.ieee.org/abstract/document/9006506) | Citations: 2
 
 </div>
 </div>
