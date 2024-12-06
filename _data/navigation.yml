@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "About me"
-    url: "/ruru-xu/#about-me"
+    url: "/ruru-xu/#main"
 
   - title: "Education"
-    url: "/ruru-xu/#-xl"
+    url: "/ruru-xu/#-education"
 
   - title: "Publications"
-    url: "/ruru-xu/#-lwzl"
+    url: "/ruru-xu/#-publications"
 
   - title: "Certification"
-    url: "/ruru-xu/#-ryjx"
+    url: "/ruru-xu/#-certification"
 
   - title: "Academic Conference"
-    url: "/ruru-xu/#-xshy"
+    url: "/ruru-xu/#-academic-conference"
 
   - title: "Work Experience"
-    url: "/ruru-xu/#-gzsx"
+    url: "/ruru-xu/#-work-experience"
