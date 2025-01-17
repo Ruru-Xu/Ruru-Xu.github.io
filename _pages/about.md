@@ -73,20 +73,19 @@ My research areas include:
 </div>
 </div>
 
-
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 -	`Xu, Ruru`, Jungang An, Liandeng Su, and Xinli Min. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019.
   [[Online]](https://ieeexplore.ieee.org/abstract/document/9006506) | Citations: 2
+</div>
 </div>
 
 
 ### Thesis
 ---
 <div class='paper-box-text' markdown="1">
-
 -	Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision
   [[Online]](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1021521998.nh&uniplatform=OVERSEA&v=1mKWbzyM1RA2069qUjrH98S7LHHip8KOCXlh8GfkcqZJAEF2V2My6eNROWkmA2id) [[Video]](https://www.youtube.com/watch?v=f32xa3Vds3o) | Master's Theses, Chinese Master's Theses Full-text Database · Mar 2, 2020 | Cited by 2, Downloaded by 196
-
 </div>
 
 
