@@ -78,13 +78,9 @@ My research areas include:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Big Data 2019</div></div></div>
 <div class='paper-box-text' markdown="1">
-
 -	`Xu, Ruru`, Jungang An, Liandeng Su, and Xinli Min. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019.
   [[Online]](https://ieeexplore.ieee.org/abstract/document/9006506) | Citations: 2
-
-</div>
 </div>
 
 
