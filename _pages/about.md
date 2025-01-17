@@ -45,9 +45,11 @@ My research areas include:
 
 ### Journal Papers
 ---
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 -	`Xu, Ruru`, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (JCR:Q1; IF:4.2)  
 [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 1
+</div>
 </div>
 
 
