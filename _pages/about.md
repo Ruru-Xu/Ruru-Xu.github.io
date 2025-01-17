@@ -61,7 +61,7 @@ My research areas include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2024paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xu, Ruru`, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024)
+-	`Xu, Ruru`, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge)
   [[Online]](https://arxiv.org/abs/2410.03624) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR)
 
 </div>
@@ -71,7 +71,7 @@ My research areas include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/miccai2022paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xu, Ruru`, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022)
+-	`Xu, Ruru`, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop)
   [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31) [[Video]](https://www.youtube.com/watch?v=f32xa3Vds3o) | Citations: 2
 
 </div>
@@ -86,6 +86,17 @@ My research areas include:
 
 </div>
 </div>
+
+
+### Thesis
+---
+<div class='paper-box-text' markdown="1">
+
+-	Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision
+  [[Online]](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1021521998.nh&uniplatform=OVERSEA&v=1mKWbzyM1RA2069qUjrH98S7LHHip8KOCXlh8GfkcqZJAEF2V2My6eNROWkmA2id) [[Video]](https://www.youtube.com/watch?v=f32xa3Vds3o) | Master's Theses, Chinese Master's Theses Full-text Database · Mar 2, 2020
+
+</div>
+
 
 
 <span class='anchor' id='-ryjx'></span>
@@ -114,3 +125,6 @@ My research areas include:
 
 # 💻 Work Experience
 - *2017.09 - 2020.03*, Shanghai Shen Teng Technology Co., Ltd. Student Intern, Working on smart city related projects in the R&D department
+
+# TOEFL score 
+- *Score: 108 · Jan 2021*, Reading:28, Listening:26, Speaking:24, Writing:30
