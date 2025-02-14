@@ -87,7 +87,7 @@ My research areas include:
 ---
 <div class='paper-box-text' markdown="1">
 -	Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision
-  [[Online]](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1021521998.nh&uniplatform=OVERSEA&v=1mKWbzyM1RA2069qUjrH98S7LHHip8KOCXlh8GfkcqZJAEF2V2My6eNROWkmA2id)  Master's Theses, Chinese Master's Theses Full-text Database · Mar 2, 2020 | Cited by 2, Downloaded by 196
+  [[Online]](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1021521998.nh&uniplatform=OVERSEA&v=1mKWbzyM1RA2069qUjrH98S7LHHip8KOCXlh8GfkcqZJAEF2V2My6eNROWkmA2id)  Master's Theses, Chinese Master's Theses Full-text Database · Mar 2, 2020 | Cited by 3, Downloaded by 199
 </div>
 
 
