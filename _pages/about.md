@@ -47,11 +47,10 @@ My research areas include:
 ---
 <div class='paper-box'>
 <div class='anchor' markdown="1">
--	`Xu, Ruru`, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; Impact Factor:4.2; CiteScore:8.5)  
-[[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 1
+-	`Xu, Ruru`, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; Impact Factor:4.2; CiteScore:8.5)  [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 1
 </div>
 
-  <div class='paper-box-text' markdown="1">
+  <div class='anchor' markdown="1">
 -	`Xu, Ruru`, and Ilkay Oksuz. "just Accepted, Available online very soon" (Q1; Impact Factor:5.5; CiteScore:13.1)  
 </div>
 
@@ -81,7 +80,7 @@ My research areas include:
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+<div class='anchor' markdown="1">
 -	`Xu, Ruru`, Jungang An, Liandeng Su, and Xinli Min. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019.
   [[Online]](https://ieeexplore.ieee.org/abstract/document/9006506) | Citations: 2
 </div>
