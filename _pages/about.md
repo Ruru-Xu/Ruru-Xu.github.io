@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at Istanbul Technical University, Computer Engineering, where I have studied since 2021. My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is Ilkay Oksuz.
+I am a PhD student at Istanbul Technical University, Computer Engineering, where I have studied since 2021. I work as a researcher in the 2232 International Fellowship for Outstanding Researchers Program of TUBITAK (Project No: 118C353). My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is Ilkay Oksuz.
 From 2018 to 2020, I was an exchange student at the Lab of Interactive Media Computing at Fudan University. During this time, my research interests centered on object detection and semantic segmentation, working under the guidance of Professor Cheng Jin.
 In 2020, I received my Master's degree in Engineering Computer Software and Theory. I pursued my Master's studies at the SICT(Shanghai Institute of Computing Technology) from 2017 to 2020, with a research direction in computer vision. My professor is Xinli Min.
 During my Master's studies, I also interned at Shanghai Shen Teng Technology Co., Ltd. from 2017 to 2020. My work there involved contributing to smart city-related projects.
@@ -50,6 +50,11 @@ My research areas include:
 -	`Xu, Ruru`, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; Impact Factor:4.2; CiteScore:8.5)  
 [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 1
 </div>
+
+  <div class='paper-box-text' markdown="1">
+-	`Xu, Ruru`, and Ilkay Oksuz. "just Accepted, Available online very soon" (Q1; Impact Factor:5.5; CiteScore:13.1)  
+</div>
+
 </div>
 
 
