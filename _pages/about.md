@@ -46,14 +46,22 @@ My research areas include:
 ### Journal Papers
 ---
 <div class='paper-box'>
+
 <div class='anchor' markdown="1">
--	`Xu, Ruru`, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; Impact Factor:4.2; CiteScore:8.5)  
+-	`Xu, Ruru`, and Ilkay Oksuz. "just Accepted, Available online very soon" (Q1; IF:5.5; CiteScore:13.1)  
+</div>
+
+<div class='anchor' markdown="1">
+-	Fanwen Wang,..etc... `Xu, Ruru, and Ilkay Oksuz`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Top Journal: TMI; IF:8.9; CiteScore:21.8)  
+  [[online]](https://arxiv.org/abs/2503.03971)
+</div>
+
+<div class='anchor' markdown="1">
+-	`Xu, Ruru`, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2; CiteScore:8.5)  
   [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 1
 </div>
 
-  <div class='anchor' markdown="1">
--	`Xu, Ruru`, and Ilkay Oksuz. "just Accepted, Available online very soon" (Q1; Impact Factor:5.5; CiteScore:13.1)  
-</div>
+
 
 </div>
 
