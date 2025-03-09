@@ -65,7 +65,7 @@ My research areas include:
 <div class='paper-box-text' markdown="1">
 
 -	`Xu, Ruru`, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge)
-  [[Online]](https://arxiv.org/abs/2410.03624) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR)
+  [[Online]](https://arxiv.org/abs/2410.03624) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR) | Citations: 1
 
 </div>
 </div>
