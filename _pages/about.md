@@ -48,11 +48,11 @@ My research areas include:
 <div class='paper-box'>
 
 <div class='anchor' markdown="1">
--	`Xu, Ruru`, and Ilkay Oksuz. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity.” Neurocomputing (2025). (Q1; IF:5.5; CiteScore:13.1)  just Accepted, Available online very soon
+-	`Xu, Ruru`, and Ilkay Oksuz. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity.” Neurocomputing (2025). (Q1; IF:5.5; CiteScore:13.1) Accepted, Available online very soon
 </div>
 
 <div class='anchor' markdown="1">
--	Fanwen Wang,..etc... `Xu, Ruru, and Ilkay Oksuz`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Top Journal; IF:8.9; CiteScore:21.8)  (Submitted to TMI; Under Review)
+-	Fanwen Wang,..etc... `Xu, Ruru, and Ilkay Oksuz`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Submitted to Top Journal: TPAMI; IF:20.8; CiteScore:28.4)
   [[online]](https://arxiv.org/abs/2503.03971)
 </div>
 
