@@ -3,17 +3,17 @@ main:
   - title: "My CV"
     url: "CV_Ruru.pdf"
 
-  - title: "Education"
-    url: "/ruru-xu/#-education"
+  # - title: "Education"
+  #   url: "/ruru-xu/#-education"
 
-  - title: "Publications"
-    url: "/ruru-xu/#-publications"
+  # - title: "Publications"
+  #   url: "/ruru-xu/#-publications"
 
-  - title: "Certification"
-    url: "/ruru-xu/#-certification"
+  # - title: "Certification"
+  #   url: "/ruru-xu/#-certification"
 
-  - title: "Academic Conference"
-    url: "/ruru-xu/#-academic-conference"
+  # - title: "Academic Conference"
+  #   url: "/ruru-xu/#-academic-conference"
 
-  - title: "Work Experience"
-    url: "/ruru-xu/#-work-experience"
+  # - title: "Work Experience"
+  #   url: "/ruru-xu/#-work-experience"
