@@ -18,10 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a PhD student at Istanbul Technical University, Computer Engineering, where I have studied since 2021. I work as a researcher in the 2232 International Fellowship for Outstanding Researchers Program of TUBITAK (Project No: 118C353). My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is [Ilkay Oksuz](https://drive.google.com/file/d/1HO0SB8UNbSZ3Pqn97XBQZtE-UhqxmA1x/view).
+
 From 2018 to 2020, I was an exchange student at the Lab of Interactive Media Computing at Fudan University. During this time, my research interests centered on object detection and semantic segmentation, working under the guidance of Professor Cheng Jin.
+
 In 2020, I received my Master's degree in Engineering Computer Software and Theory. I pursued my Master's studies at the SICT(Shanghai Institute of Computing Technology) from 2017 to 2020, with a research direction in computer vision. My professor is Xinli Min.
 During my Master's studies, I also interned at Shanghai Shen Teng Technology Co., Ltd. from 2017 to 2020. My work there involved contributing to smart city-related projects.
+
 I earned my Bachelor's degree in Computer Science and Technology in 2016.
+
+Gap year: 2016~2017, Backpacker, traveling alone.
+
+Gap year: 2020~2021, Epidemic Volunteer
 
 My research areas include:
 - Medical Image Analysis
