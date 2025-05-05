@@ -55,21 +55,21 @@ My research areas include:
 <div class='paper-box'>
 
 <div class='anchor' markdown="1">
--	`Xu, Ruru`, and Ilkay Oksuz "Submitted to Pattern Recognition Letters" (Q1; IF:3.9; Under review)
+-	`Xu R`, Oksuz I. "One article submitted to Pattern Recognition Letters" (Q1; IF:3.9; Under review)
 </div>
 
 <div class='anchor' markdown="1">
--	Fanwen Wang,..etc... `Xu, Ruru, and Ilkay Oksuz`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Submitted to Top Journal: TPAMI; IF:20.8; CiteScore:28.4)
+-	Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Submitted to Top Journal: TPAMI; IF:20.8; CiteScore:28.4)
   [[online]](https://arxiv.org/abs/2503.03971)
 </div>
 
 <div class='anchor' markdown="1">
--	`Xu, Ruru`, and Ilkay Oksuz. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity.” Neurocomputing (2025). (Q1; IF:5.5; CiteScore:13.1) 
+-	`Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity.” Neurocomputing (2025). (Q1; IF:5.5; CiteScore:13.1) 
   [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) 
 </div>
 
 <div class='anchor' markdown="1">
--	`Xu, Ruru`, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2; CiteScore:8.5)  
+-	`Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2; CiteScore:8.5)  
   [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 2
 </div>
 
@@ -84,7 +84,7 @@ My research areas include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2024paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xu, Ruru`, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge)
+-	`Xu R`, Özer C, Oksuz I. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge)
   [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR) | Citations: 2
 
 </div>
@@ -94,7 +94,7 @@ My research areas include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/miccai2022paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xu, Ruru`, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop)
+-	`Xu R`, Oksuz I. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop)
   [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31) [[Video]](https://www.youtube.com/watch?v=f32xa3Vds3o) | Citations: 2
 
 </div>
@@ -102,7 +102,7 @@ My research areas include:
 
 <div class='paper-box'>
 <div class='anchor' markdown="1">
--	`Xu, Ruru`, Jungang An, Liandeng Su, and Xinli Min. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019.
+-	`Xu R`, An J, Su L, and Min X. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019.
   [[Online]](https://ieeexplore.ieee.org/abstract/document/9006506) | Citations: 2
 </div>
 </div>
