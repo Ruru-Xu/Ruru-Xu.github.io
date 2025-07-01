@@ -55,7 +55,7 @@ My research areas include:
 <div class='paper-box'>
 
 <div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "One article submitted to Pattern Recognition Letters" (Q1; IF:3.9; CiteScore:12.4 Under review)
+-	`Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." Pattern Recognition Letters (Q1; IF:3.9; CiteScore:12.4 Under Review)
 </div>
 
 <div class='anchor' markdown="1">
@@ -84,7 +84,15 @@ My research areas include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2024paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xu R`, Özer C, Oksuz I. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge)
+-	`Xu R`, Oksuz I. "Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning" (MICCAI 2025 STACOM Workshop) Under Review
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2024paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Xu R`, Özer C, Oksuz I. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 STACOM Workshop-CMRxRecon2024 Challenge)
   [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR) | Citations: 2
 
 </div>
