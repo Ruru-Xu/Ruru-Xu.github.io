@@ -21,10 +21,11 @@ I am a PhD student at Istanbul Technical University, Computer Engineering, where
 
 From 2018 to 2020, I was an exchange student at the Lab of Interactive Media Computing at Fudan University. During this time, I was working on projects related to autonomous driving, which involved object detection, pedestrian recognition, path planning, etc., working under the guidance of Professor Cheng Jin.
 
-In 2020, I received my Master's degree in Engineering Computer Software and Theory. I pursued my Master's studies at the SICT(Shanghai Institute of Computing Technology) from 2017 to 2020, with a research direction in computer vision. My professor is Xinli Min.
-During my Master's studies, I also interned at Shanghai Shen Teng Technology Co., Ltd. from 2017 to 2020. My work there involved contributing to smart city-related projects.
+From 2017 to 2020, I pursued my Master's studies at the SICT(Shanghai Institute of Computing Technology), with a research direction in computer vision. My professor is Xinli Min.
 
-I earned my Bachelor's degree in Computer Science and Technology in 2016.
+From 2017 to 2020, I interned at Shanghai Shen Teng Technology Co., Ltd. . My work there involved contributing to smart city-related projects.
+
+In 2016, I earned my Bachelor's degree in Computer Science and Technology.
 
 Gap year: 2016~2017, Backpacker, traveling alone.
 
