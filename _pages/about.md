@@ -135,7 +135,7 @@ My research areas include:
 - *2024.10* [[MICCAI 2024 CMRxRecon Challenge]](https://cmrxrecon.github.io/2024/Home.html)  
   We are `Top 6` in Task 1: Multi-contrast CMR reconstruction.  
   We are `Top 5` in Task 2: Random sampling CMR reconstruction.  
-  [[Certification]](https://www.synapse.org/Synapse:syn54951257/wiki/629859) 
+  [[Certification]](https://www.synapse.org/Synapse:syn54951257/wiki/630047) 
 
 </div>
 </div>
