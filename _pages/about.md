@@ -86,6 +86,7 @@ My research areas include:
 <div class='paper-box-text' markdown="1">
   
 -	`Xu R`, Oksuz I. "Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning" (MICCAI 2025 STACOM Workshop) Accepted, Available online very soon
+  
 </div>
 </div>
 
