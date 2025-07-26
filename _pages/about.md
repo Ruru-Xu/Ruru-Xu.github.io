@@ -82,34 +82,54 @@ My research areas include:
 
 ### Conference Papers
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/miccai2025paper1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: space-between;">
   
--	`Xu R`, Oksuz I. "Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning" (MICCAI 2025 STACOM Workshop) Accepted, Available online very soon
-  
+  <!-- MICCAI 2025 Paper -->
+  <div style="flex: 1; min-width: 300px; max-width: 32%;">
+    <div class='paper-box-image'>
+      <div>
+        <div class="badge">MICCAI 2025</div>
+        <img src='images/miccai2025paper1.png' alt="sym" width="100%">
+      </div>
+    </div>
+    <div class='paper-box-text' markdown="1" style="margin-top: 15px;">
+      - `Xu R`, Oksuz I. "Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning" (MICCAI 2025 STACOM Workshop) Accepted, Available online very soon
+    </div>
+  </div>
+
+  <!-- MICCAI 2024 Paper -->
+  <div style="flex: 1; min-width: 300px; max-width: 32%;">
+    <div class='paper-box-image'>
+      <div>
+        <div class="badge">MICCAI 2024</div>
+        <img src='images/miccai2024paper.png' alt="sym" width="100%">
+      </div>
+    </div>
+    <div class='paper-box-text' markdown="1" style="margin-top: 15px;">
+      - `Xu R`, Özer C, Oksuz I. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 STACOM Workshop-CMRxRecon2024 Challenge)
+      
+      [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR) | Citations: 2
+    </div>
+  </div>
+
+  <!-- MICCAI 2022 Paper -->
+  <div style="flex: 1; min-width: 300px; max-width: 32%;">
+    <div class='paper-box-image'>
+      <div>
+        <div class="badge">MICCAI 2022</div>
+        <img src='images/miccai2022paper.png' alt="sym" width="100%">
+      </div>
+    </div>
+    <div class='paper-box-text' markdown="1" style="margin-top: 15px;">
+      - `Xu R`, Oksuz I. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop)
+      
+      [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31) [[Video]](https://www.youtube.com/watch?v=f32xa3Vds3o) | Citations: 2
+    </div>
+  </div>
+
 </div>
-</div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2024paper.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Xu R`, Özer C, Oksuz I. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 STACOM Workshop-CMRxRecon2024 Challenge)
-  [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR) | Citations: 2
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/miccai2022paper.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Xu R`, Oksuz I. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop)
-  [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31) [[Video]](https://www.youtube.com/watch?v=f32xa3Vds3o) | Citations: 2
-
-</div>
-</div>
 
 <div class='paper-box'>
 <div class='anchor' markdown="1">
