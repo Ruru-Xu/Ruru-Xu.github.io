@@ -56,11 +56,11 @@ My research areas include:
 <div class='paper-box'>
 
 <div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." Pattern Recognition Letters (Q1; IF:3.9; CiteScore:12.4 Under Review)
+-	`Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." Pattern Recognition Letters (Q1; IF:3.9; CiteScore:12.4) Under Review
 </div>
 
 <div class='anchor' markdown="1">
--	Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Submitted to Top Journal: TPAMI; IF:20.8; CiteScore:28.4)
+-	Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Top Journal: Nature Machine Intelligence; IF:23.9) Under Review
   [[online]](https://arxiv.org/abs/2503.03971) | Citations: 1
 </div>
 
