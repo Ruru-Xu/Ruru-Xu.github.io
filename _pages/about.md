@@ -112,7 +112,7 @@ My research areas include:
     
 <div class='paper-box-text' markdown="1">
 
--	`Xu R`, Özer C, Oksuz I. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 STACOM Workshop-CMRxRecon2024 Challenge)
+-	`Xu R`, Özer C, Oksuz I. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 CMRxRecon Challenge paper)
 [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR) | Citations: 2
 
 </div>
