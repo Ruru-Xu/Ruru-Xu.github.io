@@ -70,7 +70,8 @@ My research areas include:
 </div>
 
 <div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2) [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 3
+-	`Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2) 
+  [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 3
 </div>
 
 
@@ -195,6 +196,7 @@ My research areas include:
 
 # TOEFL score 
 - *Score: 108 · Jan 2021*, Reading:28, Listening:26, Speaking:24, Writing:30
+
 
 
 
