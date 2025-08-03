@@ -51,6 +51,11 @@ My research areas include:
 
 # 💻 Work Experience
 - *2017.09 - 2020.03*, Shanghai Shen Teng Technology Co., Ltd. Student Intern, Working on smart city related projects in the R&D department
+
+<span class='anchor' id='-gzsx'></span>
+
+# 📋 TOEFL score 
+- *Score: 108 · Jan 2021*, Reading:28, Listening:26, Speaking:24, Writing:30
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -194,10 +199,6 @@ My research areas include:
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Online Presentation
 
-<span class='anchor' id='-gzsx'></span>
-
-# TOEFL score 
-- *Score: 108 · Jan 2021*, Reading:28, Listening:26, Speaking:24, Writing:30
 
 
 
