@@ -46,6 +46,11 @@ My research areas include:
 - *2018.04 - 2020.03*, <a href="https://www.fudan.edu.cn/en/"></a> Fudan University, Lab of Interactive Media Computing, Exchange learning
 - *2017.09 - 2020.03*, <a href="https://www.sh-sict.com/"></a> SICT(Shanghai Institute of Computing Technology), Engineering Computer Software and Theory, Master's Degree
 - *2012.09 - 2016.07*, <a href="https://english.lcu.edu.cn/"></a> Liaocheng University, Computer Science and Technology, Bachelor's degree
+
+<span class='anchor' id='-gzsx'></span>
+
+# 💻 Work Experience
+- *2017.09 - 2020.03*, Shanghai Shen Teng Technology Co., Ltd. Student Intern, Working on smart city related projects in the R&D department
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -191,11 +196,9 @@ My research areas include:
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 Work Experience
-- *2017.09 - 2020.03*, Shanghai Shen Teng Technology Co., Ltd. Student Intern, Working on smart city related projects in the R&D department
-
 # TOEFL score 
 - *Score: 108 · Jan 2021*, Reading:28, Listening:26, Speaking:24, Writing:30
+
 
 
 
