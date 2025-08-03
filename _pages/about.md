@@ -89,6 +89,22 @@ My research areas include:
     <div class='paper-box-image'>
       <div>
         <div class="badge">MICCAI 2025</div>
+        <img src='' alt="sym" width="100%">
+      </div>
+    </div>
+    
+<div class='paper-box-text' markdown="1">
+
+-	`Xu R`, Oksuz I. "HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters" (MICCAI 2025 CMRxRecon Challenge paper) Under Review
+
+</div>
+
+  
+  <!-- MICCAI 2025 Paper -->
+  <div style="flex: 1; min-width: 300px; max-width: 32%;">
+    <div class='paper-box-image'>
+      <div>
+        <div class="badge">MICCAI 2025</div>
         <img src='images/miccai2025paper1.png' alt="sym" width="100%">
       </div>
     </div>
@@ -187,6 +203,7 @@ My research areas include:
 
 # TOEFL score 
 - *Score: 108 · Jan 2021*, Reading:28, Listening:26, Speaking:24, Writing:30
+
 
 
 
