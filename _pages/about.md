@@ -89,7 +89,7 @@ My research areas include:
     <div class='paper-box-image'>
       <div>
         <div class="badge">MICCAI 2025</div>
-<!--         <img src='images/miccai2025paper1.png' alt="sym" width="100%"> -->
+        <img src='' alt="sym" width="100%">
       </div>
     </div>
     
@@ -204,4 +204,5 @@ My research areas include:
 
 # TOEFL score 
 - *Score: 108 · Jan 2021*, Reading:28, Listening:26, Speaking:24, Writing:30
+
 
