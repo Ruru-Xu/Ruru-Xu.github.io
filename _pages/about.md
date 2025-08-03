@@ -56,7 +56,7 @@ My research areas include:
 <div class='paper-box'>
 
 <div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." Pattern Recognition Letters (Q1; IF:3.9; CiteScore:12.4) Under Review
+-	`Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." Pattern Recognition Letters (Q1; IF:3.9) Under Review
 </div>
 
 <div class='anchor' markdown="1">
@@ -65,12 +65,12 @@ My research areas include:
 </div>
 
 <div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity.” Neurocomputing (2025). (Q1; IF:5.5; CiteScore:13.1) 
+-	`Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity.” Neurocomputing (2025). (Q1; IF:5.5) 
   [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) 
 </div>
 
 <div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2; CiteScore:8.5)  
+-	`Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2)  
   [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 3
 </div>
 
@@ -196,6 +196,7 @@ My research areas include:
 
 # TOEFL score 
 - *Score: 108 · Jan 2021*, Reading:28, Listening:26, Speaking:24, Writing:30
+
 
 
 
