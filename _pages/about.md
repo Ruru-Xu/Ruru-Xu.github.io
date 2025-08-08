@@ -115,7 +115,7 @@ My research areas include:
 <div class='paper-box-text' markdown="1">
 
 -	`Xu R`, Oksuz I. "Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning" (MICCAI 2025 STACOM Workshop) Accepted, Available online very soon
-[[Online]](http://arxiv.org/abs/2508.04727)
+[[Online]](http://arxiv.org/abs/2508.04727) [[Code]](https://github.com/Ruru-Xu/RL-kspace-Radial-Sampling)
 </div>
 
   </div>
@@ -198,6 +198,7 @@ My research areas include:
 # 🏛️ Academic Conference
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Online Presentation
+
 
 
 
