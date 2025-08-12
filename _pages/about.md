@@ -201,6 +201,25 @@ My research areas include:
 
 
 
+<span class='anchor' id='-xshy'></span>
+
+# 🔧  Enjoy Work
+
+<div style="flex: 1; min-width: 300px; max-width: 32%;">
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Life during Master's studies</div>
+      <video width="100%" controls>
+        <source src="video/work-life1.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+
+</div>
+
+
+
+
 
 
 
