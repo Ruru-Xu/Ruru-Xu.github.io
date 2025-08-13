@@ -81,7 +81,7 @@ My research areas include:
 
 <div class='anchor' markdown="1">
 -	`Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2) 
-  [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 3
+  [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 4
 </div>
 
 
@@ -216,6 +216,7 @@ My research areas include:
   </div>
 
 </div>
+
 
 
 
