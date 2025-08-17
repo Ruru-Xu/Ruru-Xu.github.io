@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "My CV"
+  - title: "<u>Click My CV</u>"
     url: "CV_Ruru.pdf"
 
   # - title: "Education"
@@ -17,3 +17,4 @@ main:
 
   # - title: "Work Experience"
   #   url: "/ruru-xu/#-work-experience"
+
