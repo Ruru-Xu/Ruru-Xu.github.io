@@ -42,10 +42,14 @@ My research areas include:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2021.03 - now*, <a href="https://www.itu.edu.tr/en"></a> Istanbul Technical University, Computer Engineering, PhD Candidate 
-- *2018.04 - 2020.03*, <a href="https://www.fudan.edu.cn/en/"></a> Fudan University, Lab of Interactive Media Computing, Exchange learning
-- *2017.09 - 2020.03*, <a href="https://www.sh-sict.com/"></a> SICT(Shanghai Institute of Computing Technology), Engineering Computer Software and Theory, Master's Degree
-- *2012.09 - 2016.07*, <a href="https://english.lcu.edu.cn/"></a> Liaocheng University, Computer Science and Technology, Bachelor's degree
+
+- *2021.03 - now*, <img src='images/itu-logo.png' width='20' height='20' /> <a href="https://www.itu.edu.tr/en">Istanbul Technical University</a>, Computer Engineering, PhD Candidate 
+
+- *2018.04 - 2020.03*, <img src='images/fudan-logo.png' width='20' height='20' /> <a href="https://www.fudan.edu.cn/en/">Fudan University</a>, Lab of Interactive Media Computing, Exchange learning
+
+- *2017.09 - 2020.03*, <img src='images/SICT-logo.png' width='20' height='20' /> <a href="https://www.sh-sict.com/">SICT(Shanghai Institute of Computing Technology)</a>, Engineering Computer Software and Theory, Master's degree
+
+- *2012.09 - 2016.07*, <img src='images/Liaocheng_University_logo.png' width='20' height='20' /> <a href="https://english.lcu.edu.cn/">Liaocheng University</a>, Computer Science and Technology, Bachelor's degree
 
 <span class='anchor' id='-gzsx'></span>
 
@@ -217,6 +221,7 @@ My research areas include:
   </div>
 
 </div>
+
 
 
 
