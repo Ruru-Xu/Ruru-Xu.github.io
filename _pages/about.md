@@ -49,7 +49,7 @@ My research areas include:
 
 - *2017.09 - 2020.03*, <img src='images/SICT-logo.png' width='20' height='20' /> <a href="https://www.sh-sict.com/">SICT(Shanghai Institute of Computing Technology)</a>, Engineering Computer Software and Theory, Master's degree
 
-- *2012.09 - 2016.07*, <img src='images/Liaocheng_University_logo.png' width='20' height='20' /> <a href="https://www.lcu.edu.cn/">Liaocheng University</a>, Computer Science and Technology, Bachelor's degree
+- *2012.09 - 2016.07*, <img src='images/Liaocheng-logo.png' width='20' height='20' /> <a href="https://www.lcu.edu.cn/">Liaocheng University</a>, Computer Science and Technology, Bachelor's degree
 
 <span class='anchor' id='-gzsx'></span>
 
@@ -221,6 +221,7 @@ My research areas include:
   </div>
 
 </div>
+
 
 
 
