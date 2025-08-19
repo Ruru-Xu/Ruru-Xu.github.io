@@ -94,7 +94,8 @@ My research areas include:
 ---
 <div class='paper-box'>
 <div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters" (MICCAI 2025 CMRxRecon Challenge paper) Accepted, Available online very soon.
+-	`Xu R`, Oksuz I. "HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters" (MICCAI 2025 CMRxRecon Challenge paper) 
+  [[Online]](https://arxiv.org/abs/2508.13026) [[Code]](https://github.com/Ruru-Xu/HierAdaptMR)
 </div>
 </div>
 
@@ -216,6 +217,7 @@ My research areas include:
   </div>
 
 </div>
+
 
 
 
