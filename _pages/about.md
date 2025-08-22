@@ -70,7 +70,7 @@ My research areas include:
 <div class='paper-box'>
 
 <div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." Pattern Recognition Letters (Q1; IF:3.9) Under Review
+-	`Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." Pattern Recognition Letters (Q1; IF:3.9) [Under Review, Revise stage]
 </div>
 
 <div class='anchor' markdown="1">
@@ -221,6 +221,7 @@ My research areas include:
   </div>
 
 </div>
+
 
 
 
