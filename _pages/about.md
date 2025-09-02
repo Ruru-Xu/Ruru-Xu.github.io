@@ -80,12 +80,12 @@ My research areas include:
 
 <div class='anchor' markdown="1">
 -	`Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity.” Neurocomputing (2025). (Q1; IF:5.5) 
-  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) 
+  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) | Citations: 1 
 </div>
 
 <div class='anchor' markdown="1">
 -	`Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2) 
-  [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 4
+  [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 5
 </div>
 
 
@@ -137,7 +137,7 @@ My research areas include:
 <div class='paper-box-text' markdown="1">
 
 -	`Xu R`, Özer C, Oksuz I. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 CMRxRecon Challenge paper)
-[[Online]](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR) | Citations: 2
+[[Online]](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15) [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw) [[Code]](https://github.com/Ruru-Xu/HyperCMR) | Citations: 4
 
 </div>
 
@@ -221,6 +221,7 @@ My research areas include:
   </div>
 
 </div>
+
 
 
 
