@@ -96,15 +96,6 @@ My research areas include:
 
 ### Conference Papers
 ---
-<div class='paper-box'>
-<div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters" (MICCAI 2025 CMRxRecon Challenge paper) 
-  [[Online]](https://arxiv.org/abs/2508.13026) [[Code]](https://github.com/Ruru-Xu/HierAdaptMR)
-</div>
-</div>
-
-
-
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: space-between;">
    
@@ -124,6 +115,28 @@ My research areas include:
 </div>
 
   </div>
+
+
+
+  <!-- MICCAI 2025 Paper -->
+  <div style="flex: 1; min-width: 300px; max-width: 32%;">
+    <div class='paper-box-image'>
+      <div>
+        <div class="badge">MICCAI 2025</div>
+        <img src='images/miccai2025paper2.png' alt="sym" width="100%">
+      </div>
+    </div>
+    
+<div class='paper-box-text' markdown="1">
+
+-	`Xu R`, Oksuz I. "HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters" (MICCAI 2025 CMRxRecon Challenge paper)
+  [[Online]](https://arxiv.org/abs/2508.13026) [[Code]](https://github.com/Ruru-Xu/HierAdaptMR)
+</div>
+
+  </div>
+
+
+  
 
   <!-- MICCAI 2024 Paper -->
   <div style="flex: 1; min-width: 300px; max-width: 32%;">
@@ -221,6 +234,7 @@ My research areas include:
   </div>
 
 </div>
+
 
 
 
