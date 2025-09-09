@@ -198,6 +198,9 @@ My research areas include:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Challenge
+
+-	MICCAI 2025 CMRxRecon Challenge, we are one of the top five teams in the two regular tasks. The final ranking will be announced at MICCAI 2025.
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CMRxRecon2024-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -234,6 +237,7 @@ My research areas include:
   </div>
 
 </div>
+
 
 
 
