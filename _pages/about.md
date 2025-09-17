@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at Istanbul Technical University, Computer Engineering, where I have studied since 2021. I work as a researcher in the 2232 International Fellowship for Outstanding Researchers Program of TUBITAK (Project No: 118C353) and the ITU BAP research funds (Project ID: 47296). My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is [Ilkay Oksuz](https://drive.google.com/file/d/1HO0SB8UNbSZ3Pqn97XBQZtE-UhqxmA1x/view).
 
-From 2018 to 2020, I was an exchange student at the Lab of Interactive Media Computing at Fudan University. During this time, I was working on projects related to autonomous driving, which involved object detection, pedestrian recognition, path planning, etc., working under the guidance of Professor Cheng Jin.
+From 2018 to 2020, I was an exchange student at the Lab of Interactive Media Computing at Fudan University. During this time, I was working on projects related to autonomous driving, which involved object detection, pedestrian recognition, Instance segmentation, path planning, etc., working under the guidance of Professor Cheng Jin.
 
 From 2017 to 2020, I pursued my Master's studies at the SICT(Shanghai Institute of Computing Technology), with a research direction in computer vision. My professor is Xinli Min.
 
@@ -237,6 +237,7 @@ My research areas include:
   </div>
 
 </div>
+
 
 
 
