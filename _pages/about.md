@@ -54,7 +54,19 @@ My research areas include:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work Experience
+<div style="flex: 1; min-width: 300px; max-width: 32%;">
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Life during Master's studies</div>
+      <video width="100%" controls>
+        <source src="video/work-life1.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
 - *2017.09 - 2020.03*, Shanghai Shen Teng Technology Co., Ltd. Student Intern, Working on smart city related projects in the R&D department
+
+</div>
+
 
 <span class='anchor' id='-gzsx'></span>
 
@@ -222,21 +234,6 @@ My research areas include:
 
 
 
-<span class='anchor' id='-xshy'></span>
-
-# 🏗️  Enjoy Work
-
-<div style="flex: 1; min-width: 300px; max-width: 32%;">
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Life during Master's studies</div>
-      <video width="100%" controls>
-        <source src="video/work-life1.mp4" type="video/mp4">
-      </video>
-    </div>
-  </div>
-
-</div>
 
 
 
