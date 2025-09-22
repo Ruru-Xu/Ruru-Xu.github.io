@@ -229,8 +229,10 @@ My research areas include:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Academic Conference
+- *2025.09*, MICCAI 2025, Oral Presentation
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Online Presentation
+
 
 
 
