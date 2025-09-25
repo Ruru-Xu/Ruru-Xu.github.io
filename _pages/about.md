@@ -209,7 +209,7 @@ My research areas include:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 Challenge
+# 🏅 MICCAI Challenge
 
 -	[[MICCAI 2025 CMRxRecon Challenge]](https://cmrxrecon.github.io/2025/Home.html), we are one of the top five teams in two regular tasks. The final ranking will be announced at MICCAI 2025.
 
@@ -232,6 +232,7 @@ My research areas include:
 - *2025.09*, MICCAI 2025, Oral Presentation
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Online Presentation
+
 
 
 
