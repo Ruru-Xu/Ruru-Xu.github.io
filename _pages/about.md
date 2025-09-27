@@ -266,7 +266,7 @@ We are `Top 5` in Task 2: Random sampling CMR reconstruction.
 
   </div>
 
-  
+</div>  
 
 
 
@@ -276,6 +276,7 @@ We are `Top 5` in Task 2: Random sampling CMR reconstruction.
 - *2025.09*, MICCAI 2025, Oral Presentation
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Online Presentation
+
 
 
 
