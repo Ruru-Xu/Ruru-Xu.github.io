@@ -222,7 +222,9 @@ My research areas include:
     
 <div class='paper-box-text' markdown="1">
 
-[MICCAI 2025 CMRxRecon Challenge](https://cmrxrecon.github.io/2025/Home.html), 5th Place Award in Regular Task 1: CMR reconstruction model for multi-center evaluation 
+[MICCAI 2025 CMRxRecon Challenge](https://cmrxrecon.github.io/2025/Home.html), 
+
+`5`th Place Award in Regular Task 1: CMR reconstruction model for multi-center evaluation 
 </div>
 
   </div>
@@ -240,7 +242,9 @@ My research areas include:
     
 <div class='paper-box-text' markdown="1">
 
-[MICCAI 2025 CMRxRecon Challenge](https://cmrxrecon.github.io/2025/Home.html), 3rd Place Award in Regular Task 2: CMR reconstruction model for multiple diseases evaluation 
+[MICCAI 2025 CMRxRecon Challenge](https://cmrxrecon.github.io/2025/Home.html), 
+
+`3`rd Place Award in Regular Task 2: CMR reconstruction model for multiple diseases evaluation 
 </div>
 
   </div>
@@ -276,6 +280,7 @@ We are `Top 5` in Task 2: Random sampling CMR reconstruction.
 - *2025.09*, MICCAI 2025, Oral Presentation
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Online Presentation
+
 
 
 
