@@ -211,6 +211,8 @@ My research areas include:
 
 # 🏅 MICCAI Challenge
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: space-between;">
+
   <div style="flex: 1; min-width: 300px; max-width: 32%;">
     <div class='paper-box-image'>
       <div>
@@ -256,6 +258,7 @@ My research areas include:
 <div class='paper-box-text' markdown="1">
 
 [MICCAI 2024 CMRxRecon Challenge](https://cmrxrecon.github.io/2024/Home.html),
+
 We are `Top 6` in Task 1: Multi-contrast CMR reconstruction.  
 We are `Top 5` in Task 2: Random sampling CMR reconstruction.  
 [[Certification]](https://www.synapse.org/Synapse:syn54951257/wiki/630047) 
@@ -273,6 +276,7 @@ We are `Top 5` in Task 2: Random sampling CMR reconstruction.
 - *2025.09*, MICCAI 2025, Oral Presentation
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Online Presentation
+
 
 
 
