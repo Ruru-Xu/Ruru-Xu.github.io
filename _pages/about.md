@@ -211,18 +211,59 @@ My research areas include:
 
 # 🏅 MICCAI Challenge
 
--	[[MICCAI 2025 CMRxRecon Challenge]](https://cmrxrecon.github.io/2025/Home.html), we are one of the top five teams in two regular tasks. The final ranking will be announced at MICCAI 2025.
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/CMRxRecon2024-1.jpg' alt="sym" width="100%"></div></div>
+  <div style="flex: 1; min-width: 300px; max-width: 32%;">
+    <div class='paper-box-image'>
+      <div>
+        <img src='images/CMRxRecon2025-1.jpg' alt="sym" width="100%">
+      </div>
+    </div>
+    
 <div class='paper-box-text' markdown="1">
 
-- *2024.10* [[MICCAI 2024 CMRxRecon Challenge]](https://cmrxrecon.github.io/2024/Home.html)  
-  We are `Top 6` in Task 1: Multi-contrast CMR reconstruction.  
-  We are `Top 5` in Task 2: Random sampling CMR reconstruction.  
-  [[Certification]](https://www.synapse.org/Synapse:syn54951257/wiki/630047) 
+[MICCAI 2025 CMRxRecon Challenge](https://cmrxrecon.github.io/2025/Home.html), 5th Place Award in Regular Task 1: CMR reconstruction model for multi-center evaluation 
+</div>
 
+  </div>
+
+
+
+
+
+  <div style="flex: 1; min-width: 300px; max-width: 32%;">
+    <div class='paper-box-image'>
+      <div>
+        <img src='images/CMRxRecon2025-2.jpg' alt="sym" width="100%">
+      </div>
+    </div>
+    
+<div class='paper-box-text' markdown="1">
+
+[MICCAI 2025 CMRxRecon Challenge](https://cmrxrecon.github.io/2025/Home.html), 3rd Place Award in Regular Task 2: CMR reconstruction model for multiple diseases evaluation 
 </div>
+
+  </div>
+
+  
+
+
+  <div style="flex: 1; min-width: 300px; max-width: 32%;">
+    <div class='paper-box-image'>
+      <div>
+        <img src='images/CMRxRecon2024-1.jpg' alt="sym" width="100%">
+      </div>
+    </div>
+    
+<div class='paper-box-text' markdown="1">
+
+[MICCAI 2024 CMRxRecon Challenge](https://cmrxrecon.github.io/2024/Home.html),
+We are `Top 6` in Task 1: Multi-contrast CMR reconstruction.  
+We are `Top 5` in Task 2: Random sampling CMR reconstruction.  
+[[Certification]](https://www.synapse.org/Synapse:syn54951257/wiki/630047) 
 </div>
+
+  </div>
+
+  
 
 
 
@@ -232,6 +273,7 @@ My research areas include:
 - *2025.09*, MICCAI 2025, Oral Presentation
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Online Presentation
+
 
 
 
