@@ -63,7 +63,7 @@ My research areas include:
       </video>
     </div>
   </div>
-- *2017.09 - 2020.03*, Shanghai Shen Teng Technology Co., Ltd. Student Intern, Working on smart city related projects in the R&D department
+- 2017.09 - 2020.03, Shanghai Shen Teng Technology Co., Ltd. Student Intern, Working on smart city related projects in the R&D department
 
 </div>
 
@@ -286,6 +286,19 @@ We are `Top 5` in Task 2: Random sampling CMR reconstruction.
 
 
 
+<span class='anchor' id='-gzsx'></span>
+
+# ✨ Hobbies
+<div style="flex: 1; min-width: 300px; max-width: 32%;">
+  <div class='paper-box-image'>
+    <div>
+      <video width="100%" controls>
+        <source src="video/hobbies1.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+
+</div>
 
 
 
