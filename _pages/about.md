@@ -109,80 +109,86 @@ My research areas include:
 ### Conference Papers
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-
+<div style="display: flex; flex-direction: column; gap: 30px;">
+  
   <!-- MICCAI 2025 Paper 1 -->
-  <div style="flex: 1; min-width: 280px; max-width: 31%; background: #f9f9f9; border-radius: 12px; padding: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <div class="paper-box-image" style="position: relative;">
-      <div class="badge" style="position: absolute; top: 10px; left: 10px; background: #ff4b4b; color: white; padding: 2px 8px; border-radius: 6px; font-size: 12px;">MICCAI 2025</div>
-      <img src="images/miccai2025paper1.png" alt="MICCAI 2025 Paper 1" style="width: 100%; border-radius: 8px;">
+  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+    <div style="flex: 0 0 250px;">
+      <div class="badge" style="background-color: #ff6b6b; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px;">MICCAI 2025</div>
+      <img src='images/miccai2025paper1.png' alt="MICCAI 2025 Paper 1" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
-    <div class="paper-box-text" style="margin-top: 10px;">
-      <p style="font-size: 14px; line-height: 1.5;">
-        <strong>`Xu R`, Oksuz I.</strong> <br>
-        “<em>Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning</em>”  
-        (MICCAI 2025 STACOM Workshop) <br>
+    
+    <div style="flex: 1;">
+      <p style="margin: 0 0 15px 0; line-height: 1.6;">
+        - <code>Xu R</code>, Oksuz I. <strong>"Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning"</strong> (MICCAI 2025 STACOM Workshop)
+      </p>
+      <p style="margin: 0;">
         <a href="http://arxiv.org/abs/2508.04727">[Online]</a> 
         <a href="https://www.youtube.com/watch?v=ui6kDZYIO44&t=101s&ab_channel=RuruXu">[Video]</a> 
         <a href="https://github.com/Ruru-Xu/RL-kspace-Radial-Sampling">[Code]</a>
       </p>
     </div>
   </div>
-
+  
+  
   <!-- MICCAI 2025 Paper 2 -->
-  <div style="flex: 1; min-width: 280px; max-width: 31%; background: #f9f9f9; border-radius: 12px; padding: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <div class="paper-box-image" style="position: relative;">
-      <div class="badge" style="position: absolute; top: 10px; left: 10px; background: #ff4b4b; color: white; padding: 2px 8px; border-radius: 6px; font-size: 12px;">MICCAI 2025</div>
-      <img src="images/miccai2025paper2.png" alt="MICCAI 2025 Paper 2" style="width: 100%; border-radius: 8px;">
+  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+    <div style="flex: 0 0 250px;">
+      <div class="badge" style="background-color: #ff6b6b; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px;">MICCAI 2025</div>
+      <img src='images/miccai2025paper2.png' alt="MICCAI 2025 Paper 2" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
-    <div class="paper-box-text" style="margin-top: 10px;">
-      <p style="font-size: 14px; line-height: 1.5;">
-        <strong>`Xu R`, Oksuz I.</strong> <br>
-        “<em>HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters</em>”  
-        (MICCAI 2025 CMRxRecon Challenge Paper) <br>
+    
+    <div style="flex: 1;">
+      <p style="margin: 0 0 15px 0; line-height: 1.6;">
+        - <code>Xu R</code>, Oksuz I. <strong>"HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters"</strong> (MICCAI 2025 CMRxRecon Challenge paper)
+      </p>
+      <p style="margin: 0;">
         <a href="https://arxiv.org/abs/2508.13026">[Online]</a> 
         <a href="https://github.com/Ruru-Xu/HierAdaptMR">[Code]</a>
       </p>
     </div>
   </div>
-
+  
+  
   <!-- MICCAI 2024 Paper -->
-  <div style="flex: 1; min-width: 280px; max-width: 31%; background: #f9f9f9; border-radius: 12px; padding: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <div class="paper-box-image" style="position: relative;">
-      <div class="badge" style="position: absolute; top: 10px; left: 10px; background: #0088ff; color: white; padding: 2px 8px; border-radius: 6px; font-size: 12px;">MICCAI 2024</div>
-      <img src="images/miccai2024paper.png" alt="MICCAI 2024 Paper" style="width: 100%; border-radius: 8px;">
+  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+    <div style="flex: 0 0 250px;">
+      <div class="badge" style="background-color: #4ecdc4; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px;">MICCAI 2024</div>
+      <img src='images/miccai2024paper.png' alt="MICCAI 2024 Paper" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
-    <div class="paper-box-text" style="margin-top: 10px;">
-      <p style="font-size: 14px; line-height: 1.5;">
-        <strong>`Xu R`, Özer C, Oksuz I.</strong> <br>
-        “<em>HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss</em>”  
-        (MICCAI 2024 CMRxRecon Challenge Paper) <br>
+    
+    <div style="flex: 1;">
+      <p style="margin: 0 0 15px 0; line-height: 1.6;">
+        - <code>Xu R</code>, Özer C, Oksuz I. <strong>"HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss."</strong> (MICCAI 2024 CMRxRecon Challenge paper)
+      </p>
+      <p style="margin: 0;">
         <a href="https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15">[Online]</a> 
         <a href="https://www.youtube.com/watch?v=tBZq-MMEHPw">[Video]</a> 
-        <a href="https://github.com/Ruru-Xu/HyperCMR">[Code]</a> | Citations: 4
+        <a href="https://github.com/Ruru-Xu/HyperCMR">[Code]</a> | <em>Citations: 4</em>
       </p>
     </div>
   </div>
-
+  
+  
   <!-- MICCAI 2022 Paper -->
-  <div style="flex: 1; min-width: 280px; max-width: 31%; background: #f9f9f9; border-radius: 12px; padding: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <div class="paper-box-image" style="position: relative;">
-      <div class="badge" style="position: absolute; top: 10px; left: 10px; background: #00b894; color: white; padding: 2px 8px; border-radius: 6px; font-size: 12px;">MICCAI 2022</div>
-      <img src="images/miccai2022paper.png" alt="MICCAI 2022 Paper" style="width: 100%; border-radius: 8px;">
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <div style="flex: 0 0 250px;">
+      <div class="badge" style="background-color: #95e1d3; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px;">MICCAI 2022</div>
+      <img src='images/miccai2022paper.png' alt="MICCAI 2022 Paper" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
-    <div class="paper-box-text" style="margin-top: 10px;">
-      <p style="font-size: 14px; line-height: 1.5;">
-        <strong>`Xu R`, Oksuz I.</strong> <br>
-        “<em>Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping</em>”  
-        (MICCAI 2022 STACOM Workshop) <br>
+    
+    <div style="flex: 1;">
+      <p style="margin: 0 0 15px 0; line-height: 1.6;">
+        - <code>Xu R</code>, Oksuz I. <strong>"Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping."</strong> (MICCAI 2022, STACOM Workshop)
+      </p>
+      <p style="margin: 0;">
         <a href="https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31">[Online]</a> 
-        <a href="https://www.youtube.com/watch?v=f32xa3Vds3o">[Video]</a> | Citations: 2
+        <a href="https://www.youtube.com/watch?v=f32xa3Vds3o">[Video]</a> | <em>Citations: 2</em>
       </p>
     </div>
   </div>
-
+  
 </div>
-
 
 
 
@@ -295,6 +301,7 @@ We are `Top 5` in Task 2: Random sampling CMR reconstruction.
   </div>
 
 </div>
+
 
 
 
