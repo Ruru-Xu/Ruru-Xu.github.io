@@ -54,17 +54,29 @@ My research areas include:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work Experience
-<div style="flex: 1; min-width: 300px; max-width: 32%;">
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Life during Master's studies</div>
-      <video width="100%" controls>
+
+<div style="display: flex; flex-direction: column; gap: 30px;">
+  
+  <!-- Work Experience 1 -->
+  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+    <div style="flex: 0 0 250px;">
+      <div class="badge" style="background-color: #6c5ce7; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px; font-weight: bold;">Life during Master's studies</div>
+      <video width="100%" controls style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <source src="video/work-life1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
       </video>
     </div>
+    
+    <div style="flex: 1;">
+      <p style="margin: 0; line-height: 1.6;">
+        <strong>2017.09 - 2020.03</strong><br>
+        <strong>Shanghai Shen Teng Technology Co., Ltd.</strong><br>
+        <em>Student Intern</em><br>
+        Working on smart city related projects in the R&D department
+      </p>
+    </div>
   </div>
-- 2017.09 - 2020.03, Shanghai Shen Teng Technology Co., Ltd. Student Intern, Working on smart city related projects in the R&D department
-
+  
 </div>
 
 
@@ -296,6 +308,7 @@ My research areas include:
   </div>
 
 </div>
+
 
 
 
