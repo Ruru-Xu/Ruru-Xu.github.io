@@ -218,7 +218,6 @@ My research areas include:
   <!-- CMRxRecon 2025 Challenge - Task 1 -->
   <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
     <div style="flex: 0 0 250px;">
-      <div class="badge" style="background-color: #ff6b6b; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px; font-weight: bold;">MICCAI 2025</div>
       <img src='images/CMRxRecon2025-1.jpg' alt="CMRxRecon 2025 Task 1" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     
@@ -237,7 +236,6 @@ My research areas include:
   <!-- CMRxRecon 2025 Challenge - Task 2 -->
   <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
     <div style="flex: 0 0 250px;">
-      <div class="badge" style="background-color: #ff6b6b; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px; font-weight: bold;">MICCAI 2025</div>
       <img src='images/CMRxRecon2025-2.jpg' alt="CMRxRecon 2025 Task 2" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     
@@ -256,7 +254,6 @@ My research areas include:
   <!-- CMRxRecon 2024 Challenge -->
   <div style="display: flex; gap: 20px; align-items: flex-start;">
     <div style="flex: 0 0 250px;">
-      <div class="badge" style="background-color: #4ecdc4; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px; font-weight: bold;">MICCAI 2024</div>
       <img src='images/CMRxRecon2024-1.jpg' alt="CMRxRecon 2024" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     
@@ -299,6 +296,7 @@ My research areas include:
   </div>
 
 </div>
+
 
 
 
