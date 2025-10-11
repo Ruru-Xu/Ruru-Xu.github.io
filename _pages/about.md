@@ -109,98 +109,80 @@ My research areas include:
 ### Conference Papers
 ---
 
-<style>
-.paper-entry {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  margin-bottom: 40px;
-}
-.paper-entry img {
-  width: 100%;
-  border-radius: 8px;
-}
-.paper-entry .paper-box-image {
-  flex: 0 0 35%;
-  max-width: 35%;
-}
-.paper-entry .paper-box-text {
-  flex: 1;
-}
-.badge {
-  background-color: #005bbb;
-  color: white;
-  padding: 4px 10px;
-  font-weight: bold;
-  border-radius: 6px;
-  display: inline-block;
-  margin-bottom: 8px;
-}
-</style>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
-<!-- MICCAI 2025 Paper 1 -->
-<div class="paper-entry">
-  <div class="paper-box-image">
-    <div class="badge">MICCAI 2025</div>
-    <img src="images/miccai2025paper1.png" alt="sym">
+  <!-- MICCAI 2025 Paper 1 -->
+  <div style="flex: 1; min-width: 280px; max-width: 31%; background: #f9f9f9; border-radius: 12px; padding: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <div class="paper-box-image" style="position: relative;">
+      <div class="badge" style="position: absolute; top: 10px; left: 10px; background: #ff4b4b; color: white; padding: 2px 8px; border-radius: 6px; font-size: 12px;">MICCAI 2025</div>
+      <img src="images/miccai2025paper1.png" alt="MICCAI 2025 Paper 1" style="width: 100%; border-radius: 8px;">
+    </div>
+    <div class="paper-box-text" style="margin-top: 10px;">
+      <p style="font-size: 14px; line-height: 1.5;">
+        <strong>`Xu R`, Oksuz I.</strong> <br>
+        “<em>Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning</em>”  
+        (MICCAI 2025 STACOM Workshop) <br>
+        <a href="http://arxiv.org/abs/2508.04727">[Online]</a> 
+        <a href="https://www.youtube.com/watch?v=ui6kDZYIO44&t=101s&ab_channel=RuruXu">[Video]</a> 
+        <a href="https://github.com/Ruru-Xu/RL-kspace-Radial-Sampling">[Code]</a>
+      </p>
+    </div>
   </div>
-  <div class="paper-box-text" markdown="1">
-    - `Xu R`, Oksuz I.  
-      **"Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning"**  
-      (MICCAI 2025 STACOM Workshop)  
-      [[Online]](http://arxiv.org/abs/2508.04727)  
-      [[Video]](https://www.youtube.com/watch?v=ui6kDZYIO44&t=101s&ab_channel=RuruXu)  
-      [[Code]](https://github.com/Ruru-Xu/RL-kspace-Radial-Sampling)
+
+  <!-- MICCAI 2025 Paper 2 -->
+  <div style="flex: 1; min-width: 280px; max-width: 31%; background: #f9f9f9; border-radius: 12px; padding: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <div class="paper-box-image" style="position: relative;">
+      <div class="badge" style="position: absolute; top: 10px; left: 10px; background: #ff4b4b; color: white; padding: 2px 8px; border-radius: 6px; font-size: 12px;">MICCAI 2025</div>
+      <img src="images/miccai2025paper2.png" alt="MICCAI 2025 Paper 2" style="width: 100%; border-radius: 8px;">
+    </div>
+    <div class="paper-box-text" style="margin-top: 10px;">
+      <p style="font-size: 14px; line-height: 1.5;">
+        <strong>`Xu R`, Oksuz I.</strong> <br>
+        “<em>HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters</em>”  
+        (MICCAI 2025 CMRxRecon Challenge Paper) <br>
+        <a href="https://arxiv.org/abs/2508.13026">[Online]</a> 
+        <a href="https://github.com/Ruru-Xu/HierAdaptMR">[Code]</a>
+      </p>
+    </div>
   </div>
+
+  <!-- MICCAI 2024 Paper -->
+  <div style="flex: 1; min-width: 280px; max-width: 31%; background: #f9f9f9; border-radius: 12px; padding: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <div class="paper-box-image" style="position: relative;">
+      <div class="badge" style="position: absolute; top: 10px; left: 10px; background: #0088ff; color: white; padding: 2px 8px; border-radius: 6px; font-size: 12px;">MICCAI 2024</div>
+      <img src="images/miccai2024paper.png" alt="MICCAI 2024 Paper" style="width: 100%; border-radius: 8px;">
+    </div>
+    <div class="paper-box-text" style="margin-top: 10px;">
+      <p style="font-size: 14px; line-height: 1.5;">
+        <strong>`Xu R`, Özer C, Oksuz I.</strong> <br>
+        “<em>HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss</em>”  
+        (MICCAI 2024 CMRxRecon Challenge Paper) <br>
+        <a href="https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15">[Online]</a> 
+        <a href="https://www.youtube.com/watch?v=tBZq-MMEHPw">[Video]</a> 
+        <a href="https://github.com/Ruru-Xu/HyperCMR">[Code]</a> | Citations: 4
+      </p>
+    </div>
+  </div>
+
+  <!-- MICCAI 2022 Paper -->
+  <div style="flex: 1; min-width: 280px; max-width: 31%; background: #f9f9f9; border-radius: 12px; padding: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <div class="paper-box-image" style="position: relative;">
+      <div class="badge" style="position: absolute; top: 10px; left: 10px; background: #00b894; color: white; padding: 2px 8px; border-radius: 6px; font-size: 12px;">MICCAI 2022</div>
+      <img src="images/miccai2022paper.png" alt="MICCAI 2022 Paper" style="width: 100%; border-radius: 8px;">
+    </div>
+    <div class="paper-box-text" style="margin-top: 10px;">
+      <p style="font-size: 14px; line-height: 1.5;">
+        <strong>`Xu R`, Oksuz I.</strong> <br>
+        “<em>Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping</em>”  
+        (MICCAI 2022 STACOM Workshop) <br>
+        <a href="https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31">[Online]</a> 
+        <a href="https://www.youtube.com/watch?v=f32xa3Vds3o">[Video]</a> | Citations: 2
+      </p>
+    </div>
+  </div>
+
 </div>
 
-<!-- MICCAI 2025 Paper 2 -->
-<div class="paper-entry">
-  <div class="paper-box-image">
-    <div class="badge">MICCAI 2025</div>
-    <img src="images/miccai2025paper2.png" alt="sym">
-  </div>
-  <div class="paper-box-text" markdown="1">
-    - `Xu R`, Oksuz I.  
-      **"HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters"**  
-      (MICCAI 2025 CMRxRecon Challenge paper)  
-      [[Online]](https://arxiv.org/abs/2508.13026)  
-      [[Code]](https://github.com/Ruru-Xu/HierAdaptMR)
-  </div>
-</div>
-
-<!-- MICCAI 2024 Paper -->
-<div class="paper-entry">
-  <div class="paper-box-image">
-    <div class="badge">MICCAI 2024</div>
-    <img src="images/miccai2024paper.png" alt="sym">
-  </div>
-  <div class="paper-box-text" markdown="1">
-    - `Xu R`, Özer C, Oksuz I.  
-      **"HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss."**  
-      (MICCAI 2024 CMRxRecon Challenge paper)  
-      [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15)  
-      [[Video]](https://www.youtube.com/watch?v=tBZq-MMEHPw)  
-      [[Code]](https://github.com/Ruru-Xu/HyperCMR)  
-      | Citations: 4
-  </div>
-</div>
-
-<!-- MICCAI 2022 Paper -->
-<div class="paper-entry">
-  <div class="paper-box-image">
-    <div class="badge">MICCAI 2022</div>
-    <img src="images/miccai2022paper.png" alt="sym">
-  </div>
-  <div class="paper-box-text" markdown="1">
-    - `Xu R`, Oksuz I.  
-      **"Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping."**  
-      (MICCAI 2022, STACOM Workshop)  
-      [[Online]](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31)  
-      [[Video]](https://www.youtube.com/watch?v=f32xa3Vds3o)  
-      | Citations: 2
-  </div>
-</div>
 
 
 
@@ -313,6 +295,7 @@ We are `Top 5` in Task 2: Random sampling CMR reconstruction.
   </div>
 
 </div>
+
 
 
 
