@@ -118,7 +118,6 @@ My research areas include:
       </div>
     </div>
     
-<div class='paper-box-text' markdown="1">
 
 -	`Xu R`, Oksuz I. "Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning" (MICCAI 2025 STACOM Workshop)
 [[Online]](http://arxiv.org/abs/2508.04727) [[Video]](https://www.youtube.com/watch?v=ui6kDZYIO44&t=101s&ab_channel=RuruXu) [[Code]](https://github.com/Ruru-Xu/RL-kspace-Radial-Sampling)
@@ -297,6 +296,7 @@ We are `Top 5` in Task 2: Random sampling CMR reconstruction.
   </div>
 
 </div>
+
 
 
 
