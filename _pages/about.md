@@ -213,68 +213,66 @@ My research areas include:
 
 # 🏅 MICCAI Challenge
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: space-between;">
-
-  <div style="flex: 1; min-width: 300px; max-width: 32%;">
-    <div class='paper-box-image'>
-      <div>
-        <img src='images/CMRxRecon2025-1.jpg' alt="sym" width="100%">
-      </div>
-    </div>
-    
-<div class='paper-box-text' markdown="1">
-
-[MICCAI 2025 CMRxRecon Challenge](https://cmrxrecon.github.io/2025/Home.html), 
-
-`5`th Place Award in Regular Task 1: CMR reconstruction model for multi-center evaluation 
-[[Certification]](https://www.synapse.org/Synapse:syn59814210/wiki/635078) 
-</div>
-
-  </div>
-
-
-
-
-
-  <div style="flex: 1; min-width: 300px; max-width: 32%;">
-    <div class='paper-box-image'>
-      <div>
-        <img src='images/CMRxRecon2025-2.jpg' alt="sym" width="100%">
-      </div>
-    </div>
-    
-<div class='paper-box-text' markdown="1">
-
-[MICCAI 2025 CMRxRecon Challenge](https://cmrxrecon.github.io/2025/Home.html), 
-
-`3`rd Place Award in Regular Task 2: CMR reconstruction model for multiple diseases evaluation 
-[[Certification]](https://www.synapse.org/Synapse:syn59814210/wiki/635078) 
-</div>
-
-  </div>
-
+<div style="display: flex; flex-direction: column; gap: 30px;">
   
-
-
-  <div style="flex: 1; min-width: 300px; max-width: 32%;">
-    <div class='paper-box-image'>
-      <div>
-        <img src='images/CMRxRecon2024-1.jpg' alt="sym" width="100%">
-      </div>
+  <!-- CMRxRecon 2025 Challenge - Task 1 -->
+  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+    <div style="flex: 0 0 250px;">
+      <div class="badge" style="background-color: #ff6b6b; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px; font-weight: bold;">MICCAI 2025</div>
+      <img src='images/CMRxRecon2025-1.jpg' alt="CMRxRecon 2025 Task 1" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     
-<div class='paper-box-text' markdown="1">
-
-[MICCAI 2024 CMRxRecon Challenge](https://cmrxrecon.github.io/2024/Home.html),
-
-We are `Top 6` in Task 1: Multi-contrast CMR reconstruction.  
-We are `Top 5` in Task 2: Random sampling CMR reconstruction.  
-[[Certification]](https://www.synapse.org/Synapse:syn54951257/wiki/630047) 
-</div>
-
+    <div style="flex: 1;">
+      <p style="margin: 0 0 15px 0; line-height: 1.6;">
+        <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
+        <code>5th Place Award</code> in Regular Task 1: CMR reconstruction model for multi-center evaluation
+      </p>
+      <p style="margin: 0;">
+        <a href="https://www.synapse.org/Synapse:syn59814210/wiki/635078">[Certification]</a>
+      </p>
+    </div>
   </div>
-
-</div>  
+  
+  
+  <!-- CMRxRecon 2025 Challenge - Task 2 -->
+  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+    <div style="flex: 0 0 250px;">
+      <div class="badge" style="background-color: #ff6b6b; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px; font-weight: bold;">MICCAI 2025</div>
+      <img src='images/CMRxRecon2025-2.jpg' alt="CMRxRecon 2025 Task 2" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    </div>
+    
+    <div style="flex: 1;">
+      <p style="margin: 0 0 15px 0; line-height: 1.6;">
+        <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
+        <code>3rd Place Award</code> in Regular Task 2: CMR reconstruction model for multiple diseases evaluation
+      </p>
+      <p style="margin: 0;">
+        <a href="https://www.synapse.org/Synapse:syn59814210/wiki/635078">[Certification]</a>
+      </p>
+    </div>
+  </div>
+  
+  
+  <!-- CMRxRecon 2024 Challenge -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <div style="flex: 0 0 250px;">
+      <div class="badge" style="background-color: #4ecdc4; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px; font-weight: bold;">MICCAI 2024</div>
+      <img src='images/CMRxRecon2024-1.jpg' alt="CMRxRecon 2024" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    </div>
+    
+    <div style="flex: 1;">
+      <p style="margin: 0 0 15px 0; line-height: 1.6;">
+        <strong><a href="https://cmrxrecon.github.io/2024/Home.html">MICCAI 2024 CMRxRecon Challenge</a></strong><br>
+        🏆 <code>Top 6</code> in Task 1: Multi-contrast CMR reconstruction<br>
+        🏆 <code>Top 5</code> in Task 2: Random sampling CMR reconstruction
+      </p>
+      <p style="margin: 0;">
+        <a href="https://www.synapse.org/Synapse:syn54951257/wiki/630047">[Certification]</a>
+      </p>
+    </div>
+  </div>
+  
+</div>
 
 
 
@@ -301,6 +299,7 @@ We are `Top 5` in Task 2: Random sampling CMR reconstruction.
   </div>
 
 </div>
+
 
 
 
