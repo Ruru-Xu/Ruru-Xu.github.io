@@ -15,6 +15,84 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .responsive-flex {
+    flex-direction: column !important;
+  }
+  .responsive-flex > div:first-child {
+    flex: 1 1 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+/* 悬停效果 */
+.hover-card {
+  transition: all 0.3s ease;
+}
+
+.hover-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
+}
+
+/* Badge 统一样式 */
+.custom-badge {
+  background-color: #ff6b6b;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.badge-2025 { background-color: #ff6b6b; }
+.badge-2024 { background-color: #4ecdc4; }
+.badge-2022 { background-color: #95e1d3; }
+.badge-work { background-color: #6c5ce7; }
+.badge-hobby { background-color: #fdcb6e; }
+
+/* 引用数高亮 */
+.citation-high {
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+/* 返回顶部按钮 */
+#backToTop {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  cursor: pointer;
+  display: none;
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
+
+#backToTop:hover {
+  background-color: #2980b9;
+  transform: translateY(-5px);
+}
+
+/* 图片/视频样式 */
+.media-container {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+</style>
+
 <span class='anchor' id='about-me'></span>
 
 I am a PhD student at Istanbul Technical University, Computer Engineering, where I have studied since 2021. I work as a researcher in the 2232 International Fellowship for Outstanding Researchers Program of TUBITAK (Project No: 118C353) and the ITU BAP research funds (Project ID: 47296). My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is [Ilkay Oksuz](https://drive.google.com/file/d/1HO0SB8UNbSZ3Pqn97XBQZtE-UhqxmA1x/view).
@@ -38,17 +116,13 @@ My research areas include:
 - Object Detection
 - Computer Vision
 
-
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
 
 - *2021.03 - now*, <img src='images/itu-logo.png' width='20' height='20' /> <a href="https://www.itu.edu.tr/en">Istanbul Technical University</a>, Computer Engineering, PhD Candidate 
-
 - *2018.04 - 2020.03*, <img src='images/fudan-logo.png' width='20' height='20' /> <a href="https://www.fudan.edu.cn/en/">Fudan University</a>, Lab of Interactive Media Computing, Exchange learning
-
 - *2017.09 - 2020.03*, <img src='images/SICT-logo.png' width='20' height='20' /> <a href="https://www.sh-sict.com/">SICT(Shanghai Institute of Computing Technology)</a>, Engineering Computer Software and Theory, Master's degree
-
 - *2012.09 - 2016.07*, <img src='images/Liaocheng-logo.png' width='20' height='20' /> <a href="https://www.lcu.edu.cn/">Liaocheng University</a>, Computer Science and Technology, Bachelor's degree
 
 <span class='anchor' id='-gzsx'></span>
@@ -58,10 +132,10 @@ My research areas include:
 <div style="display: flex; flex-direction: column; gap: 30px;">
   
   <!-- Work Experience 1 -->
-  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; padding-bottom: 30px;">
     <div style="flex: 0 0 250px;">
-      <div class="badge" style="background-color: #6c5ce7; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px; font-weight: bold;">Life during Master's studies</div>
-      <video width="100%" controls style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <div class="custom-badge badge-work">Life during Master's studies</div>
+      <video width="100%" controls class="media-container">
         <source src="video/work-life1.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -69,54 +143,57 @@ My research areas include:
     
     <div style="flex: 1;">
       <p style="margin: 0; line-height: 1.6;">
-        <strong>2017.09 - 2020.03</strong><br>
-        <strong>Shanghai Shen Teng Technology Co., Ltd.</strong><br>
-        <em>Student Intern</em><br>
-        Working on smart city related projects in the R&D department
+        <strong>📅 2017.09 - 2020.03</strong><br>
+        <strong>🏢 Shanghai Shen Teng Technology Co., Ltd.</strong><br>
+        <strong>👔 Student Intern</strong><br><br>
+        Working on smart city related projects in the R&D department. Contributed to intelligent city infrastructure development, focusing on computer vision applications for urban management and monitoring systems.
       </p>
     </div>
   </div>
   
 </div>
 
+<span class='anchor' id='-toefl'></span>
 
-<span class='anchor' id='-gzsx'></span>
+# 📋 TOEFL Score 
 
-# 📋 TOEFL score 
-- *Score: 108 · Jan 2021*, Reading:28, Listening:26, Speaking:24, Writing:30
- 
+- *Score: 108 · Jan 2021*, Reading: 28, Listening: 26, Speaking: 24, Writing: 30
+
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publications
 
 ### Journal Papers
 ---
+
 <div class='paper-box'>
-
 <div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." Pattern Recognition Letters (Q1; IF:3.9) [Under Review, Revise stage]
-</div>
 
-<div class='anchor' markdown="1">
--	Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Top Journal: Nature Machine Intelligence; IF:23.9) Under Review
-  [[online]](https://arxiv.org/abs/2503.03971) | Citations: 1
+- `Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." **Pattern Recognition Letters** (Q1; IF:3.9) [Under Review, Revise stage]
+
 </div>
 
 <div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity.” Neurocomputing (2025). (Q1; IF:5.5) 
-  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) | Citations: 1 
+
+- Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (**Top Journal: Nature Machine Intelligence**; IF:23.9) Under Review
+  [[Online]](https://arxiv.org/abs/2503.03971) | Citations: <span class="citation-high">1</span>
+
 </div>
 
 <div class='anchor' markdown="1">
--	`Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2) 
-  [[online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: 5
-</div>
 
-
+- `Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity." **Neurocomputing** (2025). (Q1; IF:5.5) 
+  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) | Citations: <span class="citation-high">1</span>
 
 </div>
 
+<div class='anchor' markdown="1">
 
+- `Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." **Image and Vision Computing** 150 (2024): 105200. (Q1; IF:4.2) 
+  [[Online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: <span class="citation-high">5</span>
+
+</div>
+</div>
 
 ### Conference Papers
 ---
@@ -124,10 +201,10 @@ My research areas include:
 <div style="display: flex; flex-direction: column; gap: 30px;">
   
   <!-- MICCAI 2025 Paper 1 -->
-  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
     <div style="flex: 0 0 250px;">
-      <div class="badge" style="background-color: #ff6b6b; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px;">MICCAI 2025</div>
-      <img src='images/miccai2025paper1.png' alt="MICCAI 2025 Paper 1" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <div class="custom-badge badge-2025">MICCAI 2025</div>
+      <img src='images/miccai2025paper1.png' alt="MICCAI 2025 Paper 1" class="media-container" style="width: 100%;">
     </div>
     
     <div style="flex: 1;">
@@ -144,10 +221,10 @@ My research areas include:
   
   
   <!-- MICCAI 2025 Paper 2 -->
-  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
     <div style="flex: 0 0 250px;">
-      <div class="badge" style="background-color: #ff6b6b; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px;">MICCAI 2025</div>
-      <img src='images/miccai2025paper2.png' alt="MICCAI 2025 Paper 2" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <div class="custom-badge badge-2025">MICCAI 2025</div>
+      <img src='images/miccai2025paper2.png' alt="MICCAI 2025 Paper 2" class="media-container" style="width: 100%;">
     </div>
     
     <div style="flex: 1;">
@@ -163,10 +240,10 @@ My research areas include:
   
   
   <!-- MICCAI 2024 Paper -->
-  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
     <div style="flex: 0 0 250px;">
-      <div class="badge" style="background-color: #4ecdc4; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px;">MICCAI 2024</div>
-      <img src='images/miccai2024paper.png' alt="MICCAI 2024 Paper" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <div class="custom-badge badge-2024">MICCAI 2024</div>
+      <img src='images/miccai2024paper.png' alt="MICCAI 2024 Paper" class="media-container" style="width: 100%;">
     </div>
     
     <div style="flex: 1;">
@@ -176,17 +253,17 @@ My research areas include:
       <p style="margin: 0;">
         <a href="https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15">[Online]</a> 
         <a href="https://www.youtube.com/watch?v=tBZq-MMEHPw">[Video]</a> 
-        <a href="https://github.com/Ruru-Xu/HyperCMR">[Code]</a> | <em>Citations: 4</em>
+        <a href="https://github.com/Ruru-Xu/HyperCMR">[Code]</a> | Citations: <span class="citation-high">4</span>
       </p>
     </div>
   </div>
   
   
   <!-- MICCAI 2022 Paper -->
-  <div style="display: flex; gap: 20px; align-items: flex-start;">
+  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
     <div style="flex: 0 0 250px;">
-      <div class="badge" style="background-color: #95e1d3; color: white; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-size: 12px;">MICCAI 2022</div>
-      <img src='images/miccai2022paper.png' alt="MICCAI 2022 Paper" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <div class="custom-badge badge-2022">MICCAI 2022</div>
+      <img src='images/miccai2022paper.png' alt="MICCAI 2022 Paper" class="media-container" style="width: 100%;">
     </div>
     
     <div style="flex: 1;">
@@ -195,31 +272,41 @@ My research areas include:
       </p>
       <p style="margin: 0;">
         <a href="https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31">[Online]</a> 
-        <a href="https://www.youtube.com/watch?v=f32xa3Vds3o">[Video]</a> | <em>Citations: 2</em>
+        <a href="https://www.youtube.com/watch?v=f32xa3Vds3o">[Video]</a> | Citations: <span class="citation-high">2</span>
+      </p>
+    </div>
+  </div>
+
+  <!-- IEEE Big Data 2019 -->
+  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start;">
+    <div style="flex: 0 0 250px;">
+      <div class="custom-badge" style="background-color: #a29bfe;">IEEE Big Data 2019</div>
+      <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 18px;">
+        IEEE Big Data
+      </div>
+    </div>
+    
+    <div style="flex: 1;">
+      <p style="margin: 0 0 15px 0; line-height: 1.6;">
+        - <code>Xu R</code>, An J, Su L, and Min X. <strong>"Banknotes serial number coding recognition."</strong> In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019.
+      </p>
+      <p style="margin: 0;">
+        <a href="https://ieeexplore.ieee.org/abstract/document/9006506">[Online]</a> | Citations: <span class="citation-high">2</span>
       </p>
     </div>
   </div>
   
 </div>
 
-
-
-<div class='paper-box'>
-<div class='anchor' markdown="1">
--	`Xu R`, An J, Su L, and Min X. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019.
-  [[Online]](https://ieeexplore.ieee.org/abstract/document/9006506) | Citations: 2
-</div>
-</div>
-
-
 ### Master's Thesis
 ---
+
 <div class='paper-box-text' markdown="1">
--	Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision
+
+- Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision
   [[Online]](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1021521998.nh&uniplatform=OVERSEA&v=1mKWbzyM1RA2069qUjrH98S7LHHip8KOCXlh8GfkcqZJAEF2V2My6eNROWkmA2id) Chinese Master's Theses Full-text Database · Mar 2, 2020
+
 </div>
-
-
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -228,15 +315,16 @@ My research areas include:
 <div style="display: flex; flex-direction: column; gap: 30px;">
   
   <!-- CMRxRecon 2025 Challenge - Task 1 -->
-  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
     <div style="flex: 0 0 250px;">
-      <img src='images/CMRxRecon2025-1.jpg' alt="CMRxRecon 2025 Task 1" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <div class="custom-badge badge-2025">MICCAI 2025</div>
+      <img src='images/CMRxRecon2025-1.jpg' alt="CMRxRecon 2025 Task 1" class="media-container" style="width: 100%;">
     </div>
     
     <div style="flex: 1;">
       <p style="margin: 0 0 15px 0; line-height: 1.6;">
         <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-        <code>5th Place Award</code> in Regular Task 1: CMR reconstruction model for multi-center evaluation
+        🥇 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">5th Place Award</code> in Regular Task 1: CMR reconstruction model for multi-center evaluation
       </p>
       <p style="margin: 0;">
         <a href="https://www.synapse.org/Synapse:syn59814210/wiki/635078">[Certification]</a>
@@ -246,15 +334,16 @@ My research areas include:
   
   
   <!-- CMRxRecon 2025 Challenge - Task 2 -->
-  <div style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
     <div style="flex: 0 0 250px;">
-      <img src='images/CMRxRecon2025-2.jpg' alt="CMRxRecon 2025 Task 2" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <div class="custom-badge badge-2025">MICCAI 2025</div>
+      <img src='images/CMRxRecon2025-2.jpg' alt="CMRxRecon 2025 Task 2" class="media-container" style="width: 100%;">
     </div>
     
     <div style="flex: 1;">
       <p style="margin: 0 0 15px 0; line-height: 1.6;">
         <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-        <code>3rd Place Award</code> in Regular Task 2: CMR reconstruction model for multiple diseases evaluation
+        🥉 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">3rd Place Award</code> in Regular Task 2: CMR reconstruction model for multiple diseases evaluation
       </p>
       <p style="margin: 0;">
         <a href="https://www.synapse.org/Synapse:syn59814210/wiki/635078">[Certification]</a>
@@ -264,16 +353,17 @@ My research areas include:
   
   
   <!-- CMRxRecon 2024 Challenge -->
-  <div style="display: flex; gap: 20px; align-items: flex-start;">
+  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start;">
     <div style="flex: 0 0 250px;">
-      <img src='images/CMRxRecon2024-1.jpg' alt="CMRxRecon 2024" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <div class="custom-badge badge-2024">MICCAI 2024</div>
+      <img src='images/CMRxRecon2024-1.jpg' alt="CMRxRecon 2024" class="media-container" style="width: 100%;">
     </div>
     
     <div style="flex: 1;">
       <p style="margin: 0 0 15px 0; line-height: 1.6;">
         <strong><a href="https://cmrxrecon.github.io/2024/Home.html">MICCAI 2024 CMRxRecon Challenge</a></strong><br>
-        🏆 <code>Top 6</code> in Task 1: Multi-contrast CMR reconstruction<br>
-        🏆 <code>Top 5</code> in Task 2: Random sampling CMR reconstruction
+        🏆 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">Top 6</code> in Task 1: Multi-contrast CMR reconstruction<br>
+        🏆 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">Top 5</code> in Task 2: Random sampling CMR reconstruction
       </p>
       <p style="margin: 0;">
         <a href="https://www.synapse.org/Synapse:syn54951257/wiki/630047">[Certification]</a>
@@ -283,74 +373,60 @@ My research areas include:
   
 </div>
 
-
-
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Academic Conference
+
 - *2025.09*, MICCAI 2025, Oral Presentation
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Online Presentation
 
-
-
-
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='-hobbies'></span>
 
 # ✨ Hobbies
-<div style="flex: 1; min-width: 300px; max-width: 32%;">
-  <div class='paper-box-image'>
-    <div>
-      <video width="100%" controls>
+
+<div style="display: flex; flex-direction: column; gap: 30px;">
+  
+  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start;">
+    <div style="flex: 0 0 250px;">
+      <div class="custom-badge badge-hobby">Life Beyond Research</div>
+      <video width="100%" controls class="media-container">
         <source src="video/hobbies1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
       </video>
     </div>
+    
+    <div style="flex: 1;">
+      <p style="margin: 0; line-height: 1.8;">
+        <strong>🎯 Personal Interests & Activities</strong><br><br>
+        🏃‍♀️ <strong>Sports & Fitness:</strong> Running marathons, practicing yoga<br>
+        ✈️ <strong>Travel:</strong> Solo backpacking adventures across different countries<br>
+        📚 <strong>Reading:</strong> Science fiction and academic literature<br>
+        🎨 <strong>Creative Pursuits:</strong> Photography and digital art<br>
+        🤝 <strong>Volunteering:</strong> Community service and epidemic volunteer work
+      </p>
+    </div>
   </div>
-
+  
 </div>
 
+<!-- 返回顶部按钮 -->
+<button id="backToTop" title="Go to top">↑</button>
 
+<script>
+// 返回顶部功能
+var backToTopButton = document.getElementById("backToTop");
 
+window.onscroll = function() {
+  if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+    backToTopButton.style.display = "block";
+  } else {
+    backToTopButton.style.display = "none";
+  }
+};
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+backToTopButton.onclick = function() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+};
+</script>
