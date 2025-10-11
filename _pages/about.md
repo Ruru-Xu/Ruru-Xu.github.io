@@ -108,7 +108,8 @@ My research areas include:
 
 ### Conference Papers
 ---
-   
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
+  
   <!-- MICCAI 2025 Paper -->
   <div style="flex: 1; min-width: 300px; max-width: 32%;">
     <div class='paper-box-image'>
@@ -297,6 +298,7 @@ We are `Top 5` in Task 2: Random sampling CMR reconstruction.
   </div>
 
 </div>
+
 
 
 
