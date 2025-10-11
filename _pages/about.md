@@ -108,8 +108,6 @@ My research areas include:
 
 ### Conference Papers
 ---
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: space-between;">
    
   <!-- MICCAI 2025 Paper -->
   <div style="flex: 1; min-width: 300px; max-width: 32%;">
