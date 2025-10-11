@@ -396,16 +396,16 @@ My research areas include:
       </video>
     </div>
     
-    <div style="flex: 1;">
-      <p style="margin: 0; line-height: 1.8;">
-        <strong>🎯 Personal Interests & Activities</strong><br><br>
-        🏃‍♀️ <strong>Sports & Fitness:</strong> Running marathons, practicing yoga<br>
-        ✈️ <strong>Travel:</strong> Solo backpacking adventures across different countries<br>
-        📚 <strong>Reading:</strong> Science fiction and academic literature<br>
-        🎨 <strong>Creative Pursuits:</strong> Photography and digital art<br>
-        🤝 <strong>Volunteering:</strong> Community service and epidemic volunteer work
-      </p>
-    </div>
+  <div style="flex: 1;">
+  <p style="margin: 0; line-height: 1.8;">
+    <strong>🎯 Personal Interests & Activities</strong><br><br>
+    🚴‍♀️ <strong>Favorite Sport:</strong> Long-distance cycling (Cycled over 5,000 km across multiple provinces and cities during my three-year Master's studies)<br>
+    ✈️ <strong>Favorite Travel Style:</strong> Solo backpacking adventures (Traveled independently across half of China)<br>
+    📚 <strong>Favorite Reading:</strong> Classical Chinese poetry and literature (Served as editor of the school literary society for three years in high school)<br>
+    🤝 <strong>Most Memorable Volunteer Experience:</strong> Turkey Earthquake Relief Volunteer
+  </p>
+</div>
+
   </div>
   
 </div>
@@ -430,3 +430,4 @@ backToTopButton.onclick = function() {
   document.documentElement.scrollTop = 0;
 };
 </script>
+
