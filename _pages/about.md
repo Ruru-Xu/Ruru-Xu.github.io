@@ -379,7 +379,7 @@ My research areas include:
 
 - *2025.09*, MICCAI 2025, Oral Presentation
 - *2024.10*, MICCAI 2024, Oral Presentation
-- *2022.09*, MICCAI 2022, Online Presentation
+- *2022.09*, MICCAI 2022, Oral Presentation
 
 <span class='anchor' id='-hobbies'></span>
 
@@ -430,6 +430,7 @@ backToTopButton.onclick = function() {
   document.documentElement.scrollTop = 0;
 };
 </script>
+
 
 
 
