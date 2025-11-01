@@ -183,7 +183,7 @@ My research areas include:
 <div class='anchor' markdown="1">
 
 - `Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity." **Neurocomputing** (2025). (Q1; IF:6.5) 
-  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) | Citations: <span class="citation-high">1</span>
+  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) | Citations: <span class="citation-high">2</span>
 
 </div>
 
@@ -430,6 +430,7 @@ backToTopButton.onclick = function() {
   document.documentElement.scrollTop = 0;
 };
 </script>
+
 
 
 
