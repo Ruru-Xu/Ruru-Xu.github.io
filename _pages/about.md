@@ -315,20 +315,18 @@ My research areas include:
 <div style="display: flex; flex-direction: column; gap: 30px;">
 
     <!-- CMRxRecon 2025 Challenge - Special Task -->
-  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
-    <div style="flex: 0 0 250px;">
-      <div class="custom-badge badge-2025">SCMR 2026</div>
-      <img src='images/CMRxRecon2025-special.jpg' alt="CMRxRecon 2025 Special Tasks" class="media-container" style="width: 100%;">
-    </div>
-    
-    <div style="flex: 1;">
-      <p style="margin: 0 0 15px 0; line-height: 1.6;">
-        <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-        🥇 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">Top 5 teams on leaderboard in Two Special Tasks, Final rank will be announced at the SCMR 2026, Brazi
-        We will have oral presentation
-      </p>
-    </div>
+<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+  <div style="flex: 0 0 250px;"> 
+    <div class="custom-badge badge-2025">SCMR 2026</div> 
+    <img src='images/CMRxRecon2025-special.jpg' alt="CMRxRecon 2025 Special Tasks" class="media-container" style="width: 100%;"> 
+  </div> 
+  <div style="flex: 1;"> 
+    <p style="margin: 0 0 15px 0; line-height: 1.6;"> 
+      <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br> 
+      🥇 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">Top 5 teams on leaderboard in Two Special Tasks, Final rank will be announced at the SCMR 2026, Brazil. We will have oral presentation</code>
+    </p> 
   </div>
+</div>
 
   
   <!-- CMRxRecon 2025 Challenge - Task 1 -->
@@ -447,6 +445,7 @@ backToTopButton.onclick = function() {
   document.documentElement.scrollTop = 0;
 };
 </script>
+
 
 
 
