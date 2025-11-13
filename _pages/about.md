@@ -313,6 +313,25 @@ My research areas include:
 # 🏅 MICCAI Challenge
 
 <div style="display: flex; flex-direction: column; gap: 30px;">
+
+    <!-- CMRxRecon 2025 Challenge - Special Task -->
+  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+    <div style="flex: 0 0 250px;">
+      <div class="custom-badge badge-2025">MICCAI 2025</div>
+      <img src='images/CMRxRecon2025-special.jpg' alt="CMRxRecon 2025 Special Tasks" class="media-container" style="width: 100%;">
+    </div>
+    
+    <div style="flex: 1;">
+      <p style="margin: 0 0 15px 0; line-height: 1.6;">
+        <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
+        🥇 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">Top 5 teams on leaderboard in Two Special Tasks, Final rank will be announced at the SCMR 2026, Brazi
+
+        We will have oral presentation
+      </p>
+
+    </div>
+  </div>
+
   
   <!-- CMRxRecon 2025 Challenge - Task 1 -->
   <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
@@ -376,7 +395,7 @@ My research areas include:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Academic Conference
-
+- *2026.02*, SCMR 2026, Paper accepted for an in-person presentation
 - *2025.09*, MICCAI 2025, Oral Presentation
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Oral Presentation
@@ -430,6 +449,7 @@ backToTopButton.onclick = function() {
   document.documentElement.scrollTop = 0;
 };
 </script>
+
 
 
 
