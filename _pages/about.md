@@ -130,27 +130,51 @@ My research areas include:
 # 💻 Work Experience
 
 <div style="display: flex; flex-direction: column; gap: 30px;">
-  
-  <!-- Work Experience 1 -->
-  <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; padding-bottom: 30px;">
-    <div style="flex: 0 0 250px;">
-      <div class="custom-badge badge-work">Life during Master's studies</div>
-      <video width="100%" controls class="media-container">
-        <source src="video/work-life1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
-    
-    <div style="flex: 1;">
-      <p style="margin: 0; line-height: 1.6;">
-        <strong>📅 2017.09 - 2020.03</strong><br>
-        <strong>🏢 Shanghai Shen Teng Technology Co., Ltd.</strong><br>
-        <strong>👔 Student Intern</strong><br><br>
-        Working on smart city related projects in the R&D department. Contributed to intelligent city infrastructure development, focusing on computer vision applications for urban management and monitoring systems.
-      </p>
-    </div>
-  </div>
-  
+
+<!-- Work Experience 1 -->
+<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; padding-bottom: 30px;">
+
+<div style="flex: 0 0 250px;">
+<div class="custom-badge badge-work">Life during Master's studies</div>
+<video width="100%" controls class="media-container">
+<source src="video/work-life1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+
+<div style="flex: 1;">
+<p style="margin: 0; line-height: 1.6;">
+<strong>📅 2017.09 - 2020.03</strong><br>
+<strong>🏢 Shanghai Shen Teng Technology Co., Ltd.</strong><br>
+<strong>👔 Student Intern</strong><br><br>
+
+Working on smart city related projects in the R&D department. Contributed to intelligent city infrastructure development, focusing on computer vision applications for urban management and monitoring systems.
+<br><br>
+
+<strong>🏆 Algorithm Competition Achievements (During Master's Studies)</strong><br><br>
+
+In my spare time, I actively participated in challenging algorithm competitions:
+<br><br>
+
+<strong>1. Huawei Cloud AI Competition · Garbage Sorting Challenge Cup (2019)</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Ranked <strong>32nd out of 2,611 teams</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;• GitHub: <a href="https://github.com/Ruru-Xu/project4--Garbage-sorting" target="_blank">Garbage Sorting Project</a>
+<br><br>
+
+<strong>2. Tianchi Competition · Tianjin South Digital Manufacturing Algorithm Challenge</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Ranked <strong>53rd out of 2,157 teams worldwide</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;• GitHub: <a href="https://github.com/Ruru-Xu/project5--Monitoring-of-restricted-goods-in-logistics" target="_blank">Monitoring of Restricted Goods in Logistics</a>
+<br><br>
+
+<strong>3. China National Mathematical Contest in Modeling for Graduate Students</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Awarded <strong>Third-Class Prize</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Officially recorded on Master's degree transcript
+
+</p>
+</div>
+
+</div>
+
 </div>
 
 <span class='anchor' id='-toefl'></span>
@@ -445,6 +469,7 @@ backToTopButton.onclick = function() {
   document.documentElement.scrollTop = 0;
 };
 </script>
+
 
 
 
