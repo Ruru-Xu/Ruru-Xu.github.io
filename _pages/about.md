@@ -156,7 +156,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **PhD Candidate** in Computer Engineering at <a href="https://www.itu.edu.tr/en"><img src='images/itu-logo.png' width='20' height='20' /> Istanbul Technical University</a>, supervised by [Prof. Ilkay Oksuz](https://drive.google.com/file/d/1HO0SB8UNbSZ3Pqn97XBQZtE-UhqxmA1x/view). My research focuses on **MRI reconstruction using deep learning and reinforcement learning**, with applications in cardiac imaging and medical image analysis.
+I am a **PhD Candidate** in Computer Engineering at <a href="https://www.itu.edu.tr/en"><img src='images/itu-logo.png' width='20' height='20' /> Istanbul Technical University</a>, my professor is [Ilkay Oksuz](https://drive.google.com/file/d/1HO0SB8UNbSZ3Pqn97XBQZtE-UhqxmA1x/view). My research focuses on **MRI reconstruction using deep learning and reinforcement learning**, with applications in cardiac imaging and medical image analysis.
 
 **🔬 Research Interests:**  
 Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instance Segmentation · Object Detection · Computer Vision
@@ -164,8 +164,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 **🏆 Recent Achievements:**  
 - 🥇 **5th Place** in MICCAI 2025 CMRxRecon Challenge (Task 1)  
 - 🥉 **3rd Place** in MICCAI 2025 CMRxRecon Challenge (Task 2)  
-- 📄 Published in **Nature Machine Intelligence** (IF: 23.9, Under Review)  
-- 📊 **10+ publications** with **14+ citations** across top-tier venues
+- 📊 **10+ publications** with **14+ citations**
 
 **📍 Previous Experience:**  
 - 2018-2020: Exchange Student at **Fudan University** (Autonomous Driving & Computer Vision)  
@@ -602,3 +601,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
