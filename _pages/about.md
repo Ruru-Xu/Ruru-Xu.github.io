@@ -173,11 +173,6 @@ Gap year: 2020~2021, Epidemic Volunteer
 **🔬 Research Interests:**  
 Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instance Segmentation · Object Detection · Computer Vision
 
-**🏆 Recent Achievements:**  
-- 🥇 **5th Place** in MICCAI 2025 CMRxRecon Challenge (Task 1)  
-- 🥉 **3rd Place** in MICCAI 2025 CMRxRecon Challenge (Task 2)  
-- 📊 **10+ publications** with **14+ citations**
-
 <span class='anchor' id='highlights'></span>
 
 # 🌟 Research Highlights
@@ -593,6 +588,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
