@@ -305,31 +305,36 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 # 📝 Publications
 
-### 🌟 Top-Tier Journals
-
+### Journal Papers
 ---
 
-<div class="highlight-paper paper-nature">
-  <strong>TMI</strong> (IF: 9.8) - Under Review<br>
-  Wang F, ..., <code>Xu R</code>, <code>Oksuz I</code>, ... "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge"<br>
-  <a href="https://arxiv.org/abs/2503.03971">[Paper]</a> | Citations: <span class="citation-high">1</span>
+<div class='paper-box'>
+<div class='anchor' markdown="1">
+
+- `Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." **Pattern Recognition Letters** (Q1; IF:3.9) [Under Review, Revise stage]
+
 </div>
 
-<div class="highlight-paper paper-q1">
-  <strong>Pattern Recognition Letters</strong> (Q1, IF: 3.9) - Under Review (Revise stage)<br>
-  <code>Xu R</code>, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning"
+<div class='anchor' markdown="1">
+
+- Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (**Top Journal: Nature Machine Intelligence**; IF:23.9) Under Review
+  [[Online]](https://arxiv.org/abs/2503.03971) | Citations: <span class="citation-high">1</span>
+
 </div>
 
-<div class="highlight-paper paper-q1">
-  <strong>Neurocomputing</strong> (Q1, IF: 6.5) - 2025<br>
-  <code>Xu R</code>, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity"<br>
-  <a href="https://www.sciencedirect.com/science/article/pii/S092523122500788X">[Paper]</a> <a href="https://github.com/Ruru-Xu/KSRO">[Code]</a> | Citations: <span class="citation-high">2</span>
+<div class='anchor' markdown="1">
+
+- `Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity." **Neurocomputing** (2025). (Q1; IF:6.5)
+  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) | Citations: <span class="citation-high">2</span>
+
 </div>
 
-<div class="highlight-paper paper-q1">
-  <strong>Image and Vision Computing</strong> (Q1, IF: 4.2) - 2024<br>
-  <code>Xu R</code>, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning"<br>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0262885624003056">[Paper]</a> | Citations: <span class="citation-high">5</span>
+<div class='anchor' markdown="1">
+
+- `Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." **Image and Vision Computing** (2024). (Q1; IF:4.2)
+  [[Online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: <span class="citation-high">5</span>
+
+</div>
 </div>
 
 ### 🎤 Conference Papers
@@ -588,6 +593,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
