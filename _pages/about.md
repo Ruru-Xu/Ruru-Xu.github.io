@@ -154,6 +154,21 @@ redirect_from:
 }
 </style>
 
+
+
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px; border-radius: 8px; text-align: center; margin-bottom: 30px;">
+  <a href="#highlights" style="color: white; margin: 0 15px; text-decoration: none;">🌟 Highlights</a> |
+  <a href="#news" style="color: white; margin: 0 15px; text-decoration: none;">🔥 News</a> |
+  <a href="#-xl" style="color: white; margin: 0 15px; text-decoration: none;">🎓 Education</a> |
+  <a href="#-lwzl" style="color: white; margin: 0 15px; text-decoration: none;">📝 Publications</a> |
+  <a href="#-ryjx" style="color: white; margin: 0 15px; text-decoration: none;">🏅 Challenges</a> |
+  <a href="#-hobbies" style="color: white; margin: 0 15px; text-decoration: none;">✨ Hobbies</a>
+</div>
+
+
+
+
 <span class='anchor' id='about-me'></span>
 
 I am a PhD student at Istanbul Technical University, Computer Engineering, where I have studied since 2021. I work as a researcher in the 2232 International Fellowship for Outstanding Researchers Program of TUBITAK (Project No: 118C353) and the ITU BAP research funds (Project ID: 47296). My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is [Ilkay Oksuz](https://drive.google.com/file/d/1HO0SB8UNbSZ3Pqn97XBQZtE-UhqxmA1x/view).
@@ -264,8 +279,8 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 <div style="flex: 1;">
   <p style="margin: 0; line-height: 1.6;">
-    <strong>📅 2017.09 - 2020.03 Student Intern</strong><br>
-    <strong>🏢 Shanghai Shen Teng Technology Co., Ltd.</strong><br>
+<strong>📅 2017.09 - 2020.03 | Student Intern</strong><br>
+<strong>🏢 Shanghai Shen Teng Technology Co., Ltd. - R&D Department</strong><br><br>
     
     Working on smart city related projects in the R&D department. Contributed to intelligent city infrastructure development, focusing on computer vision applications for urban management and monitoring systems.
     <br><br>
@@ -593,6 +608,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
