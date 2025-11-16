@@ -324,6 +324,12 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 ---
 
 <div class='paper-box'>
+  <div class='anchor' markdown="1">
+
+- Xu R, Oksuz I. “Undersampled K-Space Information Recovery with Long-Range Temporal Memory for Multi-Coil MRI Reconstruction.” [\textcolor{red}{Top} journal: MIA, IF: 11.8, Under Review]
+
+</div>
+
 <div class='anchor' markdown="1">
 
 - `Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." **Pattern Recognition Letters** (Q1; IF:3.9) [Under Review, Revise stage]
@@ -608,6 +614,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
