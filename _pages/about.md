@@ -178,11 +178,6 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 - 🥉 **3rd Place** in MICCAI 2025 CMRxRecon Challenge (Task 2)  
 - 📊 **10+ publications** with **14+ citations**
 
-**📍 Previous Experience:**  
-- 2018-2020: Exchange Student at **Fudan University** (Autonomous Driving & Computer Vision)  
-- 2017-2020: Master's at **SICT** (Computer Vision)  
-- 2016-2017: Gap Year as Solo Backpacker (Traveled across China 🚴‍♀️)
-
 <span class='anchor' id='highlights'></span>
 
 # 🌟 Research Highlights
@@ -598,5 +593,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
