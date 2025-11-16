@@ -156,7 +156,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **PhD Candidate** in Computer Engineering at <a href="https://www.itu.edu.tr/en"><img src='images/itu-logo.png' width='20' height='20' /> Istanbul Technical University</a>, my professor is [Ilkay Oksuz](https://drive.google.com/file/d/1HO0SB8UNbSZ3Pqn97XBQZtE-UhqxmA1x/view). My research focuses on **MRI reconstruction using deep learning and reinforcement learning**, with applications in cardiac imaging and medical image analysis.
+I am a PhD student at Istanbul Technical University, Computer Engineering, where I have studied since 2021. I work as a researcher in the 2232 International Fellowship for Outstanding Researchers Program of TUBITAK (Project No: 118C353) and the ITU BAP research funds (Project ID: 47296). My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is [Ilkay Oksuz](https://drive.google.com/file/d/1HO0SB8UNbSZ3Pqn97XBQZtE-UhqxmA1x/view).
+
+From 2018 to 2020, I was an exchange student at the Lab of Interactive Media Computing at Fudan University. During this time, I was working on projects related to autonomous driving, which involved object detection, pedestrian recognition, Instance segmentation, path planning, etc., working under the guidance of Professor Cheng Jin.
+
+From 2017 to 2020, I pursued my Master's studies at the SICT(Shanghai Institute of Computing Technology), with a research direction in computer vision. My professor is Xinli Min.
+
+From 2017 to 2020, I interned at Shanghai Shen Teng Technology Co., Ltd. . My work there involved contributing to smart city-related projects.
+
+In 2016, I earned my Bachelor's degree in Computer Science and Technology.
+
+Gap year: 2016~2017, Backpacker, traveling alone.
+
+Gap year: 2020~2021, Epidemic Volunteer
 
 **🔬 Research Interests:**  
 Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instance Segmentation · Object Detection · Computer Vision
@@ -262,9 +274,8 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 <div style="flex: 1;">
   <p style="margin: 0; line-height: 1.6;">
-    <strong>📅 2017.09 - 2020.03</strong><br>
+    <strong>📅 2017.09 - 2020.03 Student Intern</strong><br>
     <strong>🏢 Shanghai Shen Teng Technology Co., Ltd.</strong><br>
-    <strong>👔 Student Intern</strong><br><br>
     
     Working on smart city related projects in the R&D department. Contributed to intelligent city infrastructure development, focusing on computer vision applications for urban management and monitoring systems.
     <br><br>
@@ -309,7 +320,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 ---
 
 <div class="highlight-paper paper-nature">
-  <strong>Nature Machine Intelligence</strong> (IF: 23.9) - Under Review<br>
+  <strong>TMI</strong> (IF: 9.8) - Under Review<br>
   Wang F, ..., <code>Xu R</code>, <code>Oksuz I</code>, ... "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge"<br>
   <a href="https://arxiv.org/abs/2503.03971">[Paper]</a> | Citations: <span class="citation-high">1</span>
 </div>
@@ -541,25 +552,11 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 <div style="flex: 1;">
   <p style="margin: 0; line-height: 1.8;">
-    <strong>🎯 Personal Interests & Activities</strong><br><br>
-    
-    🚴‍♀️ <strong>Long-Distance Cycling</strong><br>
-    Cycled over <strong>5,000 km</strong> across multiple provinces and cities during my three-year Master's studies. My longest single ride was 200 km in one day! Cycling has taught me perseverance and the beauty of slow travel.
-    <br><br>
-    
-    ✈️ <strong>Solo Backpacking Adventures</strong><br>
-    Traveled independently across <strong>half of China</strong> during my gap year (2016-2017). From the deserts of Xinjiang to the mountains of Tibet, I've explored diverse landscapes and cultures. Favorite memory: watching the sunrise at Mount Huangshan.
-    <br><br>
-    
-    📚 <strong>Ancient Chinese Literature</strong><br>
-    Deep passion for ancient Chinese poetry and classical literature. Served as editor of my high school literary society for three years. I especially love Tang Dynasty poetry and the philosophical depth of Chinese classics.
-    <br><br>
-    
-    🤝 <strong>Volunteer Work</strong><br>
-    <strong>Turkey Earthquake Relief Volunteer (2023):</strong> Participated in earthquake relief efforts, providing support to affected communities. This experience reinforced my commitment to using my skills for social good.
-    <br><br>
-    
-    <strong>COVID-19 Epidemic Volunteer (2020-2021):</strong> Served as a volunteer during the pandemic, contributing to community health and safety efforts during my gap year.
+    <strong>🎯 Personal Interests & Activities</strong><br><br>  
+    🚴‍♀️ <strong>Favorite Sport:</strong> Long-distance cycling (Cycled over 5,000 km across multiple provinces and cities during my three-year Master's studies)<br>
+    ✈️ <strong>Favorite Travel Style:</strong> Solo backpacking adventures (Traveled independently across half of China)<br>
+    📚 <strong>Favorite Reading:</strong> Ancient Chinese poetry and literature (Served as editor of the school literary society for three years in high school)<br>
+    🤝 <strong>Most Memorable Volunteer Experience:</strong> Turkey Earthquake Relief Volunteer
   </p>
 </div>
 
@@ -601,4 +598,5 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
