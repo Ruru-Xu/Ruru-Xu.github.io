@@ -545,7 +545,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 # 🏛️ Academic Conference
 
-- *2026.02*, SCMR 2026, Paper accepted for an in-person presentation
+- *2026.02*, SCMR 2026, Abstract paper accepted for an in-person presentation
 - *2025.09*, MICCAI 2025, Oral Presentation
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Oral Presentation
@@ -614,6 +614,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
