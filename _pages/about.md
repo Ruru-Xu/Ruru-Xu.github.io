@@ -326,7 +326,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 <div class='paper-box'>
   <div class='anchor' markdown="1">
 
-- `Xu R`, Oksuz I. “Undersampled K-Space Information Recovery with Long-Range Temporal Memory for Multi-Coil MRI Reconstruction.” [**Top journal: MIA**, IF: 11.8, Under Review]
+- `Xu R`, Oksuz I. “Undersampled K-Space Information Recovery with Long-Range Temporal Memory for Multi-Coil MRI Reconstruction.” **Computer Methods and Programs in Biomedicine** [Q1; IF:4.8, Under Review]
 
 </div>
 
@@ -338,8 +338,8 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 <div class='anchor' markdown="1">
 
-- Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (**Top Journal: TMI**; IF:9.8) [Under Review, Revise stage]
-  [[Online]](https://arxiv.org/abs/2503.03971) | Citations: <span class="citation-high">1</span>
+- Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (**Top Journal: TMI**; IF:9.8)
+  [[Online]](https://ieeexplore.ieee.org/document/11284893) | Citations: <span class="citation-high">1</span>
 
 </div>
 
@@ -614,6 +614,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
