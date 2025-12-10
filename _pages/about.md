@@ -338,7 +338,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 <div class='anchor' markdown="1">
 
-- Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (**Top Journal: TMI**; IF:9.8)
+- Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Modality- and Sampling-Universal Learning Strategies for Accelerating Cardiovascular Imaging: Summary of the CMRxRecon2024 Challenge" (**Top Journal: TMI**; IF:9.8)
   [[Online]](https://ieeexplore.ieee.org/document/11284893) | Citations: <span class="citation-high">1</span>
 
 </div>
@@ -614,6 +614,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
