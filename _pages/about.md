@@ -469,7 +469,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 # 🏅 MICCAI Challenge
 
-> 🎯 **Consistently ranked Top 5** in MICCAI CMRxRecon Challenge (2024-2025), demonstrating expertise in cardiac MRI reconstruction across multiple tasks and evaluation criteria.
+> **Consistently ranked Top 5** in MICCAI CMRxRecon Challenge (2024-2025), demonstrating expertise in cardiac MRI reconstruction across multiple tasks and evaluation criteria.
 
 <div style="display: flex; flex-direction: column; gap: 30px;">
 
@@ -482,7 +482,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
   <div style="flex: 1;">
     <p style="margin: 0 0 15px 0; line-height: 1.6;">
       <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-      🥇 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">Two Special Tasks, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">5th</code> in Special Task1, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">4th</code> in Special Task2. Awards Ceremony will be held at the SCMR 2026, Brazil. We will have oral presentation</code>
+     🏆 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">Two Special Tasks, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">5th</code> in Special Task1, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">4th</code> in Special Task2. Awards Ceremony will be held at the SCMR 2026, Brazil. We will have oral presentation</code>
     </p>
   </div>
 </div>
@@ -496,7 +496,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
   <div style="flex: 1;">
     <p style="margin: 0 0 15px 0; line-height: 1.6;">
       <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-      🥇 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">5th Place Award</code> in Regular Task 1: CMR reconstruction model for multi-center evaluation
+     🏆 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">5th Place Award</code> in Regular Task 1: CMR reconstruction model for multi-center evaluation
     </p>
     <p style="margin: 0;">
       <a href="https://www.synapse.org/Synapse:syn59814210/wiki/635078">[Certification]</a>
@@ -513,7 +513,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
   <div style="flex: 1;">
     <p style="margin: 0 0 15px 0; line-height: 1.6;">
       <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-      🥉 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">3rd Place Award</code> in Regular Task 2: CMR reconstruction model for multiple diseases evaluation
+      🏆 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">3rd Place Award</code> in Regular Task 2: CMR reconstruction model for multiple diseases evaluation
     </p>
     <p style="margin: 0;">
       <a href="https://www.synapse.org/Synapse:syn59814210/wiki/635078">[Certification]</a>
@@ -614,6 +614,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
