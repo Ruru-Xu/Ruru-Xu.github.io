@@ -482,7 +482,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
   <div style="flex: 1;">
     <p style="margin: 0 0 15px 0; line-height: 1.6;">
       <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-      🥇 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">Top 5 teams on leaderboard in Two Special Tasks, Final rank will be announced at the SCMR 2026, Brazil. We will have oral presentation</code>
+      🥇 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">Two Special Tasks, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">5th</code> in Special Task1, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">4th</code> in Special Task2. Awards Ceremony will be held at the SCMR 2026, Brazil. We will have oral presentation</code>
     </p>
   </div>
 </div>
@@ -614,6 +614,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
