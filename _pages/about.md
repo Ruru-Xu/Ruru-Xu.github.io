@@ -332,7 +332,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 <div class='anchor' markdown="1">
 
-- `Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." **Pattern Recognition Letters** (Q1; IF:3.9) [Under Review, Revise stage]
+- `Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." **Pattern Recognition Letters** (Q1; IF:3.3) [Under Review, Revise stage]
 
 </div>
 
@@ -353,7 +353,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 <div class='anchor' markdown="1">
 
 - `Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." **Image and Vision Computing** (2024). (Q1; IF:4.2)
-  [[Online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: <span class="citation-high">5</span>
+  [[Online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: <span class="citation-high">6</span>
 
 </div>
 </div>
@@ -617,6 +617,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
