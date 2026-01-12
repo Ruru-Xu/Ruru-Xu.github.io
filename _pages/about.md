@@ -339,14 +339,14 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 <div class='anchor' markdown="1">
 
 - Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Modality- and Sampling-Universal Learning Strategies for Accelerating Cardiovascular Imaging: Summary of the CMRxRecon2024 Challenge" (**Top Journal: TMI**; IF:9.8)
-  [[Online]](https://ieeexplore.ieee.org/document/11284893) | Citations: <span class="citation-high">1</span>
+  [[Online]](https://ieeexplore.ieee.org/document/11284893) | Citations: <span class="citation-high">3</span>
 
 </div>
 
 <div class='anchor' markdown="1">
 
 - `Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity." **Neurocomputing** (2025). (Q1; IF:6.5)
-  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) | Citations: <span class="citation-high">2</span>
+  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) | Citations: <span class="citation-high">3</span>
 
 </div>
 
@@ -412,7 +412,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
     <p style="margin: 0;">
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15">[Online]</a>
       <a href="https://www.youtube.com/watch?v=tBZq-MMEHPw">[Video]</a>
-      <a href="https://github.com/Ruru-Xu/HyperCMR">[Code]</a> | Citations: <span class="citation-high">4</span>
+      <a href="https://github.com/Ruru-Xu/HyperCMR">[Code]</a> | Citations: <span class="citation-high">6</span>
     </p>
   </div>
 </div>
@@ -617,6 +617,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
