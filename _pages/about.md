@@ -324,6 +324,12 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 ---
 
 <div class='paper-box'>
+    <div class='anchor' markdown="1">
+
+- `Xu R`, K Anvari Hamedani, Yang Z, Oksuz I. “Hierarchical K-Space sampling with Mamba-based Reinforcement Learning for Efficient MRI Diagnosis.” **Expert Systems With Applications** [Q1; IF:7.5, Under Review]
+
+</div>
+
   <div class='anchor' markdown="1">
 
 - `Xu R`, Oksuz I. “Undersampled K-Space Information Recovery with Long-Range Temporal Memory for Multi-Coil MRI Reconstruction.” **Computer Methods and Programs in Biomedicine** [Q1; IF:4.8, Under Review]
@@ -617,6 +623,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
