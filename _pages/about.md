@@ -223,7 +223,11 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
 
 <div class="news-item">
-  <strong>[2026.02]</strong> 🎤 Paper accepted for in-person presentation at <strong>SCMR 2026</strong>, Brazil
+  <strong>[2026.02]</strong> 🥇 Won <strong>4th place</strong> in CMRxRecon Challenge Special Task 2
+</div>
+
+<div class="news-item">
+  <strong>[2026.02]</strong> 🥇 Won <strong>5th place</strong> in CMRxRecon Challenge Special Task 1
 </div>
 
 <div class="news-item">
@@ -231,20 +235,17 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 </div>
 
 <div class="news-item">
-  <strong>[2025.03]</strong> 🥉 Won <strong>3rd place</strong> in CMRxRecon Challenge Task 2
+  <strong>[2025.09]</strong> 🥉 Won <strong>3rd place</strong> in CMRxRecon Challenge Regular Task 2
 </div>
 
 <div class="news-item">
-  <strong>[2025.03]</strong> 🥇 Won <strong>5th place</strong> in CMRxRecon Challenge Task 1
+  <strong>[2025.09]</strong> 🥇 Won <strong>5th place</strong> in CMRxRecon Challenge Regular Task 1
 </div>
 
 <div class="news-item">
   <strong>[2025.01]</strong> 📄 Paper accepted in <strong>Neurocomputing</strong> (Q1, IF: 6.5)
 </div>
 
-<div class="news-item">
-  <strong>[2024.10]</strong> 🎤 Oral presentation at <strong>MICCAI 2024</strong>
-</div>
 
 </div>
 
@@ -623,6 +624,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
