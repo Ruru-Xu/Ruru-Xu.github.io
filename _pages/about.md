@@ -497,6 +497,23 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
   </div>
 </div>
 
+<!-- CMRxRecon 2025 Challenge - Task 2 -->
+<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
+  <div style="flex: 0 0 250px;">
+    <div class="custom-badge badge-2025">MICCAI 2025</div>
+    <img src='images/CMRxRecon2025-2.jpg' alt="CMRxRecon 2025 Task 2" class="media-container" style="width: 100%;">
+  </div>
+  <div style="flex: 1;">
+    <p style="margin: 0 0 15px 0; line-height: 1.6;">
+      <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
+      🏆 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">3rd Place Award</code> in Regular Task 2: CMR reconstruction model for multiple diseases evaluation
+    </p>
+    <p style="margin: 0;">
+      <a href="https://www.synapse.org/Synapse:syn59814210/wiki/635078">[Certification]</a>
+    </p>
+  </div>
+</div>
+
 <!-- CMRxRecon 2025 Challenge - Task 1 -->
 <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
   <div style="flex: 0 0 250px;">
@@ -514,22 +531,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
   </div>
 </div>
 
-<!-- CMRxRecon 2025 Challenge - Task 2 -->
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
-  <div style="flex: 0 0 250px;">
-    <div class="custom-badge badge-2025">MICCAI 2025</div>
-    <img src='images/CMRxRecon2025-2.jpg' alt="CMRxRecon 2025 Task 2" class="media-container" style="width: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <p style="margin: 0 0 15px 0; line-height: 1.6;">
-      <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-      🏆 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">3rd Place Award</code> in Regular Task 2: CMR reconstruction model for multiple diseases evaluation
-    </p>
-    <p style="margin: 0;">
-      <a href="https://www.synapse.org/Synapse:syn59814210/wiki/635078">[Certification]</a>
-    </p>
-  </div>
-</div>
+
 
 <!-- CMRxRecon 2024 Challenge -->
 <div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start;">
@@ -624,6 +626,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
