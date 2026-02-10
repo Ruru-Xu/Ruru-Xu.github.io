@@ -205,12 +205,12 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 </div>
 
 <div class="stat-card" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
-  <div class="stat-number">3</div>
+  <div class="stat-number">5</div>
   <div class="stat-label">MICCAI Awards</div>
 </div>
 
 <div class="stat-card" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
-  <div class="stat-number">4</div>
+  <div class="stat-number">5</div>
   <div class="stat-label">Conference Talks</div>
 </div>
 
@@ -623,6 +623,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
