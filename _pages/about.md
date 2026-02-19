@@ -489,7 +489,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
   <div style="flex: 1;">
     <p style="margin: 0 0 15px 0; line-height: 1.6;">
       <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-     🏆 Two Special Tasks, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">5th</code> in Special Task1, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">4th</code> in Special Task2. Awards Ceremony will be held at the SCMR 2026, Brazil. We will have oral presentation.
+     🏆 Two Special Tasks, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">5th</code> in Special Task1, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">4th</code> in Special Task2. SCMR 2026, Brazil.
     </p>
     <p style="margin: 0;">
       <a href="https://www.synapse.org/Synapse:syn59814210/wiki/634966">[Final Rank]</a>
@@ -557,7 +557,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 # 🏛️ Academic Conference
 
-- *2026.02*, SCMR 2026, Abstract paper accepted for an in-person presentation
+- *2026.02*, SCMR 2026, Oral presentation
 - *2025.09*, MICCAI 2025, Oral Presentation
 - *2024.10*, MICCAI 2024, Oral Presentation
 - *2022.09*, MICCAI 2022, Oral Presentation
@@ -626,6 +626,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
