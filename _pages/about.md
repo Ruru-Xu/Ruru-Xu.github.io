@@ -557,10 +557,10 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 # 🏛️ Academic Conference
 
-- *2026.02*, SCMR 2026, Oral presentation
-- *2025.09*, MICCAI 2025, Oral Presentation
-- *2024.10*, MICCAI 2024, Oral Presentation
-- *2022.09*, MICCAI 2022, Oral Presentation
+- *2026.02*, SCMR 2026, SCMR-MICCAI Session Oral presentation
+- *2025.09*, MICCAI 2025, Workshop Oral Presentation
+- *2024.10*, MICCAI 2024, Workshop Oral Presentation
+- *2022.09*, MICCAI 2022, Workshop Oral Presentation
 
 <span class='anchor' id='-hobbies'></span>
 
@@ -626,6 +626,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
