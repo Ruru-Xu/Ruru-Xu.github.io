@@ -223,6 +223,10 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
 
 <div class="news-item">
+  <strong>[2026.02]</strong> 📄 Article accepted in <strong>Pattern Recognition Letters</strong> (Q1, IF: 3.3)
+</div>
+
+<div class="news-item">
   <strong>[2026.02]</strong> 🥇 Won <strong>4th place</strong> in CMRxRecon Challenge Special Task 2
 </div>
 
@@ -231,7 +235,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 </div>
 
 <div class="news-item">
-  <strong>[2025.09]</strong> 🎉 Two papers accepted at <strong>MICCAI 2025</strong> with oral presentations!
+  <strong>[2025.09]</strong> 🎉 Two papers accepted at <strong>MICCAI2025 workshop</strong> with oral presentations!
 </div>
 
 <div class="news-item">
@@ -241,11 +245,6 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 <div class="news-item">
   <strong>[2025.09]</strong> 🥇 Won <strong>5th place</strong> in CMRxRecon Challenge Regular Task 1
 </div>
-
-<div class="news-item">
-  <strong>[2025.01]</strong> 📄 Paper accepted in <strong>Neurocomputing</strong> (Q1, IF: 6.5)
-</div>
-
 
 </div>
 
@@ -626,6 +625,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 </script>
+
 
 
 
