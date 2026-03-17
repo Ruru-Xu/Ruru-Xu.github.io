@@ -171,7 +171,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Looking for Postdoc position in the US** 
+**`Looking for Postdoc position in the US`**
 
 I am a PhD student at Istanbul Technical University, Computer Engineering, where I have studied since 2021. I work as a researcher in the 2232 International Fellowship for Outstanding Researchers Program of TUBITAK (Project No: 118C353) and the ITU BAP research funds (Project ID: 47296). My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is [Ilkay Oksuz](https://drive.google.com/file/d/1HO0SB8UNbSZ3Pqn97XBQZtE-UhqxmA1x/view).
 
