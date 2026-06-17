@@ -222,7 +222,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
 
-<div class="news-item">I
+<div class="news-item">
   <strong>[2026.06]</strong> 🧠 I will continue my research as a postdoctoral fellow at NYU Grossman School of Medicine
 </div>
 
