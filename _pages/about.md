@@ -222,28 +222,16 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
 
+<div class="news-item">I
+  <strong>[2026.06]</strong> 🎉 I will continue my research as a postdoctoral fellow at NYU Grossman School of Medicine
+</div>
+
+<div class="news-item">
+  <strong>[April 27, 2026]</strong> I successfully defended my PhD thesis, "Accelerated MRI Sampling and Reconstruction with Reinforcement Learning," at Istanbul Technical University, Computer Engineering.
+</div>
+
 <div class="news-item">
   <strong>[2026.02]</strong> 📄 Article accepted in <strong>Pattern Recognition Letters</strong> (Q1, IF: 3.3)
-</div>
-
-<div class="news-item">
-  <strong>[2026.02]</strong> 🥇 Won <strong>4th place</strong> in CMRxRecon Challenge Special Task 2
-</div>
-
-<div class="news-item">
-  <strong>[2026.02]</strong> 🥇 Won <strong>5th place</strong> in CMRxRecon Challenge Special Task 1
-</div>
-
-<div class="news-item">
-  <strong>[2025.09]</strong> 🎉 Two papers accepted at <strong>MICCAI2025 workshop</strong> with oral presentations!
-</div>
-
-<div class="news-item">
-  <strong>[2025.09]</strong> 🥉 Won <strong>3rd place</strong> in CMRxRecon Challenge Regular Task 2
-</div>
-
-<div class="news-item">
-  <strong>[2025.09]</strong> 🥇 Won <strong>5th place</strong> in CMRxRecon Challenge Regular Task 1
 </div>
 
 </div>
@@ -252,7 +240,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 # 🎓 Education
 
-- *2021.03 - now*, <img src='images/itu-logo.png' width='20' height='20' /> <a href="https://www.itu.edu.tr/en">Istanbul Technical University</a>, Computer Engineering, PhD Candidate
+- *2021.03 - 2026.05*, <img src='images/itu-logo.png' width='20' height='20' /> <a href="https://www.itu.edu.tr/en">Istanbul Technical University</a>, Computer Engineering, PhD Candidate
 
 - *2018.04 - 2020.03*, <img src='images/fudan-logo.png' width='20' height='20' /> <a href="https://www.fudan.edu.cn/en/">Fudan University</a>, Lab of Interactive Media Computing, Exchange learning
 
@@ -332,7 +320,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
   <div class='anchor' markdown="1">
 
-- `Xu R`, Oksuz I. “Undersampled K-Space Information Recovery with Long-Range Temporal Memory for Multi-Coil MRI Reconstruction.” **Computer Methods and Programs in Biomedicine** [Q1; IF:4.8, Under Review]
+- `Xu R`, Oksuz I. “Undersampled K-Space Information Recovery with Long-Range Temporal Memory for Multi-Coil MRI Reconstruction.” **Computer Methods and Programs in Biomedicine** [Q1; IF:6.4, Under Revision]
 
 </div>
 
