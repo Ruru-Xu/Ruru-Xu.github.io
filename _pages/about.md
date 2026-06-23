@@ -171,7 +171,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at Istanbul Technical University, Computer Engineering, where I have studied since 2021. I work as a researcher in the 2232 International Fellowship for Outstanding Researchers Program of TUBITAK (Project No: 118C353) and the ITU BAP research funds (Project ID: 47296). My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is [Ilkay Oksuz](https://drive.google.com/file/d/1HO0SB8UNbSZ3Pqn97XBQZtE-UhqxmA1x/view).
+I will join NYU Grossman School of Medicine as a Postdoctoral Fellow in September 2026 under the supervision of Dr. Ilias Giannakopoulos. My research will focus on MRI motion correction and accelerated image reconstruction
+
+From 2021 to 2026, I was a PhD student at Istanbul Technical University, Computer Engineering. My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is Ilkay Oksuz. 
 
 From 2018 to 2020, I was an exchange student at the Lab of Interactive Media Computing at Fudan University. During this time, I was working on projects related to autonomous driving, which involved object detection, pedestrian recognition, Instance segmentation, path planning, etc., working under the guidance of Professor Cheng Jin.
 
@@ -231,7 +233,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 </div>
 
 <div class="news-item">
-  <strong>[2026.02]</strong> 📄 Article accepted in <strong>Pattern Recognition Letters</strong> (Q1, IF: 3.3)
+  <strong>[2026.02]</strong> 📄 Article accepted in <strong>Pattern Recognition Letters</strong> (Q1, IF: 3.5)
 </div>
 
 </div>
@@ -240,7 +242,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 # 🎓 Education
 
-- *2021.03 - 2026.05*, <img src='images/itu-logo.png' width='20' height='20' /> <a href="https://www.itu.edu.tr/en">Istanbul Technical University</a>, Computer Engineering, PhD Candidate
+- *2021.03 - 2026.05*, <img src='images/itu-logo.png' width='20' height='20' /> <a href="https://www.itu.edu.tr/en">Istanbul Technical University</a>, Computer Engineering, Doctoral degree
 
 - *2018.04 - 2020.03*, <img src='images/fudan-logo.png' width='20' height='20' /> <a href="https://www.fudan.edu.cn/en/">Fudan University</a>, Lab of Interactive Media Computing, Exchange learning
 
@@ -311,12 +313,12 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 ### Journal Papers
 ---
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
     <div class='anchor' markdown="1">
 
 - `Xu R`, K Anvari Hamedani, Yang Z, Oksuz I. “Hierarchical K-Space sampling with Mamba-based Reinforcement Learning for Efficient MRI Diagnosis.” **Expert Systems With Applications** [Q1; IF:7.5, Under Review] [[Online]](https://www.researchgate.net/publication/400151877_Hierarchical_K-Space_sampling_with_Mamba-based_Reinforcement_Learning_for_Efficient_MRI_Diagnosis)
 
-</div>
+</div> -->
 
   <div class='anchor' markdown="1">
 
@@ -326,28 +328,28 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 <div class='anchor' markdown="1">
 
-- `Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." **Pattern Recognition Letters** (Q1; IF:3.3) (2026). 
+- `Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." **Pattern Recognition Letters** (Q1; IF:3.5) (2026). 
   [[Online]](https://www.sciencedirect.com/science/article/pii/S0167865526000802) [[Code]](https://github.com/Ruru-Xu/RL-Brain-MRI-Reconstruction)
 
 </div>
 
 <div class='anchor' markdown="1">
 
-- Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Modality- and Sampling-Universal Learning Strategies for Accelerating Cardiovascular Imaging: Summary of the CMRxRecon2024 Challenge" (**Top Journal: TMI**; IF:9.8)
+- Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Modality- and Sampling-Universal Learning Strategies for Accelerating Cardiovascular Imaging: Summary of the CMRxRecon2024 Challenge" (**Top Journal: TMI**; IF:12.4)
   [[Online]](https://ieeexplore.ieee.org/document/11284893) | Citations: <span class="citation-high">3</span>
 
 </div>
 
 <div class='anchor' markdown="1">
 
-- `Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity." **Neurocomputing** (2025). (Q1; IF:6.5)
+- `Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity." **Neurocomputing** (2025). (Q1; IF:6.7)
   [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) | Citations: <span class="citation-high">3</span>
 
 </div>
 
 <div class='anchor' markdown="1">
 
-- `Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." **Image and Vision Computing** (2024). (Q1; IF:4.2)
+- `Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." **Image and Vision Computing** (2024). (Q1; IF:5.0)
   [[Online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: <span class="citation-high">6</span>
 
 </div>
