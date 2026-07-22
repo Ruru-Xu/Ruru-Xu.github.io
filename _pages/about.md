@@ -158,7 +158,6 @@ redirect_from:
 
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px; border-radius: 8px; text-align: center; margin-bottom: 30px;">
-  <a href="#highlights" style="color: white; margin: 0 15px; text-decoration: none;">🌟 Highlights</a> |
   <a href="#news" style="color: white; margin: 0 15px; text-decoration: none;">🔥 News</a> |
   <a href="#-xl" style="color: white; margin: 0 15px; text-decoration: none;">🎓 Education</a> |
   <a href="#-lwzl" style="color: white; margin: 0 15px; text-decoration: none;">📝 Publications</a> |
@@ -190,33 +189,6 @@ Gap year: 2020~2021, Epidemic Volunteer
 **🔬 Research Interests:**  
 Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instance Segmentation · Object Detection · Computer Vision
 
-<span class='anchor' id='highlights'></span>
-
-# 🌟 Research Highlights
-
-<div class="stats-grid">
-
-<div class="stat-card" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-  <div class="stat-number">10+</div>
-  <div class="stat-label">Publications</div>
-</div>
-
-<div class="stat-card" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
-  <div class="stat-number">14+</div>
-  <div class="stat-label">Total Citations</div>
-</div>
-
-<div class="stat-card" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
-  <div class="stat-number">5</div>
-  <div class="stat-label">MICCAI Awards</div>
-</div>
-
-<div class="stat-card" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
-  <div class="stat-number">5</div>
-  <div class="stat-label">Conference Talks</div>
-</div>
-
-</div>
 
 <span class='anchor' id='news'></span>
 
