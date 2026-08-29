@@ -402,7 +402,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
     </p>
     <p style="margin: 0;">
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31">[Online]</a>
-      <a href="https://www.youtube.com/watch?v=f32xa3Vds3o">[Video]</a> | Citations: <span class="citation-high">2</span>
+      <a href="https://www.youtube.com/watch?v=f32xa3Vds3o">[Video]</a>
     </p>
   </div>
 </div>
@@ -520,14 +520,7 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 </div>
 
 
-<span class='anchor' id='-xshy'></span>
 
-# 🏛️ Academic Conference
-
-- *2026.02*, SCMR 2026, SCMR-MICCAI Session Oral presentation
-- *2025.09*, MICCAI 2025, Workshop Oral Presentation
-- *2024.10*, MICCAI 2024, Workshop Oral Presentation
-- *2022.09*, MICCAI 2022, Workshop Oral Presentation
 
 
 
