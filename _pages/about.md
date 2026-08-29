@@ -520,6 +520,17 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 </div>
 
 
+<span class='anchor' id='-xshy'></span>
+
+# 🏛️ Academic Conference
+
+- *2026.02*, SCMR 2026, SCMR-MICCAI Session Oral presentation
+- *2025.09*, MICCAI 2025, Workshop Oral Presentation
+- *2024.10*, MICCAI 2024, Workshop Oral Presentation
+- *2022.09*, MICCAI 2022, Workshop Oral Presentation
+
+
+
 <span class='anchor' id='-hobbies'></span>
 
 # ✨ Life Beyond Research
