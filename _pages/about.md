@@ -312,21 +312,21 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 <div class='anchor' markdown="1">
 
 - Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Modality- and Sampling-Universal Learning Strategies for Accelerating Cardiovascular Imaging: Summary of the CMRxRecon2024 Challenge" (**Top Journal: TMI**; IF:12.4)
-  [[Online]](https://ieeexplore.ieee.org/document/11284893) | Citations: <span class="citation-high">3</span>
+  [[Online]](https://ieeexplore.ieee.org/document/11284893)
 
 </div>
 
 <div class='anchor' markdown="1">
 
 - `Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity." **Neurocomputing** (2025). (Q1; IF:6.7)
-  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO) | Citations: <span class="citation-high">3</span>
+  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO)
 
 </div>
 
 <div class='anchor' markdown="1">
 
 - `Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." **Image and Vision Computing** (2024). (Q1; IF:5.0)
-  [[Online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056) | Citations: <span class="citation-high">6</span>
+  [[Online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056)
 
 </div>
 </div>
@@ -519,14 +519,6 @@ Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instan
 
 </div>
 
-<span class='anchor' id='-xshy'></span>
-
-# 🏛️ Academic Conference
-
-- *2026.02*, SCMR 2026, SCMR-MICCAI Session Oral presentation
-- *2025.09*, MICCAI 2025, Workshop Oral Presentation
-- *2024.10*, MICCAI 2024, Workshop Oral Presentation
-- *2022.09*, MICCAI 2022, Workshop Oral Presentation
 
 <span class='anchor' id='-hobbies'></span>
 
