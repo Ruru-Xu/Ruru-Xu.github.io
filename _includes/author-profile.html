@@ -4,31 +4,36 @@
   {% assign author = site.author %}
 {% endif %}
 
-<aside itemscope itemtype="http://schema.org/Person" class="profile_box">
-  <div class="author__avatar">
-    <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image">
+<div itemscope itemtype="http://schema.org/Person" class="author-card">
+  <a href="{{ '/' | relative_url }}" class="author-avatar-link">
+    <img src="{{ author.avatar | relative_url }}" class="author-avatar" alt="{{ author.name }}">
+  </a>
+
+  <h2 class="author-name">{{ author.name }}</h2>
+  <p class="author-role">Incoming Postdoctoral Researcher</p>
+  <p class="author-institution">NYU Grossman School of Medicine</p>
+
+  <div class="author-location">
+    <i class="fas fa-map-marker-alt" aria-hidden="true"></i> New York, NY
   </div>
 
-  <div class="author__content">
-    <h2 class="author__name" itemprop="name">{{ author.name }}</h2>
-    <p class="author__role">Incoming Postdoctoral Researcher</p>
-    <p class="author__affiliation">
-      <a href="https://med.nyu.edu/" target="_blank" rel="noopener">
-        NYU Grossman School of Medicine
-      </a>
-    </p>
-  </div>
+  <nav class="author-links" aria-label="Academic links">
+    {% if author.email %}
+      <a href="mailto:{{ author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i><span>Email</span></a>
+    {% endif %}
+    {% if author.googlescholar %}
+      <a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Scholar</span></a>
+    {% endif %}
+    {% if author.github %}
+      <a href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
+    {% endif %}
+    {% if author.linkedin %}
+      <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
+    {% endif %}
+  </nav>
 
-  <div class="author__links">
-    <a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i><span>Email</span></a>
-    <a href="{{ author.googlescholar }}" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i><span>Google Scholar</span></a>
-    <a href="https://github.com/{{ author.github }}" target="_blank" rel="noopener"><i class="fab fa-github"></i><span>GitHub</span></a>
-    <a href="https://www.linkedin.com/in/{{ author.linkedin }}/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i><span>LinkedIn</span></a>
-    <a href="{{ '/CV_Ruru.pdf' | relative_url }}"><i class="fas fa-file-pdf"></i><span>CV</span></a>
+  <div class="sidebar-note">
+    <span class="sidebar-note__dot"></span>
+    <span>MRI · Medical Imaging · Computer Vision</span>
   </div>
-
-  <div class="author__location">
-    <i class="fas fa-map-marker-alt"></i>
-    <span>New York, NY</span>
-  </div>
-</aside>
+</div>
