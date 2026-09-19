@@ -1,620 +1,386 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Ruru Xu | MRI Reconstruction, Motion Correction and Reinforcement Learning"
 author_profile: true
 redirect_from:
-- /about/
-- /about.html
+  - /about/
+  - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<span class="anchor" id="about-me"></span>
 
-<style>
-/* 响应式设计 */
-@media (max-width: 768px) {
-  .responsive-flex {
-    flex-direction: column !important;
-  }
-  .responsive-flex > div:first-child {
-    flex: 1 1 100% !important;
-    max-width: 100% !important;
-  }
-  .stats-grid {
-    grid-template-columns: repeat(2, 1fr) !important;
-  }
-}
-
-/* 悬停效果 */
-.hover-card {
-  transition: all 0.3s ease;
-}
-.hover-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
-}
-
-/* Badge 统一样式 */
-.custom-badge {
-  background-color: #ff6b6b;
-  color: white;
-  padding: 4px 8px;
-  border-radius: 4px;
-  display: inline-block;
-  margin-bottom: 10px;
-  font-size: 12px;
-  font-weight: bold;
-}
-.badge-2025 { background-color: #ff6b6b; }
-.badge-2024 { background-color: #4ecdc4; }
-.badge-2022 { background-color: #95e1d3; }
-.badge-work { background-color: #6c5ce7; }
-.badge-hobby { background-color: #fdcb6e; }
-
-/* 引用数高亮 */
-.citation-high {
-  color: #e74c3c;
-  font-weight: bold;
-}
-
-/* 数据看板样式 */
-.stats-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
-  margin: 30px 0;
-}
-
-.stat-card {
-  color: white;
-  padding: 25px;
-  border-radius: 12px;
-  text-align: center;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-  transition: transform 0.3s ease;
-}
-
-.stat-card:hover {
-  transform: translateY(-8px);
-}
-
-.stat-number {
-  font-size: 36px;
-  font-weight: bold;
-  margin-bottom: 10px;
-}
-
-.stat-label {
-  font-size: 14px;
-  opacity: 0.9;
-}
-
-/* 新闻条目样式 */
-.news-item {
-  padding: 10px 0;
-  border-bottom: 1px dashed #e0e0e0;
-}
-
-.news-item:last-child {
-  border-bottom: none;
-}
-
-/* 论文高亮卡片 */
-.highlight-paper {
-  padding: 15px;
-  border-left: 5px solid;
-  margin-bottom: 15px;
-  border-radius: 5px;
-}
-
-.paper-nature {
-  background: #fff3cd;
-  border-color: #ffc107;
-}
-
-.paper-q1 {
-  background: #d1ecf1;
-  border-color: #0c5460;
-}
-
-/* 返回顶部按钮 */
-#backToTop {
-  position: fixed;
-  bottom: 40px;
-  right: 40px;
-  background-color: #3498db;
-  color: white;
-  border: none;
-  border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  font-size: 20px;
-  cursor: pointer;
-  display: none;
-  z-index: 1000;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
-  transition: all 0.3s ease;
-}
-
-#backToTop:hover {
-  background-color: #2980b9;
-  transform: translateY(-5px);
-}
-
-/* 图片/视频样式 */
-.media-container {
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  overflow: hidden;
-}
-</style>
-
-
-
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px; border-radius: 8px; text-align: center; margin-bottom: 30px;">
-  <a href="#news" style="color: white; margin: 0 15px; text-decoration: none;">🔥 News</a> |
-  <a href="#-xl" style="color: white; margin: 0 15px; text-decoration: none;">🎓 Education</a> |
-  <a href="#-lwzl" style="color: white; margin: 0 15px; text-decoration: none;">📝 Publications</a> |
-  <a href="#-ryjx" style="color: white; margin: 0 15px; text-decoration: none;">🏅 Challenges</a> |
-  <a href="#-hobbies" style="color: white; margin: 0 15px; text-decoration: none;">✨ Hobbies</a>
-</div>
-
-
-
-
-<span class='anchor' id='about-me'></span>
-
-I will join NYU Grossman School of Medicine as a Postdoctoral Fellow in September 2026 under the supervision of Dr. Ilias Giannakopoulos. My research will focus on MRI motion correction and accelerated image reconstruction
-
-From 2021 to 2026, I was a PhD student at Istanbul Technical University, Computer Engineering. My research focuses on MRI reconstruction using deep learning and reinforcement learning methods. My professor is Ilkay Oksuz. 
-
-From 2018 to 2020, I was an exchange student at the Lab of Interactive Media Computing at Fudan University. During this time, I was working on projects related to autonomous driving, which involved object detection, pedestrian recognition, Instance segmentation, path planning, etc., working under the guidance of Professor Cheng Jin.
-
-From 2017 to 2020, I pursued my Master's studies at the SICT(Shanghai Institute of Computing Technology), with a research direction in computer vision. My professor is Xinli Min.
-
-From 2017 to 2020, I interned at Shanghai Shen Teng Technology Co., Ltd. . My work there involved contributing to smart city-related projects.
-
-In 2016, I earned my Bachelor's degree in Computer Science and Technology.
-
-Gap year: 2016~2017, Backpacker, traveling alone.
-
-Gap year: 2020~2021, Epidemic Volunteer
-
-**🔬 Research Interests:**  
-Medical Image Analysis · MRI Reconstruction · Reinforcement Learning · Instance Segmentation · Object Detection · Computer Vision
-
-
-<span class='anchor' id='news'></span>
-
-# 🔥 News
-
-<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
-
-<div class="news-item">
-  <strong>[2026.07]</strong> 📄 Paper accepted in <strong>MICCAI 2026 Workshop on Efficient Medical AI</strong>
-</div>
-
-<div class="news-item">
-  <strong>[2026.06]</strong> 🧠 I will continue my research as a postdoctoral fellow at NYU Grossman School of Medicine
-</div>
-
-<div class="news-item">
-  <strong>[April 27, 2026]</strong> 🎓 I successfully defended my PhD thesis, "Accelerated MRI Sampling and Reconstruction with Reinforcement Learning," at Istanbul Technical University, Computer Engineering.
-</div>
-
-<div class="news-item">
-  <strong>[2026.02]</strong> 📄 Article accepted in <strong>Pattern Recognition Letters</strong> (Q1, IF: 3.5)
-</div>
-
-</div>
-
-<span class='anchor' id='-xl'></span>
-
-# 🎓 Education
-
-- *2021.03 - 2026.05*, <img src='images/itu-logo.png' width='20' height='20' /> <a href="https://www.itu.edu.tr/en">Istanbul Technical University</a>, Computer Engineering, Doctoral degree
-
-- *2018.04 - 2020.03*, <img src='images/fudan-logo.png' width='20' height='20' /> <a href="https://www.fudan.edu.cn/en/">Fudan University</a>, Lab of Interactive Media Computing, Exchange learning
-
-- *2017.09 - 2020.03*, <img src='images/SICT-logo.png' width='20' height='20' /> <a href="https://www.sh-sict.com/">SICT (Shanghai Institute of Computing Technology)</a>, Engineering Computer Software and Theory, Master's degree
-
-- *2012.09 - 2016.07*, <img src='images/Liaocheng-logo.png' width='20' height='20' /> <a href="https://www.lcu.edu.cn/">Liaocheng University</a>, Computer Science and Technology, Bachelor's degree
-
-<span class='anchor' id='-gzsx'></span>
-
-# 💻 Work Experience
-
-<div style="display: flex; flex-direction: column; gap: 30px;">
-
-<!-- Work Experience 1 -->
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; padding-bottom: 30px;">
-
-<div style="flex: 0 0 250px;">
-  <div class="custom-badge badge-work">Life during Master's studies</div>
-  <video width="100%" controls class="media-container">
-    <source src="video/work-life1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-<div style="flex: 1;">
-  <p style="margin: 0; line-height: 1.6;">
-<strong>📅 2017.09 - 2020.03 | Student Intern</strong><br>
-<strong>🏢 Shanghai Shen Teng Technology Co., Ltd. - R&D Department</strong><br><br>
-    
-    Working on smart city related projects in the R&D department. Contributed to intelligent city infrastructure development, focusing on computer vision applications for urban management and monitoring systems.
-    <br><br>
-    
-    <strong>🏆 Algorithm Competition Achievements (During Master's Studies)</strong><br><br>
-    
-    In my spare time, I actively participated in challenging algorithm competitions:
-    <br><br>
-    
-    <strong>1. Huawei Cloud AI Competition · Garbage Sorting Challenge Cup (2019)</strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;• Ranked <strong>32nd out of 2,611 teams</strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;• GitHub: <a href="https://github.com/Ruru-Xu/project4--Garbage-sorting" target="_blank">Garbage Sorting Project</a>
-    <br><br>
-    
-    <strong>2. Tianchi Competition · Tianjin South Digital Manufacturing Algorithm Challenge</strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;• Ranked <strong>53rd out of 2,157 teams worldwide</strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;• GitHub: <a href="https://github.com/Ruru-Xu/project5--Monitoring-of-restricted-goods-in-logistics" target="_blank">Monitoring of Restricted Goods in Logistics</a>
-    <br><br>
-    
-    <strong>3. China National Mathematical Contest in Modeling for Graduate Students</strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;• Awarded <strong>Third-Class Prize</strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;• Officially recorded on Master's degree transcript
+<section class="hero-intro">
+  <div class="hero-kicker">MRI RECONSTRUCTION · MOTION CORRECTION · REINFORCEMENT LEARNING</div>
+  <h1>Ruru Xu</h1>
+  <p class="hero-role">Incoming Postdoctoral Researcher at NYU Grossman School of Medicine</p>
+  <p class="hero-text">
+    I work on <strong>accelerated MRI acquisition and reconstruction</strong>, with a focus on
+    k-space sampling, motion correction, deep learning, and reinforcement learning.
+    My research aims to make MRI acquisition more efficient while preserving clinically
+    meaningful image quality.
   </p>
-</div>
-
-</div>
-
-</div>
-
-<span class='anchor' id='-toefl'></span>
-
-# 📋 TOEFL Score
-
-- *Score: 108 · Jan 2021*, Reading: 28, Listening: 26, Speaking: 24, Writing: 30
-
-<span class='anchor' id='-lwzl'></span>
-
-# 📝 Publications
-
-### Journal Papers
----
-
-<div class='paper-box'>
-  <!-- <div class='anchor' markdown="1">
-
-- `Xu R`, K Anvari Hamedani, Yang Z, Oksuz I. “Hierarchical K-Space sampling with Mamba-based Reinforcement Learning for Efficient MRI Diagnosis.” **Expert Systems With Applications** [Q1; IF:7.5, Under Review] [[Online]](https://www.researchgate.net/publication/400151877_Hierarchical_K-Space_sampling_with_Mamba-based_Reinforcement_Learning_for_Efficient_MRI_Diagnosis)
-
-</div> -->
-
-  <div class='anchor' markdown="1">
-
-- `Xu R`, Oksuz I. “Undersampled K-Space Information Recovery with Long-Range Temporal Memory for Multi-Coil MRI Reconstruction.” **Computer Methods and Programs in Biomedicine** [Q1; IF:6.4, Under Revision]
-
-</div>
-
-<div class='anchor' markdown="1">
-
-- `Xu R`, Oksuz I. "Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning." **Pattern Recognition Letters** (Q1; IF:3.5) (2026). 
-  [[Online]](https://www.sciencedirect.com/science/article/pii/S0167865526000802) [[Code]](https://github.com/Ruru-Xu/RL-Brain-MRI-Reconstruction)
-
-</div>
-
-<div class='anchor' markdown="1">
-
-- Wang F,..etc... `Xu R, Oksuz I`..etc... . "Towards Modality- and Sampling-Universal Learning Strategies for Accelerating Cardiovascular Imaging: Summary of the CMRxRecon2024 Challenge" (**Top Journal: TMI**; IF:12.4)
-  [[Online]](https://ieeexplore.ieee.org/document/11284893)
-
-</div>
-
-<div class='anchor' markdown="1">
-
-- `Xu R`, Oksuz I. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity." **Neurocomputing** (2025). (Q1; IF:6.7)
-  [[Online]](https://www.sciencedirect.com/science/article/pii/S092523122500788X) [[Code]](https://github.com/Ruru-Xu/KSRO)
-
-</div>
-
-<div class='anchor' markdown="1">
-
-- `Xu R`, Oksuz I. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." **Image and Vision Computing** (2024). (Q1; IF:5.0)
-  [[Online]](https://www.sciencedirect.com/science/article/pii/S0262885624003056)
-
-</div>
-</div>
-
-### 🎤 Conference Papers
-
----
-
-<div style="display: flex; flex-direction: column; gap: 30px;">
-
-<!-- MICCAI 2025 Paper 1 -->
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
-  <div style="flex: 0 0 250px;">
-    <div class="custom-badge badge-2025">MICCAI 2025</div>
-    <img src='images/miccai2025paper1.png' alt="MICCAI 2025 Paper 1" class="media-container" style="width: 100%;">
+  <div class="hero-actions">
+    <a class="button button--primary" href="{{ '/CV_Ruru.pdf' | relative_url }}">View CV</a>
+    <a class="button button--light" href="https://scholar.google.com/citations?user=JM_78WgAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
   </div>
-  <div style="flex: 1;">
-    <p style="margin: 0 0 15px 0; line-height: 1.6;">
-      - <code>Xu R</code>, Oksuz I. <strong>"Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning"</strong> (MICCAI 2025 STACOM Workshop)
-    </p>
-    <p style="margin: 0;">
-      <a href="http://arxiv.org/abs/2508.04727">[Online]</a>
-      <a href="https://www.youtube.com/watch?v=ui6kDZYIO44&t=101s&ab_channel=RuruXu">[Video]</a>
-      <a href="https://github.com/Ruru-Xu/RL-kspace-Radial-Sampling">[Code]</a>
-    </p>
+</section>
+
+<section class="quick-facts" aria-label="Research highlights">
+  <div><strong>2026</strong><span>PhD completed</span></div>
+  <div><strong>NYU</strong><span>Incoming Postdoc</span></div>
+  <div><strong>Top 5</strong><span>CMRxRecon 2024–2025</span></div>
+  <div><strong>RL + MRI</strong><span>Primary research focus</span></div>
+</section>
+
+<span class="anchor" id="research"></span>
+
+# Research
+
+<div class="section-lead">
+My research connects <strong>what the MRI scanner acquires</strong> with <strong>how the acquired data are reconstructed</strong>.
+</div>
+
+<div class="research-grid">
+  <article class="research-card">
+    <div class="research-number">01</div>
+    <h3>Accelerated MRI Sampling</h3>
+    <p>Learning which k-space measurements to acquire, including adaptive Cartesian and radial sampling strategies guided by reinforcement learning.</p>
+  </article>
+
+  <article class="research-card">
+    <div class="research-number">02</div>
+    <h3>Image Reconstruction</h3>
+    <p>Deep-learning reconstruction of undersampled multi-coil MRI, with emphasis on reconstruction quality, generalisation and data consistency.</p>
+  </article>
+
+  <article class="research-card">
+    <div class="research-number">03</div>
+    <h3>Motion Correction</h3>
+    <p>Developing learning-based approaches for reconstructing reliable images from motion-corrupted MRI measurements.</p>
+  </article>
+
+  <article class="research-card">
+    <div class="research-number">04</div>
+    <h3>Diagnostic Fidelity</h3>
+    <p>Designing acquisition and reconstruction objectives around clinically meaningful image quality rather than pixel-wise similarity alone.</p>
+  </article>
+</div>
+
+<p class="research-tags">
+  <span>MRI</span><span>k-space</span><span>Deep Learning</span><span>Reinforcement Learning</span>
+  <span>Motion Correction</span><span>Medical Image Analysis</span>
+</p>
+
+<span class="anchor" id="news"></span>
+
+# News
+
+<div class="news-list">
+  <div class="news-row"><time>2026.07</time><p>Paper accepted at the <strong>MICCAI 2026 Workshop on Efficient Medical AI</strong>.</p></div>
+  <div class="news-row"><time>2026.06</time><p>Completed my PhD in Computer Engineering at <strong>Istanbul Technical University</strong>.</p></div>
+  <div class="news-row"><time>2026.06</time><p>Accepted a postdoctoral position at <strong>NYU Grossman School of Medicine</strong>, working with Dr. Ilias Giannakopoulos.</p></div>
+  <div class="news-row"><time>2026.02</time><p>Paper accepted in <strong>Pattern Recognition Letters</strong>.</p></div>
+  <div class="news-row"><time>2025</time><p>Achieved multiple Top 5 results in the <strong>MICCAI CMRxRecon Challenge</strong>.</p></div>
+</div>
+
+<span class="anchor" id="publications"></span>
+
+# Selected Publications
+
+<p class="section-lead">
+A selection of my work on accelerated MRI acquisition, reconstruction and learning-based medical imaging.
+<a href="https://scholar.google.com/citations?user=JM_78WgAAAAJ" target="_blank" rel="noopener">View all publications on Google Scholar →</a>
+</p>
+
+<div class="publication-list">
+
+  <article class="publication-card">
+    <div class="publication-year">2026</div>
+    <div>
+      <h3>Optimized K-Space Under-sampling for Brain MRI Reconstruction with Reinforcement Learning</h3>
+      <p class="publication-authors"><strong>Ruru Xu</strong>, Ilkay Oksuz</p>
+      <p class="publication-venue">Pattern Recognition Letters</p>
+      <div class="publication-links">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0167865526000802">Paper</a>
+        <a href="https://github.com/Ruru-Xu/RL-Brain-MRI-Reconstruction">Code</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-year">2025</div>
+    <div>
+      <h3>A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity</h3>
+      <p class="publication-authors"><strong>Ruru Xu</strong>, Ilkay Oksuz</p>
+      <p class="publication-venue">Neurocomputing</p>
+      <div class="publication-links">
+        <a href="https://www.sciencedirect.com/science/article/pii/S092523122500788X">Paper</a>
+        <a href="https://github.com/Ruru-Xu/KSRO">Code</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-year">2025</div>
+    <div>
+      <h3>Adaptive k-space Radial Sampling for Cardiac MRI with Reinforcement Learning</h3>
+      <p class="publication-authors"><strong>Ruru Xu</strong>, Ilkay Oksuz</p>
+      <p class="publication-venue">MICCAI 2025 · STACOM Workshop</p>
+      <div class="publication-links">
+        <a href="https://arxiv.org/abs/2508.04727">Paper</a>
+        <a href="https://github.com/Ruru-Xu/RL-kspace-Radial-Sampling">Code</a>
+        <a href="https://www.youtube.com/watch?v=ui6kDZYIO44&t=101s&ab_channel=RuruXu">Video</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-year">2025</div>
+    <div>
+      <h3>HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters</h3>
+      <p class="publication-authors"><strong>Ruru Xu</strong>, Ilkay Oksuz</p>
+      <p class="publication-venue">MICCAI 2025 · CMRxRecon Challenge</p>
+      <div class="publication-links">
+        <a href="https://arxiv.org/abs/2508.13026">Paper</a>
+        <a href="https://github.com/Ruru-Xu/HierAdaptMR">Code</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-year">2024</div>
+    <div>
+      <h3>HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss</h3>
+      <p class="publication-authors"><strong>Ruru Xu</strong>, Caner Özer, Ilkay Oksuz</p>
+      <p class="publication-venue">MICCAI 2024 · CMRxRecon Challenge</p>
+      <div class="publication-links">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15">Paper</a>
+        <a href="https://github.com/Ruru-Xu/HyperCMR">Code</a>
+        <a href="https://www.youtube.com/watch?v=tBZq-MMEHPw">Video</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-year">2024</div>
+    <div>
+      <h3>Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning</h3>
+      <p class="publication-authors"><strong>Ruru Xu</strong>, Ilkay Oksuz</p>
+      <p class="publication-venue">Image and Vision Computing</p>
+      <div class="publication-links">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0262885624003056">Paper</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-year">2022</div>
+    <div>
+      <h3>Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping</h3>
+      <p class="publication-authors"><strong>Ruru Xu</strong>, Ilkay Oksuz</p>
+      <p class="publication-venue">MICCAI 2022 · STACOM Workshop</p>
+      <div class="publication-links">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31">Paper</a>
+        <a href="https://www.youtube.com/watch?v=f32xa3Vds3o">Video</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-year">2019</div>
+    <div>
+      <h3>Banknotes serial number coding recognition</h3>
+      <p class="publication-authors"><strong>Ruru Xu</strong>, J. An, L. Su, X. Min</p>
+      <p class="publication-venue">IEEE International Conference on Big Data</p>
+      <div class="publication-links">
+        <a href="https://ieeexplore.ieee.org/abstract/document/9006506">Paper</a>
+      </div>
+    </div>
+  </article>
+
+</div>
+
+<div class="publication-note">
+  <strong>Under revision:</strong> Undersampled K-Space Information Recovery with Long-Range Temporal Memory for Multi-Coil MRI Reconstruction, Computer Methods and Programs in Biomedicine.
+</div>
+
+<span class="anchor" id="highlights"></span>
+
+# Research Highlights
+
+<div class="highlight-grid">
+  <div class="highlight-stat"><strong>3rd</strong><span>CMRxRecon 2025<br>Regular Task 2</span></div>
+  <div class="highlight-stat"><strong>4th</strong><span>CMRxRecon 2025<br>Special Task 2</span></div>
+  <div class="highlight-stat"><strong>5th</strong><span>CMRxRecon 2025<br>Regular Task 1</span></div>
+  <div class="highlight-stat"><strong>5th</strong><span>CMRxRecon 2025<br>Special Task 1</span></div>
+</div>
+
+<p class="highlight-summary">
+  <strong>MICCAI CMRxRecon Challenge, 2024–2025:</strong>
+  consistently ranked among the Top 5 across multiple reconstruction tasks and evaluation settings.
+</p>
+
+<div class="challenge-list">
+  <div>
+    <span class="challenge-year">2025</span>
+    <p><strong>Regular Task 2</strong> · 3rd Place</p>
+  </div>
+  <div>
+    <span class="challenge-year">2025</span>
+    <p><strong>Regular Task 1</strong> · 5th Place</p>
+  </div>
+  <div>
+    <span class="challenge-year">2025</span>
+    <p><strong>Special Task 2</strong> · 4th Place</p>
+  </div>
+  <div>
+    <span class="challenge-year">2025</span>
+    <p><strong>Special Task 1</strong> · 5th Place</p>
+  </div>
+  <div>
+    <span class="challenge-year">2024</span>
+    <p><strong>Task 1</strong> · Top 6</p>
+  </div>
+  <div>
+    <span class="challenge-year">2024</span>
+    <p><strong>Task 2</strong> · Top 5</p>
   </div>
 </div>
 
-<!-- MICCAI 2025 Paper 2 -->
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
-  <div style="flex: 0 0 250px;">
-    <div class="custom-badge badge-2025">MICCAI 2025</div>
-    <img src='images/miccai2025paper2.png' alt="MICCAI 2025 Paper 2" class="media-container" style="width: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <p style="margin: 0 0 15px 0; line-height: 1.6;">
-      - <code>Xu R</code>, Oksuz I. <strong>"HierAdaptMR: Cross-Center Cardiac MRI Reconstruction with Hierarchical Feature Adapters"</strong> (MICCAI 2025 CMRxRecon Challenge paper)
-    </p>
-    <p style="margin: 0;">
-      <a href="https://arxiv.org/abs/2508.13026">[Online]</a>
-      <a href="https://github.com/Ruru-Xu/HierAdaptMR">[Code]</a>
-    </p>
-  </div>
-</div>
+<p class="resource-links">
+  <a href="https://cmrxrecon.github.io/2025/Home.html">CMRxRecon 2025</a>
+  <a href="https://cmrxrecon.github.io/2024/Home.html">CMRxRecon 2024</a>
+</p>
 
-<!-- MICCAI 2024 Paper -->
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
-  <div style="flex: 0 0 250px;">
-    <div class="custom-badge badge-2024">MICCAI 2024</div>
-    <img src='images/miccai2024paper.png' alt="MICCAI 2024 Paper" class="media-container" style="width: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <p style="margin: 0 0 15px 0; line-height: 1.6;">
-      - <code>Xu R</code>, Özer C, Oksuz I. <strong>"HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss."</strong> (MICCAI 2024 CMRxRecon Challenge paper)
-    </p>
-    <p style="margin: 0;">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-87756-8_15">[Online]</a>
-      <a href="https://www.youtube.com/watch?v=tBZq-MMEHPw">[Video]</a>
-      <a href="https://github.com/Ruru-Xu/HyperCMR">[Code]</a> | Citations: <span class="citation-high">6</span>
-    </p>
-  </div>
-</div>
+<span class="anchor" id="education"></span>
 
-<!-- MICCAI 2022 Paper -->
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
-  <div style="flex: 0 0 250px;">
-    <div class="custom-badge badge-2022">MICCAI 2022</div>
-    <img src='images/miccai2022paper.png' alt="MICCAI 2022 Paper" class="media-container" style="width: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <p style="margin: 0 0 15px 0; line-height: 1.6;">
-      - <code>Xu R</code>, Oksuz I. <strong>"Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping."</strong> (MICCAI 2022, STACOM Workshop)
-    </p>
-    <p style="margin: 0;">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-23443-9_31">[Online]</a>
-      <a href="https://www.youtube.com/watch?v=f32xa3Vds3o">[Video]</a>
-    </p>
-  </div>
-</div>
+# Education
 
-<!-- IEEE Big Data 2019 -->
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start;">
-  <div style="flex: 0 0 250px;">
-    <div class="custom-badge" style="background-color: #a29bfe;">IEEE Big Data 2019</div>
-    <div style="width: 100%; height: 150px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 18px;">
-      IEEE Big Data
+<div class="timeline">
+
+  <div class="timeline-item">
+    <div class="timeline-date">2021–2026</div>
+    <div class="timeline-content">
+      <h3>Istanbul Technical University</h3>
+      <p><strong>PhD in Computer Engineering</strong></p>
+      <p>Research: accelerated MRI sampling and reconstruction with deep learning and reinforcement learning.</p>
+      <a href="https://www.itu.edu.tr/en">Institution website →</a>
     </div>
   </div>
-  <div style="flex: 1;">
-    <p style="margin: 0 0 15px 0; line-height: 1.6;">
-      - <code>Xu R</code>, An J, Su L, and Min X. <strong>"Banknotes serial number coding recognition."</strong> In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019.
-    </p>
-    <p style="margin: 0;">
-      <a href="https://ieeexplore.ieee.org/abstract/document/9006506">[Online]</a> | Citations: <span class="citation-high">2</span>
-    </p>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2018–2020</div>
+    <div class="timeline-content">
+      <h3>Fudan University</h3>
+      <p><strong>Visiting / Exchange Research Student</strong>, Media Computing Lab</p>
+      <p>Research in autonomous driving, object detection, pedestrian recognition, instance segmentation and path planning.</p>
+      <a href="https://www.fudan.edu.cn/en/">Institution website →</a>
+    </div>
   </div>
-</div>
 
-</div>
-
-### 📖 Master's Thesis
-
----
-
-<div class='paper-box-text' markdown="1">
-
-- Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision  
-[[Online]](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202101&filename=1021521998.nh&uniplatform=OVERSEA&v=1mKWbzyM1RA2069qUjrH98S7LHHip8KOCXlh8GfkcqZJAEF2V2My6eNROWkmA2id) Chinese Master's Theses Full-text Database · Mar 2, 2020
-
-</div>
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 MICCAI Challenge
-
-> **Consistently ranked Top 5** in MICCAI CMRxRecon Challenge (2024-2025), demonstrating expertise in cardiac MRI reconstruction across multiple tasks and evaluation criteria.
-
-<div style="display: flex; flex-direction: column; gap: 30px;">
-
-<!-- CMRxRecon 2025 Challenge - Special Task -->
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
-  <div style="flex: 0 0 250px;">
-    <div class="custom-badge badge-2025">SCMR 2026</div>
-    <img src='images/CMRxRecon2025-special.jpg' alt="CMRxRecon 2025 Special Tasks" class="media-container" style="width: 100%;">
+  <div class="timeline-item">
+    <div class="timeline-date">2017–2020</div>
+    <div class="timeline-content">
+      <h3>Shanghai Institute of Computing Technology</h3>
+      <p><strong>MSc in Computer Software and Theory</strong></p>
+      <p>Research direction: computer vision.</p>
+      <a href="https://www.sh-sict.com/">Institution website →</a>
+    </div>
   </div>
-  <div style="flex: 1;">
-    <p style="margin: 0 0 15px 0; line-height: 1.6;">
-      <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-     🏆 Two Special Tasks, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">5th</code> in Special Task1, <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">4th</code> in Special Task2. SCMR 2026, Brazil.
-    </p>
-    <p style="margin: 0;">
-      <a href="https://www.synapse.org/Synapse:syn59814210/wiki/634966">[Final Rank]</a>
-    </p>
-  </div>
-</div>
 
-<!-- CMRxRecon 2025 Challenge - Task 2 -->
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
-  <div style="flex: 0 0 250px;">
-    <div class="custom-badge badge-2025">MICCAI 2025</div>
-    <img src='images/CMRxRecon2025-2.jpg' alt="CMRxRecon 2025 Task 2" class="media-container" style="width: 100%;">
+  <div class="timeline-item">
+    <div class="timeline-date">2012–2016</div>
+    <div class="timeline-content">
+      <h3>Liaocheng University</h3>
+      <p><strong>BSc in Computer Science and Technology</strong></p>
+      <a href="https://www.lcu.edu.cn/">Institution website →</a>
+    </div>
   </div>
-  <div style="flex: 1;">
-    <p style="margin: 0 0 15px 0; line-height: 1.6;">
-      <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-      🏆 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">3rd Place Award</code> in Regular Task 2: CMR reconstruction model for multiple diseases evaluation
-    </p>
-    <p style="margin: 0;">
-      <a href="https://www.synapse.org/Synapse:syn59814210/wiki/635078">[Certification]</a>
-    </p>
-  </div>
-</div>
-
-<!-- CMRxRecon 2025 Challenge - Task 1 -->
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid #e0e0e0; padding-bottom: 30px;">
-  <div style="flex: 0 0 250px;">
-    <div class="custom-badge badge-2025">MICCAI 2025</div>
-    <img src='images/CMRxRecon2025-1.jpg' alt="CMRxRecon 2025 Task 1" class="media-container" style="width: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <p style="margin: 0 0 15px 0; line-height: 1.6;">
-      <strong><a href="https://cmrxrecon.github.io/2025/Home.html">MICCAI 2025 CMRxRecon Challenge</a></strong><br>
-     🏆 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">5th Place Award</code> in Regular Task 1: CMR reconstruction model for multi-center evaluation
-    </p>
-    <p style="margin: 0;">
-      <a href="https://www.synapse.org/Synapse:syn59814210/wiki/635078">[Certification]</a>
-    </p>
-  </div>
-</div>
-
-
-
-<!-- CMRxRecon 2024 Challenge -->
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start;">
-  <div style="flex: 0 0 250px;">
-    <div class="custom-badge badge-2024">MICCAI 2024</div>
-    <img src='images/CMRxRecon2024-1.jpg' alt="CMRxRecon 2024" class="media-container" style="width: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <p style="margin: 0 0 15px 0; line-height: 1.6;">
-      <strong><a href="https://cmrxrecon.github.io/2024/Home.html">MICCAI 2024 CMRxRecon Challenge</a></strong><br>
-      🏆 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">Top 6</code> in Task 1: Multi-contrast CMR reconstruction<br>
-      🏆 <code style="background-color: #ffeaa7; padding: 2px 6px; border-radius: 3px;">Top 5</code> in Task 2: Random sampling CMR reconstruction
-    </p>
-    <p style="margin: 0;">
-      <a href="https://www.synapse.org/Synapse:syn54951257/wiki/630047">[Certification]</a>
-    </p>
-  </div>
-</div>
 
 </div>
 
+<span class="anchor" id="experience"></span>
 
+# Academic & Research Experience
 
+<div class="experience-list">
+  <article class="experience-card">
+    <div class="experience-date">2026–</div>
+    <div>
+      <h3>NYU Grossman School of Medicine</h3>
+      <p class="experience-role">Incoming Postdoctoral Researcher · Department of Radiology</p>
+      <p>Research focus: MRI motion correction and accelerated image reconstruction, working with Dr. Ilias Giannakopoulos.</p>
+    </div>
+  </article>
 
+  <article class="experience-card">
+    <div class="experience-date">2021–2026</div>
+    <div>
+      <h3>Istanbul Technical University</h3>
+      <p class="experience-role">PhD Researcher · Computer Engineering</p>
+      <p>Developed reinforcement learning methods for adaptive k-space sampling and accelerated MRI reconstruction.</p>
+    </div>
+  </article>
 
+  <article class="experience-card">
+    <div class="experience-date">2018–2020</div>
+    <div>
+      <h3>Fudan University</h3>
+      <p class="experience-role">Visiting Research Student · Media Computing Lab</p>
+      <p>Worked on computer vision for autonomous driving, including detection, segmentation and path planning.</p>
+    </div>
+  </article>
 
-<span class='anchor' id='-hobbies'></span>
-
-# ✨ Life Beyond Research
-
-<div style="display: flex; flex-direction: column; gap: 30px;">
-
-<div class="responsive-flex hover-card" style="display: flex; gap: 20px; align-items: flex-start;">
-
-<div style="flex: 0 0 250px;">
-  <div class="custom-badge badge-hobby">Life Beyond Research</div>
-  <video width="100%" controls class="media-container">
-    <source src="video/hobbies1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <article class="experience-card">
+    <div class="experience-date">2017–2020</div>
+    <div>
+      <h3>Shanghai Shen Teng Technology Co., Ltd.</h3>
+      <p class="experience-role">Research / Algorithm Intern · R&amp;D Department</p>
+      <p>Contributed to computer-vision-based smart-city projects and participated in algorithm competitions.</p>
+    </div>
+  </article>
 </div>
 
-<div style="flex: 1;">
-  <p style="margin: 0; line-height: 1.8;">
-    <strong>🎯 Personal Interests & Activities</strong><br><br>  
-    🚴‍♀️ <strong>Favorite Sport:</strong> Long-distance cycling (Cycled over 5,000 km across multiple provinces and cities during my three-year Master's studies)<br>
-    ✈️ <strong>Favorite Travel Style:</strong> Solo backpacking adventures (Traveled independently across half of China)<br>
-    📚 <strong>Favorite Reading:</strong> Ancient Chinese poetry and literature (Served as editor of the school literary society for three years in high school)<br>
-    🤝 <strong>Most Memorable Volunteer Experience:</strong> Turkey Earthquake Relief Volunteer
+<div class="competition-strip">
+  <strong>Selected competition results:</strong>
+  Huawei Cloud Garbage Sorting Challenge · 32 / 2,611 teams;
+  Tianchi Tianjin South Digital Manufacturing Challenge · 53 / 2,157 teams;
+  China National Mathematical Contest in Modeling for Graduate Students · Third-Class Prize.
+</div>
+
+<span class="anchor" id="life"></span>
+
+# Life Beyond Research
+
+<div class="life-grid">
+  <div class="life-item">
+    <span class="life-icon">🚴</span>
+    <div><strong>Long-distance cycling</strong><p>Cycled more than 5,000 km across multiple provinces and cities during my Master's studies.</p></div>
+  </div>
+  <div class="life-item">
+    <span class="life-icon">✈️</span>
+    <div><strong>Solo travel</strong><p>Enjoy independent travel and backpacking, including extensive trips across China.</p></div>
+  </div>
+  <div class="life-item">
+    <span class="life-icon">📚</span>
+    <div><strong>Literature</strong><p>Interested in classical Chinese poetry and literature; served as an editor of a high-school literary society.</p></div>
+  </div>
+  <div class="life-item">
+    <span class="life-icon">🤝</span>
+    <div><strong>Volunteering</strong><p>Participated in Turkey earthquake relief volunteering.</p></div>
+  </div>
+</div>
+
+<div class="site-closing">
+  <p>
+    <strong>Interested in collaboration?</strong>
+    I am happy to connect on MRI reconstruction, accelerated acquisition, motion correction,
+    reinforcement learning and medical image analysis.
   </p>
+  <div>
+    <a href="mailto:xuru0927@gmail.com">Email me →</a>
+    <a href="https://github.com/Ruru-Xu" target="_blank" rel="noopener">GitHub →</a>
+    <a href="https://www.linkedin.com/in/ruru-xu-656975270/" target="_blank" rel="noopener">LinkedIn →</a>
+  </div>
 </div>
-
-</div>
-
-</div>
-
-<!-- 返回顶部按钮 -->
-<button id="backToTop" title="Go to top">↑</button>
-
-<script>
-// 返回顶部功能
-var backToTopButton = document.getElementById("backToTop");
-
-window.onscroll = function() {
-  if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-    backToTopButton.style.display = "block";
-  } else {
-    backToTopButton.style.display = "none";
-  }
-};
-
-backToTopButton.onclick = function() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-};
-
-// 平滑滚动效果
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-  anchor.addEventListener('click', function (e) {
-    e.preventDefault();
-    const target = document.querySelector(this.getAttribute('href'));
-    if (target) {
-      target.scrollIntoView({
-        behavior: 'smooth',
-        block: 'start'
-      });
-    }
-  });
-});
-</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
