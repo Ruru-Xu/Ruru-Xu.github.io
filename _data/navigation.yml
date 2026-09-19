@@ -1,21 +1,9 @@
-# main links links
 main:
-  - title: "Click <u>My CV</u>"
+  - title: "Research"
+    url: "/#research"
+  - title: "Publications"
+    url: "/#publications"
+  - title: "News"
+    url: "/#news"
+  - title: "CV"
     url: "CV_Ruru.pdf"
-
-  # - title: "Education"
-  #   url: "/ruru-xu/#-education"
-
-  # - title: "Publications"
-  #   url: "/ruru-xu/#-publications"
-
-  # - title: "Certification"
-  #   url: "/ruru-xu/#-certification"
-
-  # - title: "Academic Conference"
-  #   url: "/ruru-xu/#-academic-conference"
-
-  # - title: "Work Experience"
-  #   url: "/ruru-xu/#-work-experience"
-
-
