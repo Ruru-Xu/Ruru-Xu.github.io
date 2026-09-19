@@ -1,19 +1,20 @@
-<div class="masthead">
+<header class="masthead">
   <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a class="site-brand" href="{{ '/' | relative_url }}" target="_self">
+        <span>Ruru Xu</span>
+      </a>
 
-          </li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
+      <div class="site-nav__links">
+        <a href="#about-me" target="_self">About</a>
+        <a href="#research" target="_self">Research</a>
+        <a href="#news" target="_self">News</a>
+        <a href="#publications" target="_self">Publications</a>
+        <a href="#highlights" target="_self">Highlights</a>
+        <a href="#education" target="_self">Education</a>
+        <a href="#life" target="_self">Life</a>
+        <a class="nav-cv" href="{{ '/CV_Ruru.pdf' | relative_url }}">CV</a>
+      </div>
+    </nav>
   </div>
-</div>
-
+</header>
