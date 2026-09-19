@@ -9,7 +9,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="academic-site">
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -27,13 +27,6 @@ layout: compress
         </div>
       </article>
     </div>
-
-    <footer class="site-footer">
-      <div class="footer-inner">
-        <span>© {{ "now" | date: "%Y" }} Ruru Xu</span>
-        <span>Academic website · GitHub Pages</span>
-      </div>
-    </footer>
 
     {% include scripts.html %}
   </body>
