@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruru Xu"
-description              : "MRI Reconstruction / Medical Image Analysis / Computer Vision"
+description              : "Incoming Postdoc at NYU Grossman School of Medicine"
 repository               : "Ruru-Xu/Ruru-Xu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 author:
   name             : "Ruru Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Incoming Postdoctoral Researcher · NYU Grossman School of Medicine"
-  location         : "New York, NY, USA"
+  bio              : "Istanbul Technical University"
+  location         : "Istanbul Turkey"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JM_78WgAAAAJ"
-  email            : "xuru0927@gmail.com"
+  email            : "xu21@itu.edu.tr"
   # researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
