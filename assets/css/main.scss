@@ -353,3 +353,184 @@ $home-line: #e2e7e8;
 @media (prefers-reduced-motion: reduce) {
   .moments-track { animation: none; }
 }
+
+/* --------------------------------------------------------------------------
+   Homepage v7 refinements
+   -------------------------------------------------------------------------- */
+
+/* The old top navigation only contained a CV link. It is intentionally empty
+   now, so the CV lives with the profile instead. */
+.home-profile {
+  max-width: 370px;
+}
+
+.home-profile__identity {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.15em;
+}
+
+.home-profile__avatar {
+  display: block;
+  flex: 0 0 104px;
+  width: 104px;
+  height: 104px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.home-profile__details {
+  min-width: 0;
+  padding-top: 0.15em;
+}
+
+.home-profile__details h2 {
+  margin: 0 0 0.28em !important;
+  font-size: 1.45em !important;
+  line-height: 1.2 !important;
+}
+
+.home-profile__role,
+.home-profile__location {
+  margin: 0 !important;
+  color: $home-muted;
+  line-height: 1.55 !important;
+}
+
+.home-profile__location {
+  margin-top: 0.35em !important;
+}
+
+/* Links sit beside the photo/name area rather than as a long vertical list. */
+.home-profile__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.42em 0.9em;
+  margin: 1.15em 0 1.15em 0;
+  padding: 0.95em 0;
+  border-top: 1px solid $home-line;
+  border-bottom: 1px solid $home-line;
+}
+
+.home-profile__links a {
+  display: inline-block;
+  color: $home-accent !important;
+  font-family: $sans-serif-narrow;
+  font-size: 0.82em;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.home-profile__links a:hover {
+  text-decoration: underline;
+}
+
+/* The CV is the one deliberately prominent profile link. */
+.home-profile__cv {
+  display: inline-block;
+  margin: 0 !important;
+  padding: 0.58em 1.05em;
+  border: 1px solid #2d7c80;
+  border-radius: 5px;
+  background: #2d7c80;
+  color: #fff !important;
+  font-family: $sans-serif-narrow;
+  font-size: 0.84em;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  text-decoration: none !important;
+  text-transform: uppercase;
+}
+
+.home-profile__cv:hover {
+  background: #245f62;
+  border-color: #245f62;
+  color: #fff !important;
+}
+
+/* --------------------------------------------------------------------------
+   Moments: a real single-row marquee. The !important declarations protect
+   the flex row from Minimal Mistakes' generic list/image rules.
+   -------------------------------------------------------------------------- */
+.moments-marquee {
+  display: block !important;
+  width: 100% !important;
+  max-width: none !important;
+  overflow: hidden !important;
+  margin: 1.35em 0 0 !important;
+  padding: 0.25em 0 0.7em !important;
+  white-space: nowrap !important;
+}
+
+.moments-track {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  align-items: flex-start !important;
+  justify-content: flex-start !important;
+  width: max-content !important;
+  max-width: none !important;
+  gap: 1em !important;
+  animation: moments-scroll 32s linear infinite !important;
+}
+
+.moment-card {
+  display: block !important;
+  flex: 0 0 auto !important;
+  width: 210px !important;
+  max-width: 210px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  white-space: normal !important;
+}
+
+.moment-card img {
+  display: block !important;
+  width: 210px !important;
+  height: 140px !important;
+  max-width: 210px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  object-fit: contain !important;
+  object-position: center !important;
+  background: #f7f8f8;
+  border: 1px solid $home-line;
+}
+
+.moment-card span {
+  display: block !important;
+  margin-top: 0.4em !important;
+  font-size: 0.74em !important;
+  line-height: 1.3 !important;
+}
+
+@media screen and (min-width: 801px) {
+  .home-top {
+    grid-template-columns: minmax(330px, 0.34fr) minmax(0, 0.66fr);
+    gap: clamp(2.5em, 5vw, 5em);
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .home-profile {
+    max-width: none;
+  }
+
+  .home-profile__avatar {
+    flex-basis: 88px;
+    width: 88px;
+    height: 88px;
+  }
+
+  .moment-card {
+    width: 185px !important;
+    max-width: 185px !important;
+  }
+
+  .moment-card img {
+    width: 185px !important;
+    height: 125px !important;
+    max-width: 185px !important;
+  }
+}
