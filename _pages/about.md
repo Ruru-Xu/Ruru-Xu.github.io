@@ -20,7 +20,7 @@ redirect_from:
     </div>
 
     <div class="home-profile__links" aria-label="Profile links">
-      <a href="mailto:xuru0927@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i><span>Email</span></a>
+      <a href="mailto:Ruru.Xu@nyulangone.org"><i class="fas fa-envelope" aria-hidden="true"></i><span>Email: Ruru.Xu@nyulangone.org</span></a>
       <a href="https://scholar.google.com/citations?user=JM_78WgAAAAJ"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Scholar</span></a>
       <a href="https://github.com/Ruru-Xu"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
       <a href="https://www.linkedin.com/in/ruru-xu-656975270/"><i class="fab fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
