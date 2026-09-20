@@ -28,8 +28,8 @@
 
 /* --------------------------------------------------------------------------
    Ruru Xu homepage
-   Keep the original Minimal Mistakes layout and use the homepage as a
-   personal story, not as a second CV.
+   The homepage is a story-led landing page, with the profile and story
+   together at the top and full-width sections below.
    -------------------------------------------------------------------------- */
 
 $home-ink: #27353a;
@@ -38,57 +38,119 @@ $home-accent: #2d7c80;
 $home-accent-light: #eef6f5;
 $home-line: #e2e7e8;
 
-#main {
+.home-main {
+  max-width: none;
   margin-top: 1.5em;
+  padding: 0 5vw 4em;
 }
 
-.page__content {
-  max-width: 780px;
+.home-page {
+  width: 100%;
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.home-page .page__inner-wrap,
+.home-page .page__content {
+  width: 100%;
+  max-width: none;
   color: $home-ink;
-
-  h1,
-  h2,
-  h3 {
-    color: $home-ink;
-  }
-
-  a {
-    color: $home-accent;
-  }
 }
 
-.home-intro {
-  margin: 0 0 2.2em;
-  padding-bottom: 1.2em;
+.home-page .page__content h1,
+.home-page .page__content h2,
+.home-page .page__content h3 {
+  color: $home-ink;
+}
+
+.home-page .page__content a {
+  color: $home-accent;
+}
+
+.home-top {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.29fr) minmax(0, 0.71fr);
+  gap: clamp(2.5em, 6vw, 6em);
+  align-items: start;
+  padding: 1.2em 0 3.6em;
   border-bottom: 1px solid $home-line;
 }
 
-.home-intro__kicker {
-  margin: 0 0 0.6em !important;
-  color: $home-accent;
-  font-family: $sans-serif-narrow;
-  font-size: 0.78em !important;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  line-height: 1.5 !important;
-  text-transform: uppercase;
+.home-profile {
+  min-width: 0;
+  position: sticky;
+  top: 5em;
 }
 
-.home-intro h1 {
+.home-profile .profile_box {
+  margin: 0;
+  padding: 0;
+}
+
+.home-profile .author__avatar {
+  width: 92px;
+  height: 92px;
+  margin-bottom: 1em;
+}
+
+.home-profile .author__content {
+  margin-bottom: 1.1em;
+}
+
+.home-profile .author__name {
+  margin: 0 0 0.3em !important;
+  font-size: 1.45em !important;
+}
+
+.home-profile .author__bio {
   margin: 0 !important;
-  font-size: 2.25em !important;
+  color: $home-muted;
+  line-height: 1.6 !important;
+}
+
+.home-profile .author__urls {
+  margin: 0;
+}
+
+.home-profile .author__urls li {
+  margin-bottom: 0.45em;
+}
+
+.home-profile .author__urls-wrapper {
+  margin: 0;
+}
+
+.home-profile .author__urls_sm {
+  display: none;
+}
+
+.home-profile__cv {
+  margin-top: 1.2em;
+  padding-top: 1.1em;
+  border-top: 1px solid $home-line;
+}
+
+.home-profile__cv a {
+  font-family: $sans-serif-narrow;
+  font-size: 0.82em;
   font-weight: 700;
-  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.home-story {
+  min-width: 0;
+  padding-top: 0.15em;
 }
 
 .story {
-  max-width: 760px;
+  max-width: 780px;
 }
 
 .story p {
   margin: 0 0 1.35em !important;
-  font-size: 1em !important;
-  line-height: 1.85 !important;
+  font-size: 1.02em !important;
+  line-height: 1.88 !important;
 }
 
 .story p:last-child {
@@ -96,7 +158,8 @@ $home-line: #e2e7e8;
 }
 
 .home-section {
-  margin-top: 4.2em;
+  width: 100%;
+  margin-top: 4.4em;
   padding-top: 2.1em;
   border-top: 1px solid $home-line;
 }
@@ -114,7 +177,7 @@ $home-line: #e2e7e8;
 
 .research-section > p,
 .section-intro {
-  max-width: 730px;
+  max-width: 820px;
   margin-bottom: 1.1em !important;
   line-height: 1.8 !important;
 }
@@ -139,6 +202,7 @@ $home-line: #e2e7e8;
 }
 
 .news-list {
+  max-width: 960px;
   margin: 0;
 }
 
@@ -151,14 +215,8 @@ $home-line: #e2e7e8;
   border-bottom: 1px solid $home-line;
 }
 
-.news-item:first-child {
-  padding-top: 0.15em;
-}
-
-.news-item:last-child {
-  border-bottom: 0;
-  padding-bottom: 0;
-}
+.news-item:first-child { padding-top: 0.15em; }
+.news-item:last-child { border-bottom: 0; padding-bottom: 0; }
 
 .news-date {
   color: $home-accent;
@@ -174,43 +232,66 @@ $home-line: #e2e7e8;
   line-height: 1.7 !important;
 }
 
-.moments-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1em;
+/* One-line, complete-image marquee. Each image keeps its full aspect ratio. */
+.moments-marquee {
+  width: 100%;
+  overflow: hidden;
   margin-top: 1.35em;
+  padding: 0.25em 0 0.6em;
+  mask-image: linear-gradient(to right, transparent, black 3%, black 97%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 3%, black 97%, transparent);
+}
+
+.moments-track {
+  display: flex;
+  width: max-content;
+  gap: 1.1em;
+  animation: moments-scroll 34s linear infinite;
+}
+
+.moments-marquee:hover .moments-track {
+  animation-play-state: paused;
 }
 
 .moment-card {
+  flex: 0 0 auto;
+  width: 225px;
   margin: 0;
 }
 
 .moment-card img {
   display: block;
-  width: 100%;
-  height: 145px;
-  object-fit: cover;
+  width: 225px;
+  height: 155px;
+  object-fit: contain;
+  background: #f7f8f8;
   border: 1px solid $home-line;
 }
 
-.moment-card figcaption {
+.moment-card span {
+  display: block;
   margin-top: 0.45em;
   color: $home-muted;
-  font-size: 0.78em;
-  line-height: 1.4;
+  font-size: 0.76em;
+  line-height: 1.35;
+}
+
+@keyframes moments-scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(calc(-50% - 0.55em)); }
 }
 
 .beyond-layout {
   display: grid;
-  grid-template-columns: minmax(180px, 0.85fr) minmax(0, 1.15fr);
-  gap: 1.5em;
+  grid-template-columns: minmax(280px, 0.9fr) minmax(0, 1.1fr);
+  gap: 2em;
   align-items: start;
 }
 
 .beyond-video video {
   display: block;
   width: 100%;
-  max-height: 270px;
+  max-height: 320px;
   object-fit: cover;
 }
 
@@ -219,39 +300,56 @@ $home-line: #e2e7e8;
   line-height: 1.8 !important;
 }
 
-.beyond-text p:last-child {
-  margin-bottom: 0 !important;
-}
+.beyond-text p:last-child { margin-bottom: 0 !important; }
 
-@media screen and (max-width: 700px) {
-  .page__content {
-    max-width: none;
+@media screen and (max-width: 800px) {
+  .home-main { padding: 0 1.25em 3em; }
+
+  .home-top {
+    grid-template-columns: 1fr;
+    gap: 2.2em;
+    padding-bottom: 2.7em;
   }
 
-  .home-intro h1 {
-    font-size: 2em !important;
+  .home-profile {
+    position: static;
+    display: grid;
+    grid-template-columns: 92px minmax(0, 1fr);
+    column-gap: 1em;
+    align-items: start;
   }
 
-  .story p {
-    line-height: 1.75 !important;
+  .home-profile .author__avatar {
+    grid-row: 1 / span 2;
+    margin: 0;
   }
+
+  .home-profile .author__content,
+  .home-profile .author__urls-wrapper,
+  .home-profile__cv {
+    grid-column: 2;
+  }
+
+  .home-profile__cv {
+    margin-top: 0.4em;
+    padding-top: 0.7em;
+  }
+
+  .story p { line-height: 1.78 !important; }
 
   .home-section {
-    margin-top: 3.2em;
+    margin-top: 3.3em;
     padding-top: 1.7em;
   }
 
-  .moments-grid,
-  .beyond-layout {
-    grid-template-columns: 1fr;
-  }
+  .moments-track { gap: 0.8em; }
+  .moment-card,
+  .moment-card img { width: 190px; }
+  .moment-card img { height: 135px; }
 
-  .moment-card img {
-    height: 190px;
-  }
+  .beyond-layout { grid-template-columns: 1fr; }
+}
 
-  .news-item {
-    grid-template-columns: 62px minmax(0, 1fr);
-    gap: 0.8em;
-  }
+@media (prefers-reduced-motion: reduce) {
+  .moments-track { animation: none; }
 }
