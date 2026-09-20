@@ -14,7 +14,7 @@ redirect_from:
       <img class="home-profile__avatar" src="images/android-chrome-512x512.png" alt="Ruru Xu">
       <div class="home-profile__details">
         <h2>Ruru Xu</h2>
-        <p class="home-profile__role">Incoming Postdoctoral Researcher<br>NYU Grossman School of Medicine</p>
+        <p class="home-profile__role">Postdoctoral Fellow<br>NYU Grossman School of Medicine</p>
         <p class="home-profile__location">New York, NY</p>
       </div>
     </div>
