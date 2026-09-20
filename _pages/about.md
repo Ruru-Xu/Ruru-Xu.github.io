@@ -86,7 +86,8 @@ redirect_from:
   </div>
   <p class="section-intro">A few small memories from conferences and research.</p>
 
-  <div class="moments-marquee" aria-label="Moments photo gallery">
+  <div class="moments-marquee moments-marquee--controls" aria-label="Moments photo gallery">
+    <button class="moments-arrow moments-arrow--prev" type="button" aria-label="Previous moments" title="Previous">‹</button>
     <div class="moments-track">
       <div class="moment-card"><img src="images/CMRxRecon2024-1.jpg" alt="CMRxRecon 2024" loading="lazy"><span>CMRxRecon 2024</span></div>
       <div class="moment-card"><img src="images/CMRxRecon2025-1.jpg" alt="CMRxRecon 2025 Task 1" loading="lazy"><span>CMRxRecon 2025</span></div>
@@ -102,8 +103,111 @@ redirect_from:
       <div class="moment-card" aria-hidden="true"><img src="images/miccai2025paper1.png" alt="" loading="lazy"><span>MICCAI 2025</span></div>
       <div class="moment-card" aria-hidden="true"><img src="images/miccai2025paper2.png" alt="" loading="lazy"><span>MICCAI 2025</span></div>
     </div>
+    <button class="moments-arrow moments-arrow--next" type="button" aria-label="Next moments" title="Next">›</button>
   </div>
 </section>
+
+<style>
+  /* Moments arrow controls. Kept here so this update only requires replacing about.md. */
+  .moments-marquee--controls {
+    position: relative;
+  }
+
+  .moments-marquee--controls .moments-arrow {
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    width: 38px;
+    height: 58px;
+    transform: translateY(-50%);
+    border: 0;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.86);
+    color: #333;
+    font-size: 32px;
+    font-family: Arial, sans-serif;
+    line-height: 1;
+    padding: 0 0 4px;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.14);
+    transition: opacity 0.2s ease, background 0.2s ease, transform 0.2s ease;
+  }
+
+  .moments-marquee--controls .moments-arrow:hover {
+    background: rgba(255, 255, 255, 0.98);
+    transform: translateY(-50%) scale(1.04);
+  }
+
+  .moments-marquee--controls .moments-arrow--prev {
+    left: 8px;
+  }
+
+  .moments-marquee--controls .moments-arrow--next {
+    right: 8px;
+  }
+
+  .moments-marquee--controls .moments-arrow:focus-visible {
+    outline: 2px solid #555;
+    outline-offset: 2px;
+  }
+
+  @media (max-width: 600px) {
+    .moments-marquee--controls .moments-arrow {
+      width: 32px;
+      height: 48px;
+      font-size: 27px;
+    }
+
+    .moments-marquee--controls .moments-arrow--prev {
+      left: 4px;
+    }
+
+    .moments-marquee--controls .moments-arrow--next {
+      right: 4px;
+    }
+  }
+</style>
+
+<script>
+(function () {
+  const marquee = document.querySelector('.moments-marquee--controls');
+  if (!marquee) return;
+
+  const track = marquee.querySelector('.moments-track');
+  const prev = marquee.querySelector('.moments-arrow--prev');
+  const next = marquee.querySelector('.moments-arrow--next');
+  if (!track || !prev || !next) return;
+
+  const STEP = 5; // seconds of marquee movement per click
+
+  function move(direction) {
+    const styles = window.getComputedStyle(track);
+    const duration = parseFloat(styles.animationDuration) || 32;
+    const currentDelay = parseFloat(styles.animationDelay) || 0;
+
+    /*
+     * The marquee uses a continuous CSS animation. Changing animation-delay
+     * by a few seconds moves the animation position without changing the
+     * existing layout or photo sizing.
+     */
+    const newDelay = currentDelay + (direction * STEP);
+    track.style.animationDelay = `${newDelay}s`;
+    track.style.animationPlayState = 'paused';
+
+    window.setTimeout(function () {
+      track.style.animationPlayState = 'running';
+    }, 120);
+  }
+
+  prev.addEventListener('click', function () {
+    move(1);
+  });
+
+  next.addEventListener('click', function () {
+    move(-1);
+  });
+})();
+</script>
 
 <span class="anchor" id="beyond-research"></span>
 
