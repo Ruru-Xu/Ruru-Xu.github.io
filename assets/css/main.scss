@@ -534,3 +534,112 @@ $home-line: #e2e7e8;
     max-width: 185px !important;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Homepage v8: cleaner profile links, stronger CV button, portrait video
+   -------------------------------------------------------------------------- */
+.home-profile__links {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  align-items: center !important;
+  gap: 0.55em 1.05em !important;
+  margin: 1.15em 0 1.05em !important;
+  padding: 0.85em 0 !important;
+  border-top: 1px solid $home-line;
+  border-bottom: 1px solid $home-line;
+}
+
+.home-profile__links a {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.42em !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  color: $home-ink !important;
+  font-family: $sans-serif-narrow;
+  font-size: 0.80em !important;
+  font-weight: 700;
+  line-height: 1.4 !important;
+  text-decoration: none !important;
+  white-space: nowrap !important;
+}
+
+.home-profile__links a i {
+  width: 1.1em;
+  color: $home-accent;
+  font-size: 1.02em;
+  text-align: center;
+}
+
+.home-profile__links a:hover {
+  color: $home-accent !important;
+}
+
+.home-profile__cv {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 0.5em !important;
+  margin: 0 !important;
+  padding: 0.62em 1.1em !important;
+  border: 0 !important;
+  border-radius: 4px !important;
+  background: $home-accent !important;
+  color: #fff !important;
+  font-family: $sans-serif-narrow;
+  font-size: 0.84em !important;
+  font-weight: 800;
+  letter-spacing: 0.025em;
+  text-decoration: none !important;
+  text-transform: none !important;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.10);
+}
+
+.home-profile__cv i {
+  font-size: 0.95em;
+}
+
+.home-profile__cv:hover {
+  background: #245f62 !important;
+  color: #fff !important;
+}
+
+/* A portrait 9:16 presentation area for the Beyond Research video. */
+.beyond-video {
+  display: flex;
+  justify-content: center;
+}
+
+.beyond-video__portrait {
+  display: block !important;
+  width: min(100%, 320px) !important;
+  height: auto !important;
+  aspect-ratio: 9 / 16 !important;
+  max-height: none !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}
+
+/* Keep the Moments gallery unambiguously horizontal. */
+.moments-marquee,
+.moments-track {
+  overflow: hidden !important;
+}
+
+.moments-track {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  width: max-content !important;
+}
+
+@media screen and (max-width: 800px) {
+  .home-profile__links {
+    gap: 0.55em 0.9em !important;
+  }
+
+  .beyond-video__portrait {
+    width: min(100%, 280px) !important;
+  }
+}
