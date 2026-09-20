@@ -61,7 +61,7 @@ redirect_from:
   <div class="news-list">
     <div class="news-item">
       <span class="news-date">2026.07</span>
-      <p>Paper accepted at the <strong>MICCAI 2026 Workshop on Efficient Medical AI</strong>.</p>
+      <p>Two papers accepted at the <strong>MICCAI 2026 Workshop</strong>.</p>
     </div>
     <div class="news-item">
       <span class="news-date">2026.06</span>
@@ -73,7 +73,7 @@ redirect_from:
     </div>
     <div class="news-item">
       <span class="news-date">2026.02</span>
-      <p>Article accepted in <strong>Pattern Recognition Letters</strong>.</p>
+      <p>Article accepted in <strong>Pattern Recognition Letters</strong>.</p> (Q1, IF 3.5)
     </div>
   </div>
 </section>
