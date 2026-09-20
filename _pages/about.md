@@ -10,8 +10,24 @@ redirect_from:
 
 <div class="home-top">
   <aside class="home-profile" aria-label="Profile">
-    {% include author-profile.html %}
-    <div class="home-profile__cv"><a href="CV_Ruru.pdf">View my CV</a></div>
+    <div class="home-profile__identity">
+      <img class="home-profile__avatar" src="images/android-chrome-512x512.png" alt="Ruru Xu">
+      <div class="home-profile__details">
+        <h2>Ruru Xu</h2>
+        <p class="home-profile__role">Incoming Postdoctoral Researcher<br>NYU Grossman School of Medicine</p>
+        <p class="home-profile__location">New York, NY</p>
+      </div>
+    </div>
+
+    <div class="home-profile__links" aria-label="Profile links">
+      <a href="mailto:xuru0927@gmail.com">Email</a>
+      <a href="https://scholar.google.com/citations?user=JM_78WgAAAAJ">Google Scholar</a>
+      <a href="https://github.com/Ruru-Xu">GitHub</a>
+      <a href="https://www.linkedin.com/in/ruru-xu-656975270/">LinkedIn</a>
+      <a href="https://instagram.com/ruruxu0927">Instagram</a>
+    </div>
+
+    <a class="home-profile__cv" href="CV_Ruru.pdf">View my CV</a>
   </aside>
 
   <div class="home-story">
