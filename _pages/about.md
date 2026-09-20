@@ -73,7 +73,7 @@ redirect_from:
     </div>
     <div class="news-item">
       <span class="news-date">2026.02</span>
-      <p>Article accepted in <strong>Pattern Recognition Letters</strong>.</p> (Q1, IF 3.5)
+      <p>Article accepted in <strong>Pattern Recognition Letters</strong>.(Q1, IF 3.5)</p>
     </div>
   </div>
 </section>
