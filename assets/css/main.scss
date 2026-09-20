@@ -605,7 +605,7 @@ $home-line: #e2e7e8;
   color: #fff !important;
 }
 
-/* A portrait 9:16 presentation area for the Beyond Research video. */
+/* A true 9:16 portrait presentation area for the Beyond Research video. */
 .beyond-video {
   display: flex;
   justify-content: center;
@@ -617,7 +617,7 @@ $home-line: #e2e7e8;
   height: auto !important;
   aspect-ratio: 9 / 16 !important;
   max-height: none !important;
-  object-fit: cover !important;
+  object-fit: contain !important;
   object-position: center !important;
 }
 
@@ -641,5 +641,52 @@ $home-line: #e2e7e8;
 
   .beyond-video__portrait {
     width: min(100%, 280px) !important;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Homepage v10: full-width sections, hover-pause marquee, mini video
+   -------------------------------------------------------------------------- */
+.research-section > p,
+.news-list {
+  max-width: none !important;
+}
+
+.moments-marquee:hover .moments-track,
+.moments-marquee:focus-within .moments-track {
+  animation-play-state: paused !important;
+}
+
+.moments-marquee {
+  cursor: pause;
+}
+
+.beyond-layout {
+  grid-template-columns: 200px minmax(0, 1fr) !important;
+  gap: 2.2em !important;
+}
+
+.beyond-video {
+  justify-content: flex-start !important;
+}
+
+.beyond-video__portrait {
+  width: 180px !important;
+  max-width: 180px !important;
+}
+
+@media screen and (max-width: 800px) {
+  .beyond-layout {
+    grid-template-columns: 1fr !important;
+    gap: 1.5em !important;
+  }
+
+  .beyond-video {
+    justify-content: flex-start !important;
+  }
+
+  .beyond-video__portrait {
+    width: 150px !important;
+    max-width: 150px !important;
   }
 }
