@@ -2,27 +2,31 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from:
 - /about/
 - /about.html
 ---
 
-<div class="home-intro">
-  <p class="home-intro__kicker">MRI Reconstruction · Medical Image Analysis · Computer Vision</p>
-  <h1>My Story</h1>
-</div>
+<div class="home-top">
+  <aside class="home-profile" aria-label="Profile">
+    {% include author-profile.html %}
+    <div class="home-profile__cv"><a href="CV_Ruru.pdf">View my CV</a></div>
+  </aside>
 
-<div class="story">
-  <p>I am a computer scientist working at the intersection of medical imaging and artificial intelligence. My research interests are centred on <strong>MRI reconstruction</strong>, <strong>medical image analysis</strong>, and <strong>computer vision</strong>.</p>
+  <div class="home-story">
+    <div class="story">
+      <p>I am a computer scientist working at the intersection of medical imaging and artificial intelligence. My research interests are centred on <strong>MRI reconstruction</strong>, <strong>medical image analysis</strong>, and <strong>computer vision</strong>.</p>
 
-  <p>I grew up in China and began my academic journey in Computer Science. During my Master's studies at the Shanghai Institute of Computing Technology, I worked mainly on computer vision and smart-city applications. From 2018 to 2020, I was fortunate to spend two years at Fudan University's Lab of Interactive Media Computing, where I worked with Professor Cheng Jin on computer vision problems including object detection, pedestrian recognition, instance segmentation, and autonomous driving.</p>
+      <p>I grew up in China and began my academic journey in Computer Science. During my Master's studies at the Shanghai Institute of Computing Technology, I worked mainly on computer vision and smart-city applications. From 2018 to 2020, I was fortunate to spend two years at Fudan University's Lab of Interactive Media Computing, where I worked with Professor Cheng Jin on computer vision problems including object detection, pedestrian recognition, instance segmentation, and autonomous driving.</p>
 
-  <p>In 2021, I moved to Istanbul to pursue my PhD in Computer Engineering at Istanbul Technical University under the supervision of Professor Ilkay Oksuz. My doctoral research focused on accelerated MRI sampling and reconstruction using deep learning and reinforcement learning. This gradually led me from computer vision towards medical imaging, and I became particularly interested in how machine learning can help us acquire less MRI data while still reconstructing diagnostically useful images.</p>
+      <p>In 2021, I moved to Istanbul to pursue my PhD in Computer Engineering at Istanbul Technical University under the supervision of Professor Ilkay Oksuz. My doctoral research focused on accelerated MRI sampling and reconstruction using deep learning and reinforcement learning. This gradually led me from computer vision towards medical imaging, and I became particularly interested in how machine learning can help us acquire less MRI data while still reconstructing diagnostically useful images.</p>
 
-  <p>After completing my PhD in 2026, I am continuing this research journey towards NYU Grossman School of Medicine, where I will work with Dr. Ilias Giannakopoulos on MRI motion correction and accelerated image reconstruction.</p>
+      <p>After completing my PhD in 2026, I am continuing this research journey towards NYU Grossman School of Medicine, where I will work with Dr. Ilias Giannakopoulos on MRI motion correction and accelerated image reconstruction.</p>
 
-  <p>Outside research, I enjoy travelling, long-distance cycling, hiking, photography, and exploring new places. I enjoy collecting small moments from the places where I study and work.</p>
+      <p>Outside research, I enjoy travelling, long-distance cycling, hiking, photography, and exploring new places. I enjoy collecting small moments from the places where I study and work.</p>
+    </div>
+  </div>
 </div>
 
 <span class="anchor" id="research-interests"></span>
@@ -72,25 +76,24 @@ redirect_from:
   <div class="section-heading">
     <h2>Moments</h2>
   </div>
-  <p class="section-intro">A few small memories from conferences and research. I will add more moments over time.</p>
+  <p class="section-intro">A few small memories from conferences and research.</p>
 
-  <div class="moments-grid">
-    <figure class="moment-card">
-      <img src="images/CMRxRecon2025-1.jpg" alt="CMRxRecon 2025" loading="lazy">
-      <figcaption>CMRxRecon 2025</figcaption>
-    </figure>
-    <figure class="moment-card">
-      <img src="images/CMRxRecon2025-2.jpg" alt="MICCAI 2025" loading="lazy">
-      <figcaption>MICCAI 2025</figcaption>
-    </figure>
-    <figure class="moment-card">
-      <img src="images/CMRxRecon2025-special.jpg" alt="CMRxRecon Special Tasks" loading="lazy">
-      <figcaption>CMRxRecon Special Tasks</figcaption>
-    </figure>
-    <figure class="moment-card">
-      <img src="images/CMRxRecon2024-1.jpg" alt="CMRxRecon 2024" loading="lazy">
-      <figcaption>CMRxRecon 2024</figcaption>
-    </figure>
+  <div class="moments-marquee" aria-label="Moments photo gallery">
+    <div class="moments-track">
+      <div class="moment-card"><img src="images/CMRxRecon2024-1.jpg" alt="CMRxRecon 2024" loading="lazy"><span>CMRxRecon 2024</span></div>
+      <div class="moment-card"><img src="images/CMRxRecon2025-1.jpg" alt="CMRxRecon 2025 Task 1" loading="lazy"><span>CMRxRecon 2025</span></div>
+      <div class="moment-card"><img src="images/CMRxRecon2025-2.jpg" alt="CMRxRecon 2025 Task 2" loading="lazy"><span>CMRxRecon 2025</span></div>
+      <div class="moment-card"><img src="images/CMRxRecon2025-special.jpg" alt="CMRxRecon Special Tasks" loading="lazy"><span>CMRxRecon Special Tasks</span></div>
+      <div class="moment-card"><img src="images/miccai2025paper1.png" alt="MICCAI 2025 presentation" loading="lazy"><span>MICCAI 2025</span></div>
+      <div class="moment-card"><img src="images/miccai2025paper2.png" alt="MICCAI 2025 presentation" loading="lazy"><span>MICCAI 2025</span></div>
+
+      <div class="moment-card" aria-hidden="true"><img src="images/CMRxRecon2024-1.jpg" alt="" loading="lazy"><span>CMRxRecon 2024</span></div>
+      <div class="moment-card" aria-hidden="true"><img src="images/CMRxRecon2025-1.jpg" alt="" loading="lazy"><span>CMRxRecon 2025</span></div>
+      <div class="moment-card" aria-hidden="true"><img src="images/CMRxRecon2025-2.jpg" alt="" loading="lazy"><span>CMRxRecon 2025</span></div>
+      <div class="moment-card" aria-hidden="true"><img src="images/CMRxRecon2025-special.jpg" alt="" loading="lazy"><span>CMRxRecon Special Tasks</span></div>
+      <div class="moment-card" aria-hidden="true"><img src="images/miccai2025paper1.png" alt="" loading="lazy"><span>MICCAI 2025</span></div>
+      <div class="moment-card" aria-hidden="true"><img src="images/miccai2025paper2.png" alt="" loading="lazy"><span>MICCAI 2025</span></div>
+    </div>
   </div>
 </section>
 
