@@ -20,27 +20,27 @@ redirect_from:
     </div>
 
     <div class="home-profile__links" aria-label="Profile links">
-      <a href="mailto:xuru0927@gmail.com">Email</a>
-      <a href="https://scholar.google.com/citations?user=JM_78WgAAAAJ">Google Scholar</a>
-      <a href="https://github.com/Ruru-Xu">GitHub</a>
-      <a href="https://www.linkedin.com/in/ruru-xu-656975270/">LinkedIn</a>
-      <a href="https://instagram.com/ruruxu0927">Instagram</a>
+      <a href="mailto:xuru0927@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i><span>Email</span></a>
+      <a href="https://scholar.google.com/citations?user=JM_78WgAAAAJ"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Scholar</span></a>
+      <a href="https://github.com/Ruru-Xu"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
+      <a href="https://www.linkedin.com/in/ruru-xu-656975270/"><i class="fab fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
+      <a href="https://instagram.com/ruruxu0927"><i class="fab fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>
     </div>
 
-    <a class="home-profile__cv" href="CV_Ruru.pdf">View my CV</a>
+    <a class="home-profile__cv" href="CV_Ruru.pdf"><i class="fas fa-file-alt" aria-hidden="true"></i> View my CV</a>
   </aside>
 
   <div class="home-story">
     <div class="story">
-      <p>I am a computer scientist working at the intersection of medical imaging and artificial intelligence. My research interests are centred on <strong>MRI reconstruction</strong>, <strong>medical image analysis</strong>, and <strong>computer vision</strong>.</p>
+      <p>I did not begin in medical imaging. I started in computer vision, moved into medical image analysis, and eventually became interested in a deeper question: <strong>can we make MRI acquisition itself more intelligent, rather than simply reconstructing whatever data the scanner has already collected?</strong></p>
 
-      <p>I grew up in China and began my academic journey in Computer Science. During my Master's studies at the Shanghai Institute of Computing Technology, I worked mainly on computer vision and smart-city applications. From 2018 to 2020, I was fortunate to spend two years at Fudan University's Lab of Interactive Media Computing, where I worked with Professor Cheng Jin on computer vision problems including object detection, pedestrian recognition, instance segmentation, and autonomous driving.</p>
+      <p>During my Master's studies, I worked on computer vision and spent two years at Fudan University's Lab of Interactive Media Computing, working with Professor Cheng Jin on object detection, pedestrian recognition, instance segmentation, and autonomous driving perception. Those projects gave me a foundation in visual understanding, but also made me curious about problems where the data itself is difficult, incomplete, or expensive to acquire.</p>
 
-      <p>In 2021, I moved to Istanbul to pursue my PhD in Computer Engineering at Istanbul Technical University under the supervision of Professor Ilkay Oksuz. My doctoral research focused on accelerated MRI sampling and reconstruction using deep learning and reinforcement learning. This gradually led me from computer vision towards medical imaging, and I became particularly interested in how machine learning can help us acquire less MRI data while still reconstructing diagnostically useful images.</p>
+      <p>That curiosity took me to Istanbul Technical University for my PhD. My doctoral research moved from <strong>image reconstruction to the acquisition process itself</strong>: using deep learning and reinforcement learning to decide which parts of k-space to measure, when to stop acquiring data, and how to preserve information that matters for downstream analysis. Our work was evaluated in the international CMRxRecon challenges, where our methods ranked among the top teams across multiple tasks.</p>
 
-      <p>After completing my PhD in 2026, I am continuing this research journey towards NYU Grossman School of Medicine, where I will work with Dr. Ilias Giannakopoulos on MRI motion correction and accelerated image reconstruction.</p>
+      <p>In 2026, I am taking the next step to NYU Grossman School of Medicine, where I will work with Dr. Ilias Giannakopoulos on <strong>MRI motion correction and accelerated reconstruction</strong>. It is a continuation of the same direction I have followed for years: combining machine learning with the physics and practical constraints of medical imaging to make MRI faster, more robust, and more useful.</p>
 
-      <p>Outside research, I enjoy travelling, long-distance cycling, hiking, photography, and exploring new places. I enjoy collecting small moments from the places where I study and work.</p>
+      <p>Outside the lab, I have always liked doing things that take me somewhere unfamiliar. I have cycled more than 5,000 km across China, travelled solo, hiked mountain ridges, and carried a camera through many of the places where I have lived. Research has taken me from China to Turkey and now to New York; the places outside the lab have shaped me just as much as the work inside it.</p>
     </div>
   </div>
 </div>
@@ -121,7 +121,7 @@ redirect_from:
   </div>
   <div class="beyond-layout">
     <div class="beyond-video">
-      <video controls preload="metadata" class="media-container">
+      <video controls preload="metadata" class="media-container beyond-video__portrait">
         <source src="video/hobbies1.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
