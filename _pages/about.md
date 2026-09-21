@@ -119,7 +119,7 @@ redirect_from:
       </video>
     </div>
     <div class="beyond-text">
-      <p>I have always enjoyed having a life outside the lab. During my Master's studies, I cycled more than 5,000 km across different provinces and cities in China. I also enjoy solo travel, hiking, photography, and reading Chinese poetry and literature.</p>
+      <p>I have always enjoyed having a life outside the lab. I cycled more than 5,000 km across different provinces and cities in China. I also enjoy solo travel, hiking, adventure, and reading Chinese poetry and literature.</p>
       <p>Living and studying in different places has been one of the most rewarding parts of my journey.</p>
     </div>
   </div>
