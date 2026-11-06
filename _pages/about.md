@@ -60,6 +60,10 @@ redirect_from:
 
   <div class="news-list">
     <div class="news-item">
+          <div class="news-item">
+      <span class="news-date">2026.11</span>
+      <p>Article accepted in <strong>Computer Methods and Programs in Biomedicine</strong>.(Q1, IF 6.4)</p>
+    </div>
       <span class="news-date">2026.07</span>
       <p>Two papers accepted at the <strong>MICCAI 2026 Workshop</strong>.</p>
     </div>
