@@ -61,7 +61,7 @@ redirect_from:
   <div class="news-list">
     <div class="news-item">
       <span class="news-date">2026.11</span>
-      <p>Article accepted in <strong>Computer Methods and Programs in Biomedicine</strong>.(Q1, IF 6.4)</p>
+      <p>Article accepted in <strong>Computer Methods and Programs in Biomedicine</strong> (Q1, IF 6.4)</p>
     </div>
     <div class="news-item">
       <span class="news-date">2026.07</span>
@@ -77,7 +77,7 @@ redirect_from:
     </div>
     <div class="news-item">
       <span class="news-date">2026.02</span>
-      <p>Article accepted in <strong>Pattern Recognition Letters</strong>.(Q1, IF 3.5)</p>
+      <p>Article accepted in <strong>Pattern Recognition Letters</strong> (Q1, IF 3.5)</p>
     </div>
   </div>
 </section>
